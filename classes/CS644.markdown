@@ -1,0 +1,19 @@
+---
+title: "CS644"
+layout: page
+permalink: "/academics/courses/CS644"
+---
+
+
+
+\
+**Operating Systems (3 credits)**
+
+---
+
+\
+Structure and dynamics of operating system software. Operating systems as event driven software: interrupt processing and asynchronous operation. Memory management, scheduling, concurrency, device drivers. UNIX as a major example.
+
+**Pre-requisites**
+\
+CS641 or permission of the instructor.

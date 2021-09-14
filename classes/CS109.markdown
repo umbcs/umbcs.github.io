@@ -1,0 +1,18 @@
+---
+title: "CS109"
+layout: page
+permalink: "/academics/courses/CS109"
+---
+
+
+
+\
+**Computer Programming for Engineering (3 credits)**
+
+---
+
+\
+An introduction to computer programming for engineering students. This course is not intended for computer science majors. Credit cannot be used to satisfy any requirement of computer science majors.
+**Pre-requisites:**
+\
+Completion of MATH 130 or equivalent of math placement exam.

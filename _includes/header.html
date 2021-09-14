@@ -1,0 +1,60 @@
+<header class="site-header" role="banner">
+  <div class="header-top">
+    <div class="wrapper">
+      <a href="https://www.umb.edu/">UMASS Boston</a>
+      <a href="{{site.baseurl}}/answers-to-faqs">FAQs</a>
+      <a href="https://portal.cs.umb.edu/registration/login/" target="_blank"
+        >Portal Login</a
+      >
+    </div>
+  </div>
+
+  <div class="header-bottom">
+    <div class="wrapper">
+      <p>Department of</p>
+      <p>COMPUTER SCIENCE</p>
+    </div>
+  </div>
+
+  <div class="header-menu">
+    <div class="wrapper">
+      <nav>
+        <input type="checkbox" id="drop" />
+        <label for="drop" class="toggle">Menu</label>
+        <ul class="menu">
+          <li><a href="{{ site.baseurl }}/">Home</a></li>
+          {% for menui in site.data.menu %}
+          <li>
+            <input type="checkbox" id="drop-{{ menui.title }}" />
+            <label for="drop-{{ menui.title }}" class="toggle"
+              >{{ menui.title }}</label
+            >
+            <a href="{{ site.baseurl }}/{{ menui.link }}">{{ menui.title }}</a>
+            {% if menui.submenu %}
+            <ul>
+              {% for submenui in menui.submenu %}
+              <li>
+                <a href="
+                  {% if submenui.url  %}
+                    {{ submenui.url }}
+                  {% else %}
+                    {{ site.baseurl }}/{{ submenui.link }}
+                  {% endif %}
+                "
+                  {% if submenui.target  %}
+                    target="{{ submenui.target }}"
+                  {% endif %}
+                >{{ submenui.title }}</a>
+              </li>
+              {% endfor %}
+            </ul>
+            {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </div>
+
+    <!-- This is a testing code-->
+  </div>
+</header>

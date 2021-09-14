@@ -1,0 +1,19 @@
+---
+title: "CS433"
+layout: page
+permalink: "/academics/courses/CS433"
+---
+
+
+
+\
+**Big Data Analytics (3 credits)**
+
+---
+
+\
+This course introduces methods and platforms for analyzing large amounts of data. Classical paradigms of parallel computing -- such as multithreading, message passing, and accelerator programming -- are presented. Machine learning and data mining techniques -- such as regression, clustering, classification, and deep learning -- are discussed. Platforms of computing with big data -- such as graph databases, distributed file systems, and map-reduce -- are introduced. This course prepares students to perform predictive modeling and explore large, complex datasets.
+
+**Pre-requisites:**
+\
+CS310, MATH 260, and MATH345; or permission of the instructor.

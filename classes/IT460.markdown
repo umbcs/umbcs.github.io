@@ -1,0 +1,19 @@
+---
+title: "IT460"
+layout: page
+permalink: "/academics/courses/IT460"
+---
+
+
+
+\
+**Integration Methodologies and Tools (3 credits)**
+
+---
+
+\
+This course develops an understanding of applications architecture based on building IT systems out of common parts and a service-oriented architecture. These are collections of information services, modules and functional components that can be reused in a variety of common contexts. The course will apply several tools to exemplify the use of heterogeneous reusable modules to fulfill an information service. An underlying methodology for integration will be applied.
+
+**Pre-requisites:**
+\
+60 credits.

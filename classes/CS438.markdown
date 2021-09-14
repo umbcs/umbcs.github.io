@@ -1,0 +1,23 @@
+---
+title: "CS438"
+layout: page
+permalink: "/academics/courses/CS438"
+---
+
+
+
+\
+**Applied Machine Learning (3 credits)**
+
+---
+
+\
+This course presents the practical side of machine learning for applications, such as pattern recognition from images or building predictive classifiers. Topics will include linear models for regression, decision trees, rule based classification, support vector machines, Bayesian networks, and clustering. The emphasis of the course will be on the hands-on application of machine learning to a variety of problems. This course does not assume any prior exposure to machine learning theory or practice.
+
+**Note:**
+\
+This course is co-taught with CS638.
+
+**Pre-requisites:**
+\
+CS 310

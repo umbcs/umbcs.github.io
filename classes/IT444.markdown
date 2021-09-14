@@ -1,0 +1,19 @@
+---
+title: "IT444"
+layout: page
+permalink: "/academics/courses/IT444"
+---
+
+
+
+\
+**Network Security Administration II (3 credits)**
+
+---
+
+\
+This course will focus on network protection (firewall implementation, site-to-site vpn configuration, and identity management), information gathering (port scan, service scan), and penetration testing (internal test and external test). The internal pen-test can cover vulnerability assessment including server vulnerabilities discovery, server attack, client side attack and social engineering attack.
+
+**Pre-requisites:**
+\
+IT 443

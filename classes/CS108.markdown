@@ -1,0 +1,41 @@
+---
+title: "CS108"
+layout: page
+permalink: "/academics/courses/CS108"
+---
+
+
+
+\
+**An Introduction to Python (3 credits)**
+
+---
+
+\
+An introduction to some of the basic issues in computation through exercises in Python programming. Students will write relatively simple programs in several application areas, e.g. mathematics, graphics and biology. This is a good course for those who have no programing experience and who want preparation for taking CS 110; students learn about using an editor, program design, implementation, and testing. This is also a good course for scientists who wish to learn a popular scientific scripting language.
+\
+**Pre-requisites**
+\
+Place into MATH 130 on the MATH Placement Exam.
+**Textbook(s)**
+\
+Title: Introduction to Programming in Java: An Interdisciplinary Approach
+Author(s): Robert Sedgewick, Kevin Wayne
+Publisher: Addison Wesley
+Edition:
+ISBN: 0321498054
+Title: Introduction to the Theory of Computation
+Author(s): Michael Sipser
+Publisher: Course Technology
+Edition:
+ISBN: 0534950973
+Title: Java Software Solutions: Foundations of Program Design
+Author(s): John Lewis and William Loftus
+Publisher: Addison Wesley
+Edition:
+ISBN: 0321532058
+Title: Structure and Interpretation of Computer Programs
+Author(s): Harold Abelson and Gerald Sussman
+Publisher: MIT Press
+Edition:
+ISBN: 0262011530

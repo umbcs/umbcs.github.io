@@ -1,0 +1,19 @@
+---
+title: "IT441"
+layout: page
+permalink: "/academics/courses/IT441"
+---
+
+
+
+\
+**Network Services Administration (3 credits)**
+
+---
+
+\
+This course builds upon the material learned in IT341 Introduction to System Administration. It shows how one may better administer networked computer systems by automating many of the administration regimes and by effectively managing those who help. Topics include scripting, heterogeneous networks, remote management, the legal issues of network administration, an introduction to network security, and the design and implementation of policy. Students are also introduced to issues in managing others.
+
+**Pre-requisites:**
+\
+IT341.

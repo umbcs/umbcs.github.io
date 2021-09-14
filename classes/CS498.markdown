@@ -1,0 +1,23 @@
+---
+title: "CS498"
+layout: page
+permalink: "/academics/courses/CS498"
+---
+
+
+
+\
+**Honors Thesis (1-3 credits)**
+
+---
+
+\
+The design and execution of a significant research project under the guidance of a faculty advisor. Successful completion and oral defense of the thesis is necessary to qualify for Honors in Computer Science. Both the instructor and the project must be chosen and approved prior to the start of the course.
+
+**Note:**
+\
+Successful completion and oral defense of the honors thesis is necessary to qualify for departmental honors in computer science. Both the instructor and the project must be chosen and approved prior to the start of the semester. Forms to enroll in the course can be found here.
+
+**Pre-requisites:**
+\
+Overall of GPA of 3.0 and GPA of 3.5 in the major; CS310 and CS420 and permission of instructor and department chair. Students are encouraged to take CS478 the semester before CS498 in order to undertake background research, formulate a successful project proposal, and present the proposal to the department.

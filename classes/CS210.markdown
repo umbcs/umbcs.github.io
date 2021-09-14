@@ -1,0 +1,19 @@
+---
+title: "CS210"
+layout: page
+permalink: "/academics/courses/CS210"
+---
+
+
+
+\
+**Intermediate Computing with Data Structures (4 credits)**
+
+---
+
+\
+The design and implementation of computer programs in a high-level language, with emphasis on proper design principles and advanced programming concepts, including dynamic data structures and recursion. The assignments are designed to introduce the student to a variety of topics in computing: data structures and ADTs, Lists, Stacks, Queues, Ordered Lists, Binary Trees, and searching and sorting techniques. CS 210L and IT 210L are the same course.
+
+**Pre-requisites:**
+\
+CS 110 or CS/IT 115L and MATH 130 or permission of instructor.

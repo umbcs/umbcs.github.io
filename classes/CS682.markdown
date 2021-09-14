@@ -1,0 +1,19 @@
+---
+title: "CS682"
+layout: page
+permalink: "/academics/courses/CS682"
+---
+
+
+
+\
+**Software Development Laboratory I (3 credits)**
+
+---
+
+\
+This is a laboratory course in which students, working in small groups, specify, design, implement, and document a large software project.
+
+**Co-requisites:**
+\
+CS681

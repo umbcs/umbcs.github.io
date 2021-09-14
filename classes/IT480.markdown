@@ -1,0 +1,19 @@
+---
+title: "IT480"
+layout: page
+permalink: "/academics/courses/IT480"
+---
+
+
+
+\
+**Special Topics (3 credits)**
+
+---
+
+\
+A course covering material not currently covered by others course. This course can serve as a trial run of material which will later be covered in a new course added to the catalog
+
+**Pre-requisites:**
+\
+IT443

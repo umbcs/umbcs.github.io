@@ -1,0 +1,19 @@
+---
+title: "IT442"
+layout: page
+permalink: "/academics/courses/IT442"
+---
+
+
+
+\
+**Windows System Administration (3 credits)**
+
+---
+
+\
+This is an introduction to the process of choosing, installing, configuring and maintaining Microsoft Windows client and server systems. Topics include user management, file systems, network domains and domain management, mailers, and printing. Students get practice in writing scripts for performing maintenance tasks. Also, students learn how these tasks fit into the more general system administration process.
+
+**Pre-requisites:**
+\
+IT341.

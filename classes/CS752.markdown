@@ -1,0 +1,19 @@
+---
+title: "CS752"
+layout: page
+permalink: "/academics/courses/CS752"
+---
+
+
+
+\
+**Parallel Programming (3 credits)**
+
+---
+
+\
+This course introduces the issues involved in parallel programming systems, including ease of programming, match between programming language and problem domain, and efficiency of the generated code. It explores and compares several parallel programming paradigms and investigates algorithms for scheduling parallel programs and for automatic parallelization of serial programs.
+
+**Pre-requisites:**
+\
+CS651.

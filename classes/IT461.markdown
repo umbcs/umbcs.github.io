@@ -1,0 +1,19 @@
+---
+title: "IT461"
+layout: page
+permalink: "/academics/courses/IT461"
+---
+
+
+
+\
+**System Analysis and Design (3 credits)**
+
+---
+
+\
+This course provides an introduction to the analysis and logical design of computer-based information systems. Information systems development is a process in which technical, organizational, and human aspects of a system are analyzed and changed in the hope of creating an improved system. In spite of the advanced technology that surrounds computer-based information systems, the process of systems analysis and design is still largely an art. There is a high dependence on the skills of individual analysts and designers even though there are principles, methods, techniques and tools to guide and assist in the processes involved. This course will give students an understanding of the tools and techniques that are available and will introduce the concepts and theory that underlie the processes.
+
+**Pre-requisites:**
+\
+60 credits.

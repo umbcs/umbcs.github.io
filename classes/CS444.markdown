@@ -1,0 +1,19 @@
+---
+title: "CS444"
+layout: page
+permalink: "/academics/courses/CS444"
+---
+
+
+
+\
+**Introduction to Operating Systems (3 credits)**
+
+---
+
+\
+Description of current operating systems, focusing on one or two in particular. Topics include defining the operating system as distinct from hardware on one side and software systems on the other, process concepts, memory management, CPU scheduling, device management, file systems, and network support.
+
+**Pre-requisites:**
+\
+CS 341 and CS 310

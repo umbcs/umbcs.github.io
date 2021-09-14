@@ -1,0 +1,19 @@
+---
+title: "IT230L"
+layout: page
+permalink: "/academics/courses/IT230L"
+---
+
+
+
+\
+**Relational Databases (3 credits)**
+
+---
+
+\
+This course provides a thorough review of basic relational database concepts and how to apply these concepts to a variety of application problems. The course focuses on the use and properties of relational database management systems. Topics covered include DBMS architecture levels, data modeling, data definition and manipulation capabilities of Structured Query Language programming, and programming techniques for accessing relational databases.
+
+**Note**
+\
+This course is cross-listed with the college of management.

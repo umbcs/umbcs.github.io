@@ -1,0 +1,15 @@
+---
+title: "IT244"
+layout: page
+permalink: "/academics/courses/IT244"
+---
+
+
+
+\
+**Introduction to Linux/Unix (3 credits)**
+
+---
+
+\
+A course designed to introduce students to Linux and UNIX. Students will install, set up, and operate standard tools and learn how they operate together. By course end students will have installed a fully functional Internet server while understanding its structure. Security issues of operating systems will be studied throughout the course.

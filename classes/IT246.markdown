@@ -1,0 +1,15 @@
+---
+title: "IT246"
+layout: page
+permalink: "/academics/courses/IT246"
+---
+
+
+
+\
+**Introduction to Networks (3 credits)**
+
+---
+
+\
+We will study basic data communication and networking concepts for LAN and WAN: network protocols with emphasis on Ethernet, PPP, TCP/IP, and WWW protocols, and mobile and wireless networks. Network applications include Telnet, ftp, email, distributed file systems, and client-server applications. We survey network security issues. We will do hands-on network simulation and network sniffing exercises to see how these technologies work in practice.

@@ -1,0 +1,20 @@
+---
+title: "CS119"
+layout: page
+permalink: "/academics/courses/CS119"
+---
+
+
+
+\
+**Computer Language Supplement (2 credits)**
+
+---
+
+\
+This course addresses the dilemma of students who studied the equivalent of CS110 in a language other than the one currently used in our CS110 and CS210 courses, but now need to learn the current language in order to take CS210. Such students can, with the permission of the department, register for CS119 for two credits. They then make arrangements to attend a section of CS110. They are required do all the assignments, examinations, etc., of regular CS110 students. Thus, in virtually all respects, students who register for CS119 are really CS110 students, except that CS119 meets no core curriculum requirement and does not count towards any computer science major requirement.
+\
+
+**Pre-requisites:**
+\
+Permission of the Computer Science department.

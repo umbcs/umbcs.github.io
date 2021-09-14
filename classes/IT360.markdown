@@ -1,0 +1,19 @@
+---
+title: "IT360"
+layout: page
+permalink: "/academics/courses/IT360"
+---
+
+
+
+\
+**Enterprise Software (3 credits)**
+
+---
+
+\
+This course explains the core applications of a typical organization to support their fundamental business functions. It explains the role of IT in attaining competitive advantage and how modern organizations configure commercially available products to satisfy their information needs. The course makes extensive use of collaborative technologies and business applications to demonstrate the work of virtual teams and how they implement their operations.
+
+**Pre-requisites:**
+\
+60 credits.

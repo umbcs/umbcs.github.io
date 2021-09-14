@@ -1,0 +1,19 @@
+---
+title: "IT472"
+layout: page
+permalink: "/academics/courses/IT472"
+---
+
+
+
+\
+**Data Mining for Management Applications (3 credits)**
+
+---
+
+\
+Data Mining provides a set of techniques that explore large quantities of data to discover meaningful patterns and make predictions. It helps businesses analyze data from different perspectives, gain insights into the vast amount of data extracted from internal and external sources, and to measure performance, reduce costs, and seek competitive advantage. As a result, data mining has become vital to most enterprises today. This course introduces data mining through an investigation of its underlying concepts, and explores practical methods for its application. Students will learn the appropriate use of several data mining methods based on unsupervised algorithms such as cluster analysis and association rules, and those based on supervised algorithms such as decision trees and neural networks. Students will gain experience with applications of data mining using current enterprise software such as IBM SPSS Modeler.
+
+**Pre-requisites:**
+\
+IT110 OR MSIS110 AND IT230L OR MSIS411

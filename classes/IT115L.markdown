@@ -1,0 +1,23 @@
+---
+title: "IT115L"
+layout: page
+permalink: "/academics/courses/IT115L"
+---
+
+
+
+\
+**Introduction to Java Part II (3 credits)**
+
+---
+
+\
+A second course in Java programming that exposes students to the concepts involved in using a higher-level, object-oriented programming language. This course, a continuation of IT114L, covers more advanced Java topics and gives students hands-on experience writing small and medium-size Java programs. This course and CS110 may not both be taken for credit.
+
+**Note:**
+\
+This course is cross-listed with CS115L.
+
+**Pre-requisites:**
+\
+IT114L.

@@ -1,0 +1,19 @@
+---
+title: "IT425L"
+layout: page
+permalink: "/academics/courses/IT425L"
+---
+
+
+
+\
+**Project Management (3 credits)**
+
+---
+
+\
+This course covers techniques and managerial concepts of project management. It prepares students to manage either complex physical projects or complex software development projects. Topics presented in this course include project life cycles, economic analysis of projects, work breakdown structure, cost estimation, and the scheduling, staffing, directing, and controlling of projects. The course also covers the use of management science techniques and computer software for project management.
+
+**Pre-requisites:**
+\
+60 credits.

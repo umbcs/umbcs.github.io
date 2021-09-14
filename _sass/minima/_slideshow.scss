@@ -1,0 +1,91 @@
+.slide-box {
+    display: block;
+    position: relative;
+    height: 400px;
+    width: 100%;
+    background-color: white;
+    overflow: hidden;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.slide-frames {
+    display: block;
+    height: 100%;
+    width: max-content;
+    margin-left: 0;
+    font-size: 0;
+    -webkit-transition: margin 4s;
+    -moz-transition: margin 4s;
+    -o-transition: margin 4s;
+    transition: margin 4s;
+}
+
+.slide-frame {
+    display: inline-block;
+    position: relative;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    width: 1140px;
+    background-color: white;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slide-box p, .slide-frame a {
+    display: block;
+    position: absolute;
+    margin: 0;
+    height: 50px;
+    line-height: 50px;
+    cursor: pointer;
+}
+
+.slide-frame a {
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba($color: $umass-blue, $alpha: .5);
+    color: white;
+    font-size: 20px;
+    padding-left: 20px;
+    text-decoration: none;
+}
+
+.slide-button {
+    bottom: 0;
+    right: 0;
+    width: 10%;
+    background-color: $umass-blue;
+    color: white;
+    text-align: center;
+}
+
+.slide-button:nth-child(2) {
+    right: 10%;
+}
+
+.slide-button:hover {
+    background-color: lighten($color: $umass-blue, $amount: 60%);
+    color: $umass-blue;
+}
+
+@media all and (max-width: 785px) {
+    .slide-box {
+        height: 150px;
+    }
+    .slide-button {
+        width: 50%;
+    }
+
+    .slide-button:nth-child(2) {
+        right: 50%;
+    }
+
+    .slide-frame a {
+        bottom: 50px;
+        height: 100px;
+    }
+}

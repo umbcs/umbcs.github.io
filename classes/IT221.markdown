@@ -1,0 +1,19 @@
+---
+title: "IT221"
+layout: page
+permalink: "/academics/courses/IT221"
+---
+
+
+
+\
+**Computer Forensics II (3 credits)**
+
+---
+
+\
+This course is designed to expose students to advanced concepts in digital/computer forensic analysis. As with Computer Forensics I, there will be a balance between legal and technical aspects, although this course will focus more on the use of specific tools. For example the students will practice Disk and other digital device analysis using professional proprietary widely-used software tools such as Encase.
+
+**Pre-requisites**
+\
+IT110 or MSIS110 or permission of instructor

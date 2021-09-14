@@ -1,0 +1,19 @@
+---
+title: "CS436"
+layout: page
+permalink: "/academics/courses/CS436"
+---
+
+
+
+\
+**Database Application Development (3 credits)**
+
+---
+
+\
+A study of database applications, that is, software systems that solve a particular real-world problem and hold their data in a relational database. The systems under study will also have a realistic user interface. Students will work in small groups on a real-world project specified and implemented during the term. Topics include system specification from user needs, analysis of dataflow and workflow, object design, database design, and client-server techniques.
+
+**Pre-requisites:**
+\
+CS 310 and CS 430

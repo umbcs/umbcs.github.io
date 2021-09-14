@@ -1,0 +1,22 @@
+---
+title: "CS110"
+layout: page
+permalink: "/academics/courses/CS110"
+---
+
+
+
+\
+**Introduction to Computing (4 credits)**
+
+---
+
+\
+An introduction to computer programming: the concepts involved in using a high-level language and the program development process. The goal of this course is proficiency in the design and implementation of programs of significant size and complexity. This course is quite demanding because of the length of the programming exercises assigned. This is the first course in the computer science major sequence.
+**Note:**
+\
+Credit toward a UMass Boston degree may be awarded for only one elementary programming course. Thus, no credit will be given for CS110 to a student who has already completed (or is concurrently taking) a similar course. For instance, if you received the equivalent of CS110 for transfer credit you cannot take CS110 for credit here. Students who are barred from receiving credit for CS110, but who are not fully prepared for CS210, should request permission to take CS119 as a means of remedying this deficiency.
+\
+**Pre-requisites:**
+\
+MATH 130 with a grade of B or better in the previous semester; or ALEKS placement for MATH 140

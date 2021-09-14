@@ -1,0 +1,47 @@
+.site-footer {
+  display: block;
+  padding: 0;
+  position: relative;
+  width: 100%;
+  background-color: #fafbfc;
+  background-image: url("../images/umbimage.png");
+  background-position: center left;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+.site-footer .wrapper {
+  display: block;
+  position: relative;
+}
+
+.footer-glass {
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100%;
+  background-color: rgba($color: $umass-blue, $alpha: 0.8);
+}
+
+.footer-blur {
+  display: block;
+  height: 100%;
+  width: 100%;
+  background-color: rgba($color: $umass-blue, $alpha: 0.6);
+}
+
+.footer-blur p {
+  color: white;
+  margin: 0;
+  text-align: center;
+}
+
+.footer-blur > p {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: rgba($color: white, $alpha: 0.7);
+}

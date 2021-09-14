@@ -1,0 +1,23 @@
+---
+title: "CS630"
+layout: page
+permalink: "/academics/courses/CS630"
+---
+
+
+
+\
+**Database Management Systems (3 credits)**
+
+---
+
+\
+Databases and database management systems. The entity/relationship model. The relational model. Relational algebra. The query language SQL. The object-relational model and SQL3. Embedded SQL in programs and dynamic SQL. Database administration: creating views and integrity constraints, handling data security. Functional dependencies. Normalization
+
+**Note:**
+\
+This course is co-taught with CS430.
+
+**Pre-requisites:**
+\
+CS240 and CS310 and permission of the instructor.

@@ -1,0 +1,19 @@
+---
+title: "IT285L"
+layout: page
+permalink: "/academics/courses/IT285L"
+---
+
+
+
+\
+**Introduction to Networks (3 credits)**
+
+---
+
+\
+This course explores some of the ethical and societal issues that are raised by computing. Topics include privacy, freedom of expression, intellectual property, liability, the effect of computing on social interaction, and human-computer interface issues. Students write an analytical paper on an appropriate topic and also present their findings to the class.
+
+**Note:**
+\
+This course is cross-listed with CS285L.

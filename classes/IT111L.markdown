@@ -1,0 +1,27 @@
+---
+title: "IT111L"
+layout: page
+permalink: "/academics/courses/IT111L"
+---
+
+
+
+\
+**Managerial Statistics (3 credits)**
+
+---
+
+\
+Provides the student with the basic statistical techniques needed for business decision making in areas such as operations management, quality improvement, marketing research, finance, and general management. The course examines collection and presentation of data, frequency distributions, basic probability, statistical inference, and regression. Students use statistical software for data presentation and analysis.
+
+**Note:**
+\
+This course is cross-listed with the college of management.
+
+**Pre-requisites:**
+\
+Math129 or Math130.
+
+**Co-requisites:**
+\
+IT110 or MSIS110.

@@ -1,0 +1,19 @@
+---
+title: "IT116"
+layout: page
+permalink: "/academics/courses/IT116"
+---
+
+
+
+\
+**Introduction to Scripting (1 credits)**
+
+---
+
+\
+Information Technology specialists do not spend most of their time programming, but they must perform many routine tasks to keep the systems maintained in good working order. Automating these routine tasks, allows this work to be performed quickly and consistently, freeing the specialist for work that requires time and judgement. This automation is accomplished by writing small programs which are specific to the task at hand. These programs are best written in programming languages which are simple and flexible. This makes languages designed for large projects, such as Java and C++, unsuitable for this task. To meet this need, scripting languages such as Perl, Python, and PHP have been created. These languages are designed to be easier to learn than more demanding programming languages such as Java, C and C++. This course will teach the basics of scripting language and show students how it can be used to automate routine system administration and workflow tasks.
+
+**Pre-requisites:**
+\
+Pre-req: MATH 115

@@ -1,0 +1,19 @@
+---
+title: "CS443"
+layout: page
+permalink: "/academics/courses/CS443"
+---
+
+
+
+\
+**Mobile Applications (3 credits)**
+
+---
+
+\
+Mobile devices are becoming ubiquitous along with the high demand for mobile applications serving corporations and millions of end-users. In this course, students will learn programming skills for developing mobile applications on the Android platform, which is the fastest growing mobile operating system. Android is open source and includes many libraries that can help developers easily implement rich and complex applications. Students in this course will learn how to create, test,and deploy Android applications. Solid skills of Java programming and application development are necessary for successful completion of this course.
+
+**Pre-requisites:**
+\
+CS 310

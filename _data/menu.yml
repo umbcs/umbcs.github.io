@@ -1,0 +1,80 @@
+- title: About
+  link: about
+  submenu:
+    - title: Contact Us
+      link: contact-us
+    - title: Department
+      link: department
+    - title: Facilities
+      link: facilities
+    - title: Getting Here
+      link: getting-here
+
+- title: Academics
+  link: academics
+  submenu:
+    - title: Admissions
+      link: admissions
+    - title: Certificate Programs
+      link: certificate-programs
+    - title: Course Schedule
+      link: course-schedule
+    - title: Courses
+      link: courses
+    - title: CS Minor
+      link: cs-minor
+    - title: Graduate Programs
+      link: graduate-programs
+    - title: Honors Programs
+      link: honors-programs
+    - title: Student Funding
+      link: student-funding
+    - title: Undergraduate Programs
+      link: undergraduate-programs
+
+- title: News
+  link: news-and-events
+  submenu:
+    - title: Announcements
+      link: announcements
+    - title: Colloquia
+      link: colloquia
+    - title: Events Calendar
+      link: events-calendar
+    - title: Faculty Search
+      link: faculty-search
+    - title: Jobs and Interships
+      link: jobs-and-internships
+    - title: Staff Search
+      link: staff-search
+
+- title: People
+  link: people
+  submenu:
+    - title: Faculty
+      link: faculty
+    - title: Staff
+      link: staff
+
+- title: Research
+  link: research
+  submenu:
+    - title: Funding
+      link: funding
+    - title: Groups
+      link: groups
+
+- title: Resources
+  link: resources
+  submenu:
+    - title: CS Department IT Policies and Procedures
+      link: CS_dept_IT_Policies.pdf
+      target: _blank
+    - title: Dreamspark/Microsoft Imagine
+      url: https://e5.onthehub.com/WebStore/Security/Signin.aspx?ws=9bd8fe3d-d29b-e011-969d-0030487d8897&vsro=8&rurl=%2fWebStore%2fProductsByMajorVersionList.aspx%3fws%3d9bd8fe3d-d29b-e011-969d-0030487d8897%26vsro%3d8%26JSEnabled%3d1
+      target: _blank
+    - title: Office Hours
+      link: office-hours
+    - title: VMware
+      url: https://e5.onthehub.com/WebStore/Security/Signin.aspx?ws=41b75fa9-1473-de11-b7f9-0030487d8896&vsro=8&rurl=%2fWebStore%2fAccount%2fYourAccount.aspx%3fws%3d41b75fa91473-de11-b7f9-0030487d8896%26vsro%3d8&JSEnabled=1
+      target: _blank

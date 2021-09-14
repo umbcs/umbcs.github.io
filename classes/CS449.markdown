@@ -1,0 +1,19 @@
+---
+title: "CS449"
+layout: page
+permalink: "/academics/courses/CS449"
+---
+
+
+
+\
+**Introduction to Computer Security (3 credits)**
+
+---
+
+\
+The course will provide an introduction to the fundamentals of computer security, and will cover both general theoretical aspects as well as applied methods of computer security. The course will address the general concepts of confidentiality, integrity and availability of digital information, and will focus on aspects such as: risks and vulnerabilities; models and policies for access control; program security - buffer overflow attacks, malware, viruses; browser security; authentication and authorization; encryption; and an overview of applied data, operating system and network security (with emphasis on Internet security). The course will also address the aspect of privacy, which is tightly related to security and is becoming increasingly important in today's digital society.
+
+**Pre-requisites:**
+\
+CS 310 and CS 341

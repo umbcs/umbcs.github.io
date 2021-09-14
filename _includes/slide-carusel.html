@@ -1,0 +1,13 @@
+<div class="slide-box">
+    <div class="slide-frames">
+      {% for pg in site.pages %}
+        {% if pg.layout == 'slideshow' %}
+      <div class="slide-frame" style="background-image: url('slideshow/{{ pg.img }}')">
+        <a href="{{ site.baseurl }}/{{ pg.url }}">{{ pg.title }}</a>
+      </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+    <p class="slide-button" onclick="next(0, true)">left</p>
+    <p class="slide-button" onclick="next(1, true)">right</p>
+  </div>

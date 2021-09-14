@@ -1,0 +1,19 @@
+---
+title: "CS341"
+layout: page
+permalink: "/academics/courses/CS341"
+---
+
+
+
+\
+**Computer Architecture and Organization (3 credits)**
+
+---
+
+\
+This is the lab section for CS341L.
+
+**Co-requisites:**
+\
+CS341L

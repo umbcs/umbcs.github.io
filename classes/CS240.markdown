@@ -1,0 +1,19 @@
+---
+title: "CS240"
+layout: page
+permalink: "/academics/courses/CS240"
+---
+
+
+
+\
+**Programming in C (3 credits)**
+
+---
+
+\
+C programming for programmers with prior knowledge of some high-level language (e.g., one semester of programming in Java). The course treats C as a machine-level language and as a general-purpose language; it covers number representation, masking, bitwise operations, and memory allocation, as well as more general topics such as dynamic data structures, file I/O, separate compilation, program development tools, and debugging.
+
+**Pre-requisites:**
+\
+CS 110 or CS/IT 115L

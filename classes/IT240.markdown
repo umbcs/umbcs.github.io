@@ -1,0 +1,19 @@
+---
+title: "IT240"
+layout: page
+permalink: "/academics/courses/IT240"
+---
+
+
+
+\
+**Web Fluency (3 credits)**
+
+---
+
+\
+This course develop an in-depth understanding of how the web works from a technical standpoint, meaning how dynamic pages are created and delivered by web servers, and then used by browsers and other clients. Students demonstrate this understanding by achieving competency by using a current integrated development environment (IDE) to develop web applications.
+
+**Note**
+\
+This course is cross-listed with the college of management.

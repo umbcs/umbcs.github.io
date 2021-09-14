@@ -1,0 +1,19 @@
+---
+title: "CS620"
+layout: page
+permalink: "/academics/courses/CS620"
+---
+
+
+
+\
+**Theory of Computation (3 credits)**
+
+---
+
+\
+Functions computable by programs. Recursive functions and Turing machines; simulation and diagonalization. Universality and unsolvable problems. Kleene's hierarchy and the recursion theorem. Gregorczyk's hierarchy and Ackermann's function. Abstract complexity. Formal languages and classes of automata. Inherently difficult combinatorial problems.
+
+**Pre-requisites:**
+\
+CS220/CS320L/MATH320L

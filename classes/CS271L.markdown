@@ -1,0 +1,23 @@
+---
+title: "CS271L"
+layout: page
+permalink: "/academics/courses/CS271L"
+---
+
+
+
+\
+**Introduction to Cognitive Science (3 credits)**
+
+---
+
+\
+Cognitive science is an interdisciplinary field fundamentally concerned with furthering our understanding of the development, underlying processes, and implementation of language, perception, problem-solving, learning, memory, and other intelligent capacities. This course offers an introduction to this science for all levels of undergraduate majors in psychology, computer science, biology, and other related fields.CS 271L and PSYCH 271L are the same course
+
+**Note:**
+\
+This course is cross-listed with the psychology department.
+
+**Pre-requisites:**
+\
+None.

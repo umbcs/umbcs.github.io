@@ -1,0 +1,19 @@
+---
+title: "IT220"
+layout: page
+permalink: "/academics/courses/IT220"
+---
+
+
+
+\
+**Computer Forensics I (3 credits)**
+
+---
+
+\
+This course covers topics related to computer forensics and criminal justice and is, by its nature, a multi-disciplinary course. Forensics is the use of science in a course of law. Computer Forensics and this course looks specifically at how one obtains evidence off of a computer, other digital devices and from network messages and logs, preserving the evidentiary chain, and the legal aspects of the search and seizure of computers and related equipment/information.
+
+**Pre-requisites**
+\
+IT110 or MSIS110 or permission of instructor

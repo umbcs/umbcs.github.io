@@ -1,0 +1,19 @@
+---
+title: "CS642"
+layout: page
+permalink: "/academics/courses/CS642"
+---
+
+
+
+\
+**Cybersecurity in the Internet of Things (3 credits)**
+
+---
+
+\
+This course aims to introduce the concept of IoT and its impact on our daily lives, to understand the architecture and components of IoT, and to address the challenges and solutions of deploying IoT in reality. Students will learn how to make design trade-offs between communication and computation costs and between hardware and software. In addition, cybersecurity is a critical design issue of the IoT system. From this course, students will become aware of the cybersecurity issues raised by IoT and gain the knowledge of the related security techniques. Students will also gain hands-on experiences on building IoT devices and implementing security techniques through team projects.
+
+**Pre-requisites**
+\
+CS310

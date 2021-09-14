@@ -1,0 +1,15 @@
+---
+title: "IT471"
+layout: page
+permalink: "/academics/courses/IT471"
+---
+
+
+
+\
+**Data Warehousing for Business Intelligence (3 credits)**
+
+---
+
+\
+This course provides students with the technical skills required to plan and implement a data warehouse using a database management system. It describes basic data warehousing concepts. The course covers design and implementation of data marts and operational data stores. Topics include dimensional data modeling for warehouses, CUBES and storage modes including MOLAP, ROLAP and HOLAP, and data warehousing infrastructure and analytical service tool selection. This course involves designing a data warehousing system and the implementation of a database with a stare schema, gathering data from primary data sources, transforming data, and loading it into a database management system. Students create cubes using OLAP and analyze cube data using client application.

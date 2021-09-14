@@ -1,0 +1,19 @@
+---
+title: "CS612"
+layout: page
+permalink: "/academics/courses/CS612"
+---
+
+
+
+\
+**Algorithms in Bioinformatics (3 credits)**
+
+---
+
+\
+The course will introduce students to bioinformatics - the area concerning the development and application of computational methods to address key problems in biology. It will introduce the students to a variety of methods and skills required to conduct research in this popular field. The emphasis of the course is algorithmic methods in structural bioinformatics with a focus on various computational methods to simulate, analyze, and model protein structure, dynamic, and function.
+
+**Pre-requisites:**
+\
+CS210 and Math260.

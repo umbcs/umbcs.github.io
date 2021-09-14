@@ -1,0 +1,23 @@
+---
+title: "CS285L"
+layout: page
+permalink: "/academics/courses/CS285L"
+---
+
+
+
+\
+**Social Issues and Ethics in Computing (3 credits)**
+
+---
+
+\
+This course explores some of the ethical and societal issues that are raised by computing. Topics include privacy, freedom of expression, intellectual property, liability, the effect of computing on social interaction, and human-computer interface issues. Students write an analytical paper on an appropriate topic and also present their findings to the class.CS 285L and IT 285L are the same course.
+
+**Note:**
+\
+This course is cross-listed with IT285L.
+
+**Pre-requisites:**
+\
+None.

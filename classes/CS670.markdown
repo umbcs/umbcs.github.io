@@ -1,0 +1,23 @@
+---
+title: "CS670"
+layout: page
+permalink: "/academics/courses/CS670"
+---
+
+
+
+\
+**Artificial Intelligence (3 credits)**
+
+---
+
+\
+A broad technical introduction to the techniques that enable computers to behave intelligently: problem solving and game playing, knowledge representation and reasoning, planning and decision making, learning, perception and interpretation. The application of these techniques to real-world systems, with some programming in LISP.
+
+**Note:**
+\
+This course is co-taught with CS470.
+
+**Pre-requisites**
+\
+CS310, CS220/CS320L/MATH320L and MATH470

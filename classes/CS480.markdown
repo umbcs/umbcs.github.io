@@ -1,0 +1,19 @@
+---
+title: "CS480"
+layout: page
+permalink: "/academics/courses/CS480"
+---
+
+
+
+\
+**Special Topics (3 credits)**
+
+---
+
+\
+An advanced course offering intensive study of selected topics in computer science. Course content varies and will be announced prior to registration.
+
+**Pre-requisites:**
+\
+Permission of the department chair.

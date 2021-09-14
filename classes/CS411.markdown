@@ -1,0 +1,19 @@
+---
+title: "CS411"
+layout: page
+permalink: "/academics/courses/CS411"
+---
+
+
+
+\
+**Competitive Programming (3 credits)**
+
+---
+
+\
+This is an undergraduate course on time-constrained problem solving in computing.Intended for students who want to excel in programming, this course covers a core set of algorithms, programming techniques, and computing background information that are useful for recognizing, understanding, and solving programming challenges in a time-constrained environment.
+
+**Pre-requisites:**
+\
+CS 310 and CS 220/CS 320L

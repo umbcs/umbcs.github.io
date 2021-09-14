@@ -1,0 +1,19 @@
+---
+title: "CS699"
+layout: page
+permalink: "/academics/courses/CS699"
+---
+
+
+
+\
+**Research for MS Thesis (3 credits)**
+
+---
+
+\
+A one-semester supervised practicum course to help students complete the required thesis, which must be a substantial piece of research on some aspect of computer science. The master's thesis may take the form of a theoretical paper or a report on a piece of software.
+
+**Pre-requisites:**
+\
+15 graduate credits.

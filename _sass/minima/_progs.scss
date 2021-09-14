@@ -1,0 +1,147 @@
+.progs,
+.progs div {
+  display: flex;
+  position: relative;
+}
+
+.progs {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.progs > div {
+  flex-grow: 1;
+  flex-basis: 0;
+  background-color: grey;
+  margin-right: 40px;
+  height: 200px;
+  background-position: center left;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+.progs > div:nth-child(4) {
+  margin-right: 0;
+}
+
+.progs div div {
+  display: block;
+  position: absolute;
+  height: 200px;
+  width: 100%;
+  top: 150px;
+  left: 0;
+  background-color: rgba($color: $umass-blue, $alpha: 0.6);
+  -webkit-transition: top .5s linear;
+  -moz-transition: top .5s linear;
+  -o-transition: top .5s linear;
+  transition: top .5s linear;
+}
+
+.progs > div:nth-child(2) div {
+  background-color: rgba($color: #458a00, $alpha: 0.6);
+}
+
+.progs > div:nth-child(3) div {
+  background-color: rgba($color: #8a0022, $alpha: 0.6);
+}
+
+.progs > div:nth-child(4) div {
+  background-color: rgba($color: #008a67, $alpha: 0.6);
+}
+
+.progs div:hover > div {
+  top: 0;
+}
+
+.progs div div p {
+  display: block;
+
+  color: white;
+  width: 100%;
+  text-align: center;
+  font-size: 20px;
+  padding-top: 10px;
+}
+
+.progs div div p:nth-child(2) {
+  width: calc(100% - 20px);
+  font-size: 14px;
+  text-align: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.progs div div a {
+  display: block;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  background-color: $umass-blue;
+  color: $umass-grey;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-weight: bold;
+}
+
+.progs > div:nth-child(2) div a {
+  background-color: #458a00;
+}
+
+.progs > div:nth-child(3) div a {
+  background-color: #8a0022;
+}
+
+.progs > div:nth-child(4) div a {
+  background-color: #008a67;
+}
+
+.progs div div a:hover {
+  background-color: $umass-grey;
+  color: $umass-blue;
+}
+
+.progs > div:first-child {
+  background-image: url("../images/undergrad.jpg");
+}
+
+.progs > div:nth-child(2) {
+  background-image: url("../images/grad.jpg");
+}
+
+.progs > div:nth-child(3) {
+  background-image: url("../images/honors.jpg");
+}
+
+.progs > div:nth-child(4) {
+  background-image: url("../images/certificate.jpg");
+}
+
+@media all and (max-width: 990px) {
+  .progs,
+  .progs div {
+    display: block;
+  }
+
+  .progs > div {
+    flex-grow: none;
+    flex-basis: none;
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+
+  .progs div div {
+    top: 0;
+  }
+
+  .progs div div a {
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+  }
+}

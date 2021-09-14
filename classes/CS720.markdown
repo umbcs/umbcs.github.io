@@ -1,0 +1,19 @@
+---
+title: "CS720"
+layout: page
+permalink: "/academics/courses/CS720"
+---
+
+
+
+\
+**Logical Foundations in Computer Science (3 credits)**
+
+---
+
+\
+The course treats the logical foundations of computer science in a mathematically rigorous way but with emphasis on the applications of logic in computer science. Topics include the syntax and semantics of predicate logic, formal systems for predicate logic, many-sorted logic, and logic programming. Additional topics may include equational logic, algebraic specification, term rewriting, program verification, nonstandard logic, and databases. Students are expected to demonstrate an understanding of theoretical material and the ability to apply it.
+
+**Pre-requisites:**
+\
+Math470 or equivalent and permission of the instructor.

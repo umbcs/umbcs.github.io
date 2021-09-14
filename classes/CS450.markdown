@@ -1,0 +1,30 @@
+---
+title: "CS450"
+layout: page
+permalink: "/academics/courses/CS450"
+---
+
+
+
+\
+**The Structure of Higher Level Languages (3 credits)**
+
+---
+
+\
+The syntax and semantics of higher-level languages are treated. Formal specifications of syntax and models of semantics will be used. Important topics include mechanisms for parameter passing, scoping, dynamic storage allocation and systems interfacing. Both compiled and interpreted languages will be used as examples. The language of instruction is Scheme, a dialect of LISP, which is taught in the course.
+
+**Note:**
+\
+Fall 2015 Course Website
+
+**Pre-requisites:**
+\
+CS 220 and CS 310
+
+**Textbook(s)**
+Title: Structure and Interpretation of Computer Programs
+Author(s): Harold Abelson and Gerald Sussman
+Publisher: MIT Press
+Edition:
+ISBN: 0262011530

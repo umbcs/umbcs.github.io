@@ -1,0 +1,19 @@
+---
+title: "CS495"
+layout: page
+permalink: "/academics/courses/CS495"
+---
+
+
+
+\
+**Practicum in Computer Science (1 credits)**
+
+---
+
+\
+This course is intended to enhance academic studies by providing an industrial context for learning new concepts and skills. It will help to prepare the student for the transition from an academic program to eventual employment in the computer industry. This course is not open to graduate students.
+
+**Pre-requisites:**
+\
+Permission of the instructor.

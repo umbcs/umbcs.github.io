@@ -1,0 +1,19 @@
+---
+title: "CS461"
+layout: page
+permalink: "/academics/courses/CS461"
+---
+
+
+
+\
+**Computer Games Programming (3 credits)**
+
+---
+
+\
+This course covers the game development pipeline, from modeling of virtual environments and gaming assets, to interactive rendering and real-time physics-based simulation in virtual environments. The syllabus is centered on the essential components of a game engine. Special technical issues in game development will also be discussed, such as real-time interactivity, scalability of modeling techniques and the use of the latest virtual reality devices to enhance gaming experience. Students are required to implement some of the standard techniques adopted in common game engines. Students also need to team up to develop their own games using a game engine. The goal of this course is to prepare students for a career as a game developer.
+
+**Pre-requisites:**
+\
+CS 310

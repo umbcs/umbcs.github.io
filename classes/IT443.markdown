@@ -1,0 +1,19 @@
+---
+title: "IT443"
+layout: page
+permalink: "/academics/courses/IT443"
+---
+
+
+
+\
+**Network Security Administration (3 credits)**
+
+---
+
+\
+This course explores the application of policy and techniques to securing both public and private networks. The course is project-based and includes such topics as threat analysis and management, cryptography, firewalls, isolation, issues in securing wireless networks, and certificates.
+
+**Pre-requisites:**
+\
+IT341.

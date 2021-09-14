@@ -1,0 +1,23 @@
+---
+title: "CS451"
+layout: page
+permalink: "/academics/courses/CS451"
+---
+
+
+
+\
+**Compilers (3 credits)**
+
+---
+
+\
+Introduction to compiler organization and implementation, including formal specifications and algorithms for lexical and syntactic analysis, internal representation of the source program, semantic analysis, run-time environment issues and code generation. Students will write a compiler for a reasonably large subset of a contemporary language, targeted to a virtual machine.
+
+**Note:**
+\
+This course is co-taught with CS651.
+
+**Pre-requisites:**
+\
+CS 310, and CS 420 or 622

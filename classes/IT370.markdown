@@ -1,0 +1,19 @@
+---
+title: "IT370"
+layout: page
+permalink: "/academics/courses/IT370"
+---
+
+
+
+\
+**Business Intelligence Applications (3 credits)**
+
+---
+
+\
+This course introduces concepts in business intelligence and explores how business intelligence (BI) can help improve management effectiveness through better decision-making in several functional areas such as marketing, finance, and manufacturing. This course will explore applications of BI, such as online analytical processing (OLAP), dashboards, management reporting, performance measurement, and data visualization, and how these are developed and applied. It will also investigate BI in the context of decision-making and closely related areas such as data warehousing, data marts, business analytics, web analytics, real-time data, and mobile applications. Students will gain hands-on experience through assignments and projects using a comprehensive set of current BI tools.
+
+**Pre-requisites:**
+\
+IT110 OR MSIS110 AND IT230L OR MSIS411

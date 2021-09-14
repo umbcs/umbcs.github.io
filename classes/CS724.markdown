@@ -1,0 +1,19 @@
+---
+title: "CS724"
+layout: page
+permalink: "/academics/courses/CS724"
+---
+
+
+
+\
+**Topics in Algorithm Theory and Design (3 credits)**
+
+---
+
+\
+An examination of current topics in algorithm analysis and design: complexity classes, abstract complexity theory, generating functions. Topics may include genetic algorithms, string matching algorithms, and circuit complexity.
+
+**Pre-requisites:**
+\
+CS624 or equivalent and permission of the instructor.

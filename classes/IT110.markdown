@@ -1,0 +1,19 @@
+---
+title: "IT110"
+layout: page
+permalink: "/academics/courses/IT110"
+---
+
+
+
+\
+**IT Problem Solving (3 credits)**
+
+---
+
+\
+Several IT concepts are introduced including programming, databases, networking, web servers and how they work together in a modern system. Students work in groups to implement examples of these systems. The course examines the importance of key issues such as security and human-computer interaction (HCI). Students should leave the course with an understanding of the components of modern systems and the scope of knowledge needed to become an IT professional.
+
+**Pre-requisites:**
+\
+Placement into Math115.

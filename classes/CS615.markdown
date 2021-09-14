@@ -1,0 +1,19 @@
+---
+title: "CS615"
+layout: page
+permalink: "/academics/courses/CS615"
+---
+
+
+
+\
+**User Interface Design (3 credits)**
+
+---
+
+\
+An introduction to user interface design, which encompasses design of the user interface and the functional design of the whole system. Students read and critique papers and articles, evaluate and critique existing user interfaces, and design interfaces of their own. Working in small groups, students use either interface prototyping tools or conventional rapid prototyping systems to construct an experimental interface.
+
+**Pre-requisites:**
+\
+CS310 and CS220/CS320L/MATH320L or permission of the instructor.

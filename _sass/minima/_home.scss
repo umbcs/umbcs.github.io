@@ -1,0 +1,30 @@
+.home-back,
+.home-top,
+.home-back-slide,
+.home-back-slide-cover {
+  width: 100%;
+  display: block;
+  overflow: hidden;
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
+.home-top {
+  background-color: $background-color;
+}
+
+.home-back-slide {
+  background-color: $background-color;
+  background-position: center left;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  -webkit-transition: background-image 3s;
+  -moz-transition: background-image 3s;
+  -o-transition: background-image 3s;
+  transition: background-image 3s;
+}
+
+.home-back-slide-cover {
+  background-color: rgba($color: $background-color, $alpha: 0.9);
+}

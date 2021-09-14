@@ -1,0 +1,23 @@
+---
+title: "CS637"
+layout: page
+permalink: "/academics/courses/CS637"
+---
+
+
+
+\
+**Database-Backed Web Sites and Web Services (3 credits)**
+
+---
+
+\
+The design and implementation of database-backed websites. Static sites, dynamic sites, and sites that act as interfaces to relational database systems, providing for web-based collaboration through scalable online communities. Students install and maintain their own web servers, extend existing tool sets, and build their own sites from scratch in a series of intensive programming projects.
+
+**Note:**
+\
+This course is co-taught with CS437.
+
+**Pre-requisites:**
+\
+CS430 or CS630 and CS451 or CS651.

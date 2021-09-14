@@ -1,0 +1,23 @@
+---
+title: "CS470"
+layout: page
+permalink: "/academics/courses/CS470"
+---
+
+
+
+\
+**Introduction to Artificial Intelligence (3 credits)**
+
+---
+
+\
+An introduction to the main techniques of artificial intelligence: state-space search methods, semantic networks, theorem-proving and production rule systems. Important applications of these techniques will be presented. Students will be expected to write programs exemplifying some of these techniques using the LISP language.
+
+**Note:**
+\
+This course is co-taught with CS670.
+
+**Pre-requisites:**
+\
+CS 310 and CS 220

@@ -1,0 +1,19 @@
+---
+title: "CS613"
+layout: page
+permalink: "/academics/courses/CS613"
+---
+
+
+
+\
+**Applied Cryptography (3 credits)**
+
+---
+
+\
+This course aims to introduce fundamental and practical knowledge of cryptography and its applications. This course covers diverse topics on cryptography and network security techniques including conventional encryption, asymmetric and symmetric cryptology, digital signatures, certificates, key exchange, key management, authentication, network access control, cloud computing security, electronic mail security, advanced crypto primitives, bitcoin, blockchain, and differential privacy. This course focuses on both theoretical aspects and practical applications of cryptanalysis and network security techniques.
+
+**Pre-requisites:**
+\
+CS310

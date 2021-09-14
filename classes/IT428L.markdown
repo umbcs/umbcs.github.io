@@ -1,0 +1,15 @@
+---
+title: "IT428L"
+layout: page
+permalink: "/academics/courses/IT428L"
+---
+
+
+
+\
+**Information System Security (3 credits)**
+
+---
+
+\
+This course provides a broad overview of the threats to the security of information systems, the responsibilities and basic tools to ensure information security, and the levels of training and expertise needed in organizations to reach and maintain a state of acceptable security. Students will learn and understand the key issues associated with protecting information assets, determining the levels of protection and response to security incidents, and designing a consistent, reasonable information security system, with appropriate intrusion detection and reporting features. IT 428L and MSIS 428L are the same course.

@@ -1,0 +1,19 @@
+---
+title: "CS220"
+layout: page
+permalink: "/academics/courses/CS220"
+---
+
+
+
+\
+**Applied Discrete Mathematics (3 credits)**
+
+---
+
+\
+An introduction to the mathematical structures and concepts used in computing: sets, mathematical induction, ordered sets, Boolean algebras, predicate calculus, trees, relations and lattice theory. Formal and informal theories and corresponding mathematical proofs are taught.Students may not receive credit for both MATH 320 and CS 220.Students may not take MATH 320 to receive a better grade in previously taken CS/MATH 320L.
+
+**Pre-requisites:**
+\
+CS110, MATH 140; or permission from the instructor.

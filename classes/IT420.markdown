@@ -1,0 +1,15 @@
+---
+title: "IT420"
+layout: page
+permalink: "/academics/courses/IT420"
+---
+
+
+
+\
+**Network and Mobile Forensics (3 credits)**
+
+---
+
+\
+This course deals with the collection, preservation, and analysis of network generated digital evidence such that this evidence can be successfully presented ina court of law (both civil and criminal). The course provides a comprehnsive understanding of network forensic analysis principles as well as an introduction to mobile (i.e. Cell-phone/PDA) forensics. Within the context of forensics security, network infrastructures, topologies, and protocols are introduced. Students will understand, learn, and experience the relationship between forensic analysis and network security technologies.

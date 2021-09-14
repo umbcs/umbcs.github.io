@@ -1,0 +1,21 @@
+---
+title: "CS105"
+layout: page
+permalink: "/academics/courses/CS105"
+---
+
+
+
+\
+**Introduction to Computer Concepts (3 credits)**
+
+---
+
+\
+This course presents an overview of the role of computers in society -- their application and misapplication, their capabilities and limitations. Applications may include artificial intelligence, medical, aerospace and business uses of computers. Computer hardware and associated technologies will be discussed. Computer programming will be taught from a non-mathematical, problem-solving point of view, the objective being an understanding of the programming process, rather than the development of complex or extended computer programs. This survey course is not part of the computer science major sequence. Students planning to major in computer science should start with CS110.
+
+**Note:** \
+No student will receive graduation credits for CS105, if it is taken after successful completion of CS110 or CS115L or a higher level computer course. Students who enroll in CS110 or CS115L after taking CS105 may receive fewer than the normal number of credits for CS110 or CS115L.
+
+**Pre-requisites:** \
+MATH 115 or appropriate scores on the Math Placement Test.

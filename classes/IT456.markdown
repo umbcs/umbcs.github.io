@@ -1,0 +1,19 @@
+---
+title: "IT456"
+layout: page
+permalink: "/academics/courses/IT456"
+---
+
+
+
+\
+**Information Storage and Management (3 credits)**
+
+---
+
+\
+This course explains the activities and the relationships between data, information, and knowledge that are created, stored, protected, and optimized for access with the latest storage and communication technologies. The course focuses on the combined network and storage architectures required to provide solutions and provide the ability to scale rapidly to meet the expanded needs of future applications. The course addresses questions such as: how to architect and select an optimal storage network, how to determine and select the correct size and type of storage, how to define and apply the best storage configuration to protect users' data, how to ensure data storage and accessibility align with the business continuity plan, how to select the best techniques for facilitation backup and recovery of lost or corrupted data, how to provide local and remote data replication, and how to monitor, report, and manage large amounts of data over time.
+
+**Pre-requisites:**
+\
+IT110 OR MSIS110 AND IT230L OR MSIS411

@@ -1,0 +1,19 @@
+---
+title: "CS460"
+layout: page
+permalink: "/academics/courses/CS460"
+---
+
+
+
+\
+**Graphics (3 credits)**
+
+---
+
+\
+This course explains the fundamental concepts of 3D computer graphics by teaching WebGL. It introduces the algorithms required to create web-based immersive and high-quality graphics including 3D geometric transformations, camera transformations, the image-rendering process, as well as materials and texture mapping. This course also includes advanced topics such as color representations, light simulation, dealing with geometries, and creating animations. After completion, students will be able to develop rich and interactive web-based 3D visualizations for computers, smartphones, and tablets.
+
+**Pre-requisites:**
+\
+MATH 260 and CS 310

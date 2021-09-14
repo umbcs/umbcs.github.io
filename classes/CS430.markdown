@@ -1,0 +1,27 @@
+---
+title: "CS430"
+layout: page
+permalink: "/academics/courses/CS430"
+---
+
+
+
+\
+**Database Management Systems (3 credits)**
+
+---
+
+\
+Introduction to database systems, including database programming. The course covers relational algebra, SQL, object-relational systems, embedded programming, and basic transaction concepts. It covers database design, both entity-relationship modeling and normalization.
+
+**Note:**
+
+This course is co-taught with CS630.
+
+**Pre-requisites:**
+\
+CS 240 and CS 310 or permission of the instructor.
+
+Topics
+
+Course Website

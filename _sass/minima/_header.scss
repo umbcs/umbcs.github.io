@@ -1,0 +1,257 @@
+.header-top {
+  width: 100%;
+  height: auto;
+  background-color: $umass-blue;
+}
+
+.header-top p,
+.header-top a {
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 40px;
+  margin: 0;
+}
+
+.header-top .wrapper a:first-child {
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 40px;
+  margin: 0;
+  background-image: url("../images/umass_logo.png");
+  background-position: center left;
+  background-repeat: no-repeat;
+  background-size: auto 80%;
+  display: block;
+  float: left;
+}
+
+.header-top a {
+  display: block;
+  float: right;
+  text-decoration: none;
+}
+
+.header-bottom {
+  border-bottom: 1px solid rgba($color: $umass-blue, $alpha: 0.2);
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.header-bottom p {
+  margin: 0;
+  display: inline-block;
+}
+
+.header-bottom p:first-child {
+  color: grey;
+}
+
+.header-bottom p:nth-child(2) {
+  font-weight: 700;
+  font-size: 150%;
+  letter-spacing: 1px;
+  margin-left: 5px;
+}
+
+/***** Menu Navigation ****************/
+
+.header-menu {
+  border-bottom: 1px solid rgba($color: $umass-blue, $alpha: 0.2);
+  margin-top: 0px;
+}
+
+nav {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+nav ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  position: relative;
+}
+
+nav ul li {
+  margin: 0px;
+  display: inline-block;
+  //float: left;
+  //background-color: white;
+  padding-left: 10px;
+}
+nav .menu > li:first-child {
+  padding-left: 0;
+}
+
+nav a {
+  display: block;
+  color: $umass-blue;
+  font-size: 20px;
+  text-decoration: none;
+  padding-left: 0px;
+  padding-right: 20px;
+  background-color: white;
+  padding-top: 1px;
+  padding-bottom: 3px;
+  -webkit-transition: padding 1s;
+  -moz-transition: padding 1s;
+  -o-transition: padding 1s;
+  transition: padding 1s;
+}
+
+nav a:hover {
+  background-color: rgba($color: $umass-blue, $alpha: 1);
+  color: white;
+  text-decoration: none;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+nav ul ul {
+  display: none;
+  position: absolute;
+  top: 25;
+  z-index: 99;
+  width: max-content;
+}
+
+nav ul li:hover > ul {
+  display: inherit;
+}
+
+nav ul ul li {
+  width: 100%;
+  float: none;
+  display: block;
+  position: relative;
+  padding-left: 0px;
+}
+
+nav ul ul li a {
+  background-color: lighten($umass-blue, 70%);
+  padding-left: 10px;
+  padding-right: 10px;
+  border-bottom: 1px solid rgba($color: $umass-blue, $alpha: 0.2);
+  margin-left: 0;
+  margin-right: 0;
+  -webkit-transition: margin 1s;
+  -moz-transition: margin 1s;
+  -o-transition: margin 1s;
+  transition: margin 1s;
+}
+
+nav ul ul li a:hover {
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 10px;
+  margin-right: -10px;
+}
+
+.toggle,
+[id^="drop"] {
+  display: none;
+}
+
+/*Responsive Styles*/
+@media all and (max-width: 768px) {
+  nav {
+    margin: 0;
+  }
+  .toggle + a,
+  .menu {
+    display: none;
+  }
+  .toggle,
+  .header-menu .menu > li:first-child a {
+    display: block;
+    background-color: rgba($color: $umass-blue, $alpha: 1);
+    padding: 0 20px;
+    color: #fff;
+    font-size: 20px;
+    line-height: 60px;
+    text-decoration: none;
+    border: none;
+  }
+
+  .toggle::after {
+    content: "+";
+    padding-left: 10px;
+    color: rgba($color: white, $alpha: 0.5);
+  }
+
+  .toggle:hover,
+  .header-menu .menu > li:first-child a:hover {
+    background-color: rgba($color: $umass-blue, $alpha: 0.7);
+  }
+
+  [id^="drop"]:checked + label + a + ul,
+  #drop:checked + label + ul {
+    display: block;
+  }
+
+  [id^="drop"]:checked + label {
+    background-color: rgba($color: $umass-blue, $alpha: 0.7);
+  }
+
+  [id^="drop"]:checked + label::after {
+    content: "-";
+  }
+
+  nav ul li {
+    flex: none;
+    display: block;
+    width: 100%;
+    padding-left: 0;
+  }
+
+  nav ul ul .toggle,
+  nav ul ul a {
+    padding: 0 40px;
+  }
+
+  nav ul ul ul a {
+    padding: 0 80px;
+  }
+
+  nav a:hover,
+  nav ul ul ul a {
+    background-color: white;
+    color: black;
+  }
+
+  nav ul li ul li .toggle,
+  nav ul ul a {
+    background-color: white;
+  }
+
+  nav ul ul {
+    float: none;
+    position: static;
+    color: #ffffff;
+    width: 100%;
+  }
+
+  nav ul ul li:hover > ul,
+  nav ul li:hover > ul {
+    display: none;
+  }
+
+  nav ul ul li {
+    display: block;
+    width: 100%;
+  }
+
+  nav ul ul ul li {
+    position: static;
+  }
+}
+
+@media all and (max-width: 330px) {
+  nav ul li {
+    display: block;
+    width: 94%;
+  }
+}

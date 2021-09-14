@@ -1,0 +1,117 @@
+.sidebar {
+    display: inline-block;
+    width: 200px;
+    margin-left: -205px;
+    vertical-align: top;
+  }
+
+  .sidebar .wrap-table {
+      display: block;
+      margin-right: 20px;
+      background-color: rgba($color: white, $alpha: 0.5);
+  }
+  
+  .sidebar .wrap-table div {
+    display: block;
+    width: 100%;
+    margin-right: 0;
+    flex: none;
+    text-align: none;
+  }
+
+  .sidebar ul li:last-child {
+    padding-bottom: 20px;
+  }
+
+  .open-menu {
+    display: none;
+  }
+
+  
+  @media all and (max-width: 1650px) and (min-width: 768px) {
+  
+    .sidebar {
+      display: block;
+      position: absolute;
+      height: auto;
+      width: 100%;
+      background-color: white;
+      top: 118px;
+      left: -600px;
+      width: 600px;
+      margin: 0;
+      -webkit-transition: left 1s;
+      -moz-transition: left 1s;
+      -o-transition: left 1s;
+      transition: left 1s;
+    }
+
+    .sidebar .wrap-table{
+      display: block;
+      position: relative;
+      height: max-content;
+      width: 100%;   
+      margin: 0;
+    }
+
+    .sidebar .wrap-table div {
+      display: block;
+      background-color: white;
+      position: absolute;
+      top: 0;
+      left: 0px;
+      height: max-content;
+      width: 100%; 
+      z-index: 99;
+      -webkit-transition: left 1s;
+      -moz-transition: left 1s;
+      -o-transition: left 1s;
+      transition: left 1s;
+    }
+
+    .sidebar .wrap-table div:nth-child(2) {
+      top: 95px;
+    }
+
+    .sidebar .wrap-table div:nth-child(3) {
+      top: 162px;
+    }
+
+
+    .sidebar ul {
+      padding-left: 28px;
+      padding-right: 28px;
+    }
+
+    .open-menu {
+      display: block;
+      position: absolute;
+      margin: 0;
+      color: $umass-grey;
+      padding-left: 10px;
+      padding-right: 10px;
+      font-size: 18px;
+      background-color: $umass-blue;
+      -webkit-transform: rotate(90deg);
+      -moz-transform: rotate(90deg);
+      -o-transform: rotate(90deg);
+      transform: rotate(90deg);
+    }
+
+    .open-menu.research {
+      top: 80px;
+      right: -56px;
+    }
+
+    .open-menu.news {
+      top: 66px;
+      right: -42px;
+    }
+
+    .open-menu.events {
+      top: 72px;
+      right: -48px;   
+    }
+  
+  }
+  

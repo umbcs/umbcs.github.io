@@ -1,0 +1,19 @@
+---
+title: "IT428"
+layout: page
+permalink: "/academics/courses/IT428"
+---
+
+
+
+\
+**Introduction to Information Security (3 credits)**
+
+---
+
+\
+The purpose of the course is to provide the student with an overview of the field of Information Security and Assurance. Students will be exposed to the spectrum of Security activities, methods, methodologies, and procedures. Coverage will include inspection and protection of information assets, detection of and reaction to threats to information assets, and examination of pre- and post-incident procedures, technical and managerial responses and an overview of the Information Security Planning and Staffing functions.
+
+**Pre-requisites:**
+\
+60 credits.

@@ -1,0 +1,19 @@
+---
+title: "CS622"
+layout: page
+permalink: "/academics/courses/CS622"
+---
+
+
+
+\
+**Theory of Formal Languages (3 credits)**
+
+---
+
+\
+This course treats languages from an abstract point of view as defined by formal grammars and by families of abstract machines. The Chomsky hierarchy and associated automata are covered. Emphasis is placed on context-free languages. Careful mathematical definition and proof are stressed throughout. This course does not involve programming. This course is of special interest to students interested in linguistics and in the theory of programming language compilers.
+
+**Pre-requisites:**
+\
+CS220/CS320L/MATH320L and CS450 or permission of the instructor.

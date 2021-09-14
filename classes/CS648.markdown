@@ -1,0 +1,19 @@
+---
+title: "CS648"
+layout: page
+permalink: "/academics/courses/CS648"
+---
+
+
+
+\
+**Wireless Networks and Mobile Computing (3 credits)**
+
+---
+
+\
+Wireless communications, wireless networking, mobility management technologies, and protocols for wireless LANs and WANs are surveyed. Selected mobile computing models and mobile applications development environments are evaluated. A wireless networks laboratory provides a realistic mobile/wireless computing environment. Students are expected to form groups to complete a semester project involving an investigation and the development of a prototype.
+
+**Pre-requisites**
+\
+CS446 or CS646.

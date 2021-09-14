@@ -1,0 +1,21 @@
+---
+title: "IT461L"
+layout: page
+permalink: "/academics/courses/IT461L"
+---
+
+
+
+\
+**System Analysis and Design (3 credits)**
+
+---
+
+\
+Introduces recent approaches to the analysis and design of computer information systems, including the hands-on use of computer aided software engineering (CASE) tools. The changing role of the systems analyst in both operations and systems applications in today's organizations is examined. The course critically analyzes systems development methodologies, including life cycle models and prototyping; reviews user-led developments and current approaches which facilitate user-developer collaboration; discusses effective diagramming and notational techniques now available to define and document functional requirements and operational business processes; and examines current methods used to test and evaluate the accuracy, completeness, and usability of documented requirements and convert them into efficient systems design or re-engineering processes. Topics include CASE tools, module and transaction design, human-computer interfaces, and system configuration. This course includes practical experience in analyzing and designing an organizational application. It discusses the concept of quality as applied to information systems and business process redesign as well as the role of information systems in managing quality within an organization.
+
+IT 461L and MSIS 461L are the same course.
+
+**Pre-requisites:**
+\
+IT110 and 60 credits

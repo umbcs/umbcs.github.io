@@ -1,0 +1,19 @@
+---
+title: "CS680"
+layout: page
+permalink: "/academics/courses/CS680"
+---
+
+
+
+\
+**Object-Oriented Design and Programming (3 credits)**
+
+---
+
+\
+Object-oriented techniques for the design and development of software. Students will develop a series of moderate sized programs in C++ and Java and then design and implement a more substantial project in small teams.
+
+**Pre-requisites**
+\
+CS310 or permission of instructor.

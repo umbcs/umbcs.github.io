@@ -1,0 +1,19 @@
+---
+title: "IT117"
+layout: page
+permalink: "/academics/courses/IT117"
+---
+
+
+
+\
+**Intermediate Scripting (3 credits)**
+
+---
+
+\
+This course, a continuation of IT 116 Introduction to Scripting, covers advanced features of scripting languages such as objects and regular expressions. Programming assignments will emphasize tasks that a system administrator might perform. Students will learn to use an industry standard framework to assist in the creation of a web application.
+
+**Pre-requisites:**
+\
+Pre-req: IT 116

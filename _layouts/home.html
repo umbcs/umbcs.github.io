@@ -1,0 +1,34 @@
+---
+layout: default
+table-count: 5
+---
+<div class="home-back">
+
+  <div class="home-back-slide">
+    <div class="home-back-slide-cover">
+      <div class="wrapper">
+          {% include slide-carusel.html %}
+      </div>
+    </div>
+  </div>
+
+  <div class="home-top">
+    <div class="wrapper">
+      <div class="home">
+        {%- if page.title -%}
+        <h1 class="page-heading">{{ page.title }}</h1>
+        {%- endif -%}
+
+        <div class="wrap-table">
+          {% include table.html %}
+        </div>
+      </div>
+
+      {% include umass-programms.html %}
+
+      {% include follow-buttons.html %}
+    </div>
+  </div>
+</div>
+
+<script src="javascript/home.js"></script>

@@ -1,0 +1,19 @@
+---
+title: "CS646"
+layout: page
+permalink: "/academics/courses/CS646"
+---
+
+
+
+\
+**Computer Communication Networks (3 credits)**
+
+---
+
+\
+Need for computer networks. Architectures of networks. Architectures of systems. ISO Reference Model. Standardization efforts. Specification of protocols. Example of protocols and networks.
+
+**Pre-requisites**
+\
+CS641

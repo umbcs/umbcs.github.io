@@ -1,0 +1,19 @@
+---
+title: "IT341"
+layout: page
+permalink: "/academics/courses/IT341"
+---
+
+
+
+\
+**Introduction to System Administration (3 credits)**
+
+---
+
+\
+This is an introduction to the process of choosing, installing, configuring and maintaining UNIX operating systems such as Linux. Topics include user management, file system management, security, networked file systems (NFS), networked information systems (NIS), domain name servers (DNS), mail systems and printers. Students will get practice writing shell scripts. Also, students are introduced to general system administration policy.
+
+**Pre-requisites:**
+\
+IT244.

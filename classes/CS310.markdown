@@ -1,0 +1,19 @@
+---
+title: "CS310"
+layout: page
+permalink: "/academics/courses/CS310"
+---
+
+
+
+\
+**Advanced Data Structures and Algorithms (3 credits)**
+
+---
+
+\
+A systematic study of the methods of structuring and manipulating data in computing. Abstract data types. The design and analysis of algorithms. Advanced techniques for program development and organization.
+
+**Pre-requisites:**
+\
+CS/IT 210L and CS 240 and either CS 220 or MATH 320
