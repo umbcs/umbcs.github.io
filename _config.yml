@@ -28,10 +28,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Department of Computer Science
 
 # baseurl to courses [path to courses] [example: /academics/courses/CS105]
-pathToCourses: "/umbcs/academics/courses"
+pathToCourses: "/academics/courses"
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rodsk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://umbcs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 facebook_url: https://www.facebook.com/umassboston
 twitter_url: https://twitter.com/umassboston
