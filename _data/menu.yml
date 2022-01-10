@@ -32,22 +32,6 @@
     - title: Undergraduate Programs
       link: undergraduate-programs
 
-- title: News
-  link: news-and-events
-  submenu:
-    - title: Announcements
-      link: announcements
-    - title: Colloquia
-      link: colloquia
-    - title: Events Calendar
-      link: events-calendar
-    - title: Faculty Search
-      link: faculty-search
-    - title: Jobs and Interships
-      link: jobs-and-internships
-    - title: Staff Search
-      link: staff-search
-
 - title: People
   link: people
   submenu:

@@ -34,7 +34,7 @@
     background-size: cover;
 }
 
-.slide-box p, .slide-frame a {
+.slide-box p, .slide-frame span {
     display: block;
     position: absolute;
     margin: 0;
@@ -43,7 +43,7 @@
     cursor: pointer;
 }
 
-.slide-frame a {
+.slide-frame span {
     bottom: 0;
     left: 0;
     width: 100%;
@@ -52,6 +52,7 @@
     font-size: 20px;
     padding-left: 20px;
     text-decoration: none;
+    cursor: none;
 }
 
 .slide-button {

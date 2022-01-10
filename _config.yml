@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-phone: "(978) 111 2222"
+phone: "617.287.6475"
 addres: "100 William T. Morrissey Blvd. Boston, MA 02125"
 title: "Department of Computer Science"
-email: "csinfo@cs.umb.edu"
+email: "csinfo @ cs.umb.edu"
 
 description: >- # this means to ignore newlines until "baseurl:"
   UMass Boston
