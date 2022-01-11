@@ -9,7 +9,7 @@ permalink: "/course-schedule"
 
 | Course                                                | Section | Title                                         | Room   | Days  | Time            | Instructor         | Remark     |
 | ----------------------------------------------------- | ------- | --------------------------------------------- | ------ | ----- | --------------- | ------------------ | ---------- |
-| [CS105]({{site.baseurl}}/academics/courses/CS105)     | 1       | Introduction to Computer Concepts             | REMOTE | M W F | 10:00AM-10:50AM | Xiaoqian Zhang     |            |
+| [CS105]({{/academics/courses/CS105)     | 1       | Introduction to Computer Concepts             | REMOTE | M W F | 10:00AM-10:50AM | Xiaoqian Zhang     |            |
 | [CS105]({{site.baseurl}}/academics/courses/CS105)     | 2       | Introduction to Computer Concepts             | Remote | M W F | 11:00AM-11:50AM | Xiaoqian Zhang     |            |
 | [CS109]({{site.baseurl}}/academics/courses/CS109)     | 1       | Computer Programming for Engineering          | REMOTE | Tu Th | 11:00AM-12:15PM | Ping Chen          |            |
 | [CS110]({{site.baseurl}}/academics/courses/CS110)     | 1       | Introduction to Computing                     | REMOTE | Tu Th | 12:30PM-01:45PM | Swami Iyer         |            |
