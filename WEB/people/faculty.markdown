@@ -11,7 +11,15 @@ permalink: "/faculty"
     <th>Office:</th>
     <th>Phone:</th>
     <th>Email:</th>
+    <th>Image</th>
   </tr>
+  <tr>
+    <td>Ozgun Babur></td>
+    <td>Assistant Professor</td>
+    <td>M-3-201-11</td>
+    <td></td>
+    <td>ozgun.babur@umb.edu</td>
+    <td><img src=/WEB/images/people/ozgun_babur.jpg></td>
 
 Ozgun Babur
 
