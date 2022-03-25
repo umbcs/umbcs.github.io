@@ -19,7 +19,7 @@ permalink: "/faculty"
     <td>M-3-201-11</td>
     <td></td>
     <td>ozgun.babur@umb.edu</td>
-    <td><img src=/WEB/images/people/ozgun_babur.jpg></td>
+    <td><img src="/WEB/images/people/ozgun_babur.jpg"></td>
   </tr>
   <tr>
     <td>Temitayo Banjo</td>
@@ -27,7 +27,7 @@ permalink: "/faculty"
     <td>M-3-201-32</td>
     <td>617.287.6490</td>
     <td>temitayo.banjo@umb.edu</td>
-    <td><img src=/WEB/images/people/No_Photo_Available.jpg></td>
+    <td><img src="/WEB/images/people/No_Photo_Available.jpg"></td>
   </tr>
   <tr>
     <td>Alfred Bird</td>
@@ -35,7 +35,7 @@ permalink: "/faculty"
     <td></td>
     <td></td>
     <td>abird@cs.umb.edu</td>
-    <td><img src=/WEB/images/people/Alfred_Bird.jpg></td>
+    <td><img src="/WEB/images/people/Alfred_Bird.jpg"></td>
   </tr>
   
 <br>
