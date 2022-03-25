@@ -37,6 +37,7 @@ permalink: "/faculty"
     <td>abird@cs.umb.edu</td>
     <td><img src="/WEB/images/people/Alfred_Bird.jpg"></td>
   </tr>
+</table>
   
 <br>
 Ethan Bolker
