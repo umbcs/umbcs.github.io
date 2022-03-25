@@ -4,10 +4,14 @@ layout: page
 permalink: "/faculty"
 ---
 
-| Name                  | Title                 | Office      | Phone       | Email                          | Image       |
-| -----------           | -----------           | M-3-201-11  |             | ozgun.babur@umb.edu            | ![Ozgun Babur](/WEB/images/people/ozgun_babur.jpg |
-| Ozgun Babur           | Assistant Professor   |
-| Paragraph             | Text                  |
+<table>
+  <tr>
+    <th>Name:</th>
+    <th>Title:</th>
+    <th>Office:</th>
+    <th>Phone:</th>
+    <th>Email:</th>
+  </tr>
 
 Ozgun Babur
 
