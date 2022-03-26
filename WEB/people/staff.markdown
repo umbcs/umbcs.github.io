@@ -37,7 +37,7 @@ permalink: "/staff"
       john.lewis@umb.edu
     </td>
   </tr>
-   <tr>
+  <tr>
     <td>
       <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
       <a href="https://www.cs.umb.edu/people/Rick_Martin/" target=_blank>Rick Martin</a><br>
@@ -67,8 +67,7 @@ permalink: "/staff"
       billcc@cs.umb.edu
     </td>
   </tr>
-  </tr>
-   <tr>
+  <tr>
     <td>
       <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
       <a href="https://www.cs.umb.edu/people/Debbie_Wade/" target=_blank>Debbie Wade</a><br>
