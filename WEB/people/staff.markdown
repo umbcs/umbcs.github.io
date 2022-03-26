@@ -84,6 +84,5 @@ permalink: "/staff"
       
     </td><td>
       
-    </td>
   </tr>
 </table>
