@@ -77,12 +77,5 @@ permalink: "/staff"
       617-287-6476<br>
       debbie.wade@umb.edu
     </td>
-    
-    </td><td>
-    
-    </td><td>
-      
-    </td><td>
-      
   </tr>
 </table>
