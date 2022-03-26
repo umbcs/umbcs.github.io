@@ -11,74 +11,31 @@ permalink: "/faculty"
       <a href="https://www.cs.umb.edu/people/Ozgun_Babur/" target=_blank>Ozgun Babur</a><br>
       Assistant Professor<br>
       M-3-201-11<br>
-      ozgun.babur AT umb.edu
-    </td>
-    <td>
-      <img src="/WEB/images/people/ozgun_babur.jpg"><br>
-      Temitayo Banjo<br>
-      Lecturer<br>
-      M-3-201-32<br>
-      temitayo.banjo <at> umb.edu
-    </td>
-    <td>
-      <img src="/WEB/images/people/ozgun_babur.jpg"><br>
-      Ozgun Babur<br>
-      Assistant Professor<br>
-      M-3-201-11<br>
       ozgun.babur <at> umb.edu
     </td>
     <td>
-      <img src="/WEB/images/people/ozgun_babur.jpg"><br>
-      Temitayo Banjo<br>
+      <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Temitayo_Banjo/" target=_blank>Temitayo Banjo</a><br>
       Lecturer<br>
       M-3-201-32<br>
+      617.287.6490<br>
       temitayo.banjo <at> umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/Alfred_Bird.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Alfred_Bird/" target=_blank>Alfred Bird</a><br>
+      Lecturer (retired)<br>
+      abird <at> cs.umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/Ethan_Bolker.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Ethan_Bolker/" target=_blank>Ethan Bolker</a><br>
+      Emeritus Professor (retired)<br>
+      eb <at> cs.umb.edu
     </td>
   </tr>
 </table>
       
-<table>
-  <tr>
-    <th>Name:</th>
-    <th>Title:</th>
-    <th>Office:</th>
-    <th>Phone:</th>
-    <th>Email:</th>
-    <th>Image</th>
-  </tr>
-  <tr>
-    <td>Ozgun Babur</td>
-    <td>Assistant Professor</td>
-    <td>M-3-201-11</td>
-    <td></td>
-    <td>ozgun.babur@umb.edu</td>
-    <td><img src="/WEB/images/people/ozgun_babur.jpg"></td>
-  </tr>
-  <tr>
-    <td>Temitayo Banjo</td>
-    <td>Lecturer</td>
-    <td>M-3-201-32</td>
-    <td>617.287.6490</td>
-    <td>temitayo.banjo@umb.edu</td>
-    <td><img src="/WEB/images/people/No_Photo_Available.jpg"></td>
-  </tr>
-  <tr>
-    <td>Alfred Bird</td>
-    <td>Lecturer (retired)</td>
-    <td></td>
-    <td></td>
-    <td>abird@cs.umb.edu</td>
-    <td><img src="/WEB/images/people/Alfred_Bird.jpg"></td>
-  </tr>
-</table>
-  
-<br>
-Ethan Bolker
-
-![Ethan Bolker](/WEB/images/people/Ethan_Bolker.jpg)
-
-> Emeritus Professor (retired) \
-> eb@cs.umb.edu
 
 <br>
 Bill Campbell
