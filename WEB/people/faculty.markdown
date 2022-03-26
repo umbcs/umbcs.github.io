@@ -11,7 +11,7 @@ permalink: "/faculty"
       <a href="https://www.cs.umb.edu/people/Ozgun_Babur/" target=_blank>Ozgun Babur</a><br>
       Assistant Professor<br>
       M-3-201-11<br>
-      ozgun.babur <at> umb.edu
+      ozgun.babur@umb.edu
     </td>
     <td>
       <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
@@ -19,348 +19,293 @@ permalink: "/faculty"
       Lecturer<br>
       M-3-201-32<br>
       617.287.6490<br>
-      temitayo.banjo <at> umb.edu
+      temitayo.banjo@umb.edu
     </td>
     <td>
       <img src="/WEB/images/people/Alfred_Bird.jpg"><br>
       <a href="https://www.cs.umb.edu/people/Alfred_Bird/" target=_blank>Alfred Bird</a><br>
       Lecturer (retired)<br>
-      abird <at> cs.umb.edu
+      abird@cs.umb.edu
     </td>
     <td>
       <img src="/WEB/images/people/Ethan_Bolker.jpg"><br>
       <a href="https://www.cs.umb.edu/people/Ethan_Bolker/" target=_blank>Ethan Bolker</a><br>
       Emeritus Professor (retired)<br>
-      eb <at> cs.umb.edu
+      eb@cs.umb.edu
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/WEB/images/people/Bill_Campbell.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Bill_Campbell/" target=_blank>Bill Campbell</a><br>
+      Associate Professor<br>
+    </td>
+    <td>
+      <img src="/WEB/images/people/stephen_chang.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Stephen_Chang/" target=_blank>Stephen Chang</a><br>
+      Assistant Professor<br>
+      M-3-201-03<br>
+      stephen.chang@umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/Ron_Cheung.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Ron_Cheung/" target=_blank>Ron Cheung</a><br>
+      Senior Lecturer II<br>
+      M-3-201-06<br>
+      617.287.6483<br>
+      ronald.cheung@umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/Tiago_Cogumbreiro.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Tiago_Cogumbreiro/" target=_blank>Tiago Cogumbreiro</a><br>
+      Assistant Professor<br>
+      M-3-201-16<br>
+      617-287-6479<br>
+      tiago.cogumbreiro@umb.edu
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/WEB/images/people/Wei_Ding.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Wei_Ding/" target=_blank>Wei Ding</a><br>
+      Professor<br>
+      M-3-201-7<br>
+      617.287.6428<br>
+      wei.ding@umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/Funda_Durupinar.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Funda_Durupinar/" target=_blank>Funda Durupinar</a><br>
+      Assistant Professor<br>
+      M-3-201-08<br>
+      funda.durupinarbabur@umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/Peter_Fejer.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Peter_Fejer/" target=_blank>Peter Fejer</a><br>
+      Emeritus Professor (retired)<br>
+      617.287.6453<br>
+      peter.fejer@umb.edu<br>
+    </td>
+    <td>
+      <img src="/WEB/images/people/Kenneth_K_Fletcher.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Kenneth_Fletcher/" target=_blank>Kenneth Fletcher</a><br>
+      Assistant Professor<br>
+      M-3-201-21<br>
+      kenneth.fletcher@umb.edu
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/WEB/images/people/Gabriel_Ghinita.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Gabriel_Ghinita/" target=_blank>Gabriel Ghinita</a><br>
+      Associate Professor<br>
+      M-3-201-19<br>
+      617.287.6479<br>
+      gabriel.ghinita@umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/Colin_Godgrey.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Colin_Godfrey/" target=_blank>Colin Godfrey</a><br>
+      Associate Professor (retired)<br>
+      colin.godfrey@gmail.com
+    </td>
+    <td>
+      <img src="/WEB/images/people/Daniel_Haehn.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Daniel_Haehn/" target=_blank>Daniel Haehn</a><br>
+      Assistant Professor<br>
+      M-3-201-20<br>
+      daniel.haehn@umb.edu<br>
+    </td>
+    <td>
+      <img src="/WEB/images/people/Nurit_Haspel.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Nurit_Haspel/" target=_blank>Nurit Haspel</a><br>
+      Associate Professor,<br>
+      Undergraduate Program Director<br>
+      M-3-201-04<br>
+      617-287-6414<br>
+      nurit.haspel@umb.edu
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/WEB/images/people/Glenn_Hoffman.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Glenn_Hoffman/" target=_blank>Glenn Hoffman</a><br>
+      IT Program Director, Senior Lecturer<br>
+      M-3-201-22<br>
+      617-287-6466<br>
+      glenn.hoffman@umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/swami.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Swami_Iyer/" target=_blank>Swami Iyer</a><br>
+      Senior Lecturer<br>
+      M-3-201-14<br>
+      swaminathan.iyer@umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Christopher_Kelly/" target=_blank>Christopher Kelly</a><br>
+      Lecturer<br>
+      M-3-201-31<br>
+      christopher.kelly005@umb.edu<br>
+    </td>
+    <td>
+      <img src="/WEB/images/people/Xiaohui_Liang.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Xiaohui_Liang/" target=_blank>Xiaohui Liang</a><br>
+      Associate Professor<br>
+      M-3-201-24<br>
+      617-287-6791<br>
+      xiaohui.liang@umb.edu
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/George_Lukas/" target=_blank>George Lukas</a><br>
+      Associate Professor (retired)<br>
+      gl@cs.umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/Joan_Lukas.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Joan_Lukas/" target=_blank>Joan Lukas</a><br>
+      Emeritus Professor (retired)<br>
+      joan@cs.umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/Robert_Morris.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Robert_Morris/" target=_blank>Robert Morris</a><br>
+      Emeritus Professor (retired)<br>
+      ram@cs.umb.edu<br>
+    </td>
+    <td>
+      <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Kenneth_Newman/" target=_blank>Kenneth Newman</a><br>
+      Associate Professor (retired)<br>
+      kwn@cs.umb.edu
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/WEB/images/people/Elizabeth_ONeil.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Elizabeth_O'Neil/" target=_blank>Elizabeth O'Neil</a><br>
+      Emeritus Professor (retired)<br>
+      617.287.6455<br>
+      elizabeth.oneil@umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/Patrick_ONeil.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Patrick_O'Neil/" target=_blank>Patrick O'Neil</a><br>
+      Emeritus Professor (retired)<br>
+      poneil@cs.umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/Carl_Offner.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Carl_Offner/" target=_blank>Carl Offner</a><br>
+      Industrial Professor<br>
+      M-3-201-32<br>
+      617.287.6490<br>
+      carl.offner@umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/Ming_Ouyang.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Ming_Ouyang/" target=_blank>Ming Ouyang</a><br>
+      Associate Professor<br>
+      M-3-201-25<br>
+      ming.ouyang@umb.edu
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/WEB/images/people/Marc_Pomplun.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Marc_Pomplun/" target=_blank>Marc Pomplun</a><br>
+      Department Chair, Professor<br>
+      M-3-201-09<br>
+      617-287-6443<br>
+      marc.pomplun@umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/amanda_potasznik.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Amanda_Potasznik/" target=_blank>Amanda Potasznik</a><br>
+      Senior Lecturer<br>
+      M-3-201-31<br>
+      617-287-6490<br>
+      amanda.potasznik@umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/Matthew_Schneps.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Matthew_Schneps/" target=_blank>Matthew Schneps</a><br>
+      Research Professor (retired)<br>
+      matthew.schneps@umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/Bo_Sheng.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Bo_Sheng/" target=_blank>Bo Sheng</a><br>
+      Associate Professor<br>
+      M-3-201-23<br>
+      617.287.6468<br>
+      bo.sheng@umb.edu
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/WEB/images/people/Dan_Simovici.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Dan_Simovici/" target=_blank>Dan Simovici</a><br>
+      Graduate Program Director, Professor<br>
+      M-3-201-05<br>
+      617-287-6472<br>
+      dan.simovici@umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/Torna_Omar_Soro.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Torna_Soro/" target=_blank>Torna Soro</a><br>
+      Lecturer<br>
+      M-3-201-32<br>
+      torna.soro001@umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/Jun_Suzuki.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Jun_Suzuki/" target=_blank>Jun Suzuki</a><br>
+      Associate Professor<br>
+      M-3-201-15<br>
+      617.287.6462<br>
+      junichi.suzuki@umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/Richard_Tenney.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Richard_Tenney/" target=_blank>Richard Tenney</a><br>
+      Emeritus Professor (retired)<br>
+      rlt@cs.umb.edu
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/WEB/images/people/Duc_Tran.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Duc_Tran/" target=_blank>Duc Tran</a><br>
+      Associate Professor<br>
+      M-3-201-18<br>
+      617-287-6452<br>
+      duc.tran@umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Simon_Tran/" target=_blank>Simon Tran</a><br>
+      Lecturer<br>
+      M-3-201-31<br>
+      617-287-6490<br>
+      simon.tran@umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/Robert_Wilson.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Robert_Wilson/" target=_blank>Robert Wilson</a><br>
+      Senior Lecturer (retired)<br>
+      bobw@cs.umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Zaihan_Yang/" target=_blank>Zaihan Yang</a><br>
+      Lecturer<br>
+      zaihan.yang@umb.edu
     </td>
   </tr>
 </table>
-      
-
-<br>
-Bill Campbell
-
-![Bill Campbell](/WEB/images/people/Bill_Campbell.jpg)
-
-> Associate Professor
-
-<br> 
-Stephen Chang
-
-![Stephen Chang](/WEB/images/people/stephen_chang.jpg)
-
-> Assistant Professor \
-> M-3-201-03 \
-> stephen.chang@umb.edu \
-
-<br>
-Ron Cheung
-
-![Ron Cheung](/WEB/images/people/Ron_Cheung.jpg)
-
-> Senior Lecturer II \
-> M-3-201-06 \
-> 617.287.6483 \
-> ronald.cheung@umb.edu \
-
-<br>
-Tiago Cogumbreiro
-
-![Tiago Cogumbreiro](/WEB/images/people/Tiago_Cogumbreiro.jpg)
-
-> Assistant Professor \
-> M-3-201-16 \
-> 617-287-6479 \
-> tiago.cogumbreiro@umb.edu
-
-<br>
-Wei Ding
-
-![Wei Ding](/WEB/images/people/Wei_Ding.jpg)
-
-> Professor \
-> M-3-201-7 \
-> 617.287.6428 \
-> wei.ding@umb.edu
-
-<br>
-Funda Durupinar
-
-![Funda Durupinar](/WEB/images/people/Funda_Durupinar.jpg)
-
-> Assistant Professor \
-> M-3-201-08 \
-> funda.durupinarbabur@umb.edu
-
-<br>
-Peter Fejer
-
-![Peter Fejer](/WEB/images/people/Peter_Fejer.jpg)
-
-> Emeritus Professor (retired) \
-> 617.287.6453 \
-> peter.fejer@umb.edu
-
-<br>
-Kenneth Fletcher
-
-![Kenneth Fletcher](/WEB/images/people/Kenneth_K_Fletcher.jpg)
-
-> Assistant Professor \
-> M-3-201-21 \
-> kenneth.fletcher@umb.edu
-
-<br>
-Gabriel Ghinita
-
-![Gabriel Ghinita](/WEB/images/people/Gabriel_Ghinita.jpg)
-
-> Associate Professor \
-> M-3-201-19 \
-> 617.287.6479 \
-> gabriel.ghinita@umb.edu
-
-<br>
-Colin Godfrey
-
-![Colin Godfrey](/WEB/images/people/Colin_Godgrey.jpg)
-
-> Associate Professor (retired) \
-> colin.godfrey@gmail.com
-
-<br>
-Daniel Haehn
-
-![Daniel Haehn](/WEB/images/people/Daniel_Haehn.jpg)
-
-> Assistant Professor \
-> M-3-201-02 \
-> daniel.haehn@umb.edu
-
-<br>
-Nurit Haspel
-
-![Nurit Haspel](/WEB/images/people/Nurit_Haspel.jpg)
-
-> Associate Professor, CS Program Director \
-> M-3-201-04 \
-> 617-287-6414 \
-> nurit.haspel@umb.edu
-
-<br>
-Glenn Hoffman
-
-![Glenn Hoffman](/WEB/images/people/Glenn_Hoffman.jpg)
-
-> IT Program Director, Lecturer \
-> M-3-201-22 \
-> 617-287-6466\
-> glenn.hoffman@umb.edu
-
-<br>
-Swami Iyer
-
-![Swami Iyer](/WEB/images/people/swami.jpg)
-
-> Lecturer \
-> M-3-201-14 \
-> swaminathan.iyer@umb.edu\
-
-<br>
-Christopher Kelly
-
-![Christopher Kelly](/WEB/images/people/No_Photo_Available.jpg)
-
-> Lecturer \
-> M-3-201-31 \
-> christopher.kelly005@umb.edu
-
-<br>
-Xiaohui Liang
-
-![Xiaohui Liang](/WEB/images/people/Xiaohui_Liang.jpg)
-
-> Assistant Professor \
-> M-3-201-24 \
-> 617-287-6791 \
-> xiaohui.liang@umb.edu
-
-<br>
-George Lukas
-
-![George Lukas](/WEB/images/people/No_Photo_Available.jpg)
-
-> Associate Professor (retired) \
-> gl@cs.umb.edu
-
-<br>
-Joan Lukas
-
-![Joan Lukas](/WEB/images/people/Joan_Lukas.jpg)
-
-> Emeritus Professor (retired) \
-> joan@cs.umb.edu
-
-<br>
-Robert Morris
-
-![Robert Morris](/WEB/images/people/Robert_Morris.jpg)
-
-> Emeritus Professor (retired) \
-> ram@cs.umb.edu
-
-<br>
-Kenneth Newman
-
-![Kenneth Newman](/WEB/images/people/No_Photo_Available.jpg)
-
-> Associate Professor (retired) \
-> kwn@cs.umb.edu
-
-<br>
-Elizabeth O'Neil
-
-![Elizabeth O'Neil](/WEB/images/people/Elizabeth_ONeil.jpg)
-
-> Professor \
-> M-3-201-20 \
-> 617.287.6455 \
-> elizabeth.oneil "at" umb.edu
-
-<br>
-Patrick O'Neil
-
-![Patrick O'Neil](/WEB/images/people/Patrick_ONeil.jpg)
-
-> Emeritus Professor \
-> poneil@cs.umb.edu
-
-<br>
-Carl Offner
-
-![Carl Offner](/WEB/images/people/Carl_Offner.jpg)
-
-> Industrial Professor \
-> M-3-201-32 \
-> 617.287.6490 \
-> carl.offner@umb.edu
-
-<br>
-Ming Ouyang
-
-![Ming Ouyang](/WEB/images/people/Ming_Ouyang.jpg)
-
-> Associate Professor \
-> M-3-201-25 \
-> ming.ouyang@umb.edu
-
-<br>
-Marc Pomplun
-
-![Marc Pomplun](/WEB/images/people/Marc_Pomplun.jpg)
-
-> Department Chair, Professor \
-> M-3-201-09 \
-> 617-287-6443 \
-> marc.pomplun@umb.edu
-
-<br>
-Amanda Potasznik
-
-![Amanda Potasznik](/WEB/images/people/amanda_potasznik.jpg)
-
-> Lecturer \
-> M-3-201-31 \
-> 617-287-6490 \
-> amanda.potasznik@umb.edu
-
-<br>
-Matthew Schneps
-
-![Matthew Schneps](/WEB/images/people/Matthew_Schneps.jpg)
-
-> Research Professor (retired) \
-> matthew.schneps@umb.edu
-
-<br>
-Bo Sheng
-
-![Bo Sheng](/WEB/images/people/Bo_Sheng.jpg)
-
-> Associate Professor \
-> M-3-201-23 \
-> 617.287.6468 \
-> bo.sheng@umb.edu
-
-<br>
-Dan Simovici
-
-![Dan Simovici](/WEB/images/people/Dan_Simovici.jpg)
-
-> Graduate Program Director, Professor \
-> M-3-201-05 \
-> 617-287-6472 \
-> dan.simovici@umb.edu
-
-<br>
-Torna Soro
-
-![Torna Soro](/WEB/images/people/Torna_Omar_Soro.jpg)
-
-> Lecturer \
-> M-3-201-32 \
-> torna.soro001@umb.edu
-
-<br>
-Jun Suzuki
-
-![Jun Suzuki](/WEB/images/people/Jun_Suzuki.jpg)
-
-> Associate Professor \
-> M-3-201-15 \
-> 617.287.6462 \
-> junichi.suzuki@umb.edu
-
-<br>
-Richard Tenney
-
-![Richard Tenney](/WEB/images/people/Richard_Tenney.jpg)
-
-> Emeritus Professor (retired) \
-> rlt@cs.umb.edu
-
-<br>
-Duc Tran
-
-![Duc Tran](/WEB/images/people/Duc_Tran.jpg)
-
-> Associate Professor \
-> M-3-201-18 \
-> 617.287.6452 \
-> duc.tran@umb.edu
-
-<br>
-Simon Tran
-
-![Simon Tran](/WEB/images/people/No_Photo_Available.jpg)
-
-> Lecturer \
-> M-3-201-31 \
-> 617.287.6490 \
-> simon.tran@umb.edu
-
-<br>
-Robert Wilson
-
-![Robert Wilson](/WEB/images/people/Robert_Wilson.jpg)
-
-> Senior Lecturer (retired) \
-> bobw@cs.umb.edu
-
-<br>
-Zaihan Yang
-
-![Zaihan Yang](/WEB/images/people/No_Photo_Available.jpg)
-
-> Lecturer \
-> zaihan.yang@umb.edu
