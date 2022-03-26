@@ -6,6 +6,39 @@ permalink: "/faculty"
 
 <table>
   <tr>
+    <td>
+      <img src="/WEB/images/people/ozgun_babur.jpg"><br>
+      <a href="https://www.cs.umb.edu/people/Ozgun_Babur/" target=_blank>Ozgun Babur</a><br>
+      Assistant Professor<br>
+      M-3-201-11<br>
+      ozgun.babur AT umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/ozgun_babur.jpg"><br>
+      Temitayo Banjo<br>
+      Lecturer<br>
+      M-3-201-32<br>
+      temitayo.banjo <at> umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/ozgun_babur.jpg"><br>
+      Ozgun Babur<br>
+      Assistant Professor<br>
+      M-3-201-11<br>
+      ozgun.babur <at> umb.edu
+    </td>
+    <td>
+      <img src="/WEB/images/people/ozgun_babur.jpg"><br>
+      Temitayo Banjo<br>
+      Lecturer<br>
+      M-3-201-32<br>
+      temitayo.banjo <at> umb.edu
+    </td>
+  </tr>
+</table>
+      
+<table>
+  <tr>
     <th>Name:</th>
     <th>Title:</th>
     <th>Office:</th>
