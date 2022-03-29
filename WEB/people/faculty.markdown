@@ -82,6 +82,7 @@ permalink: "/faculty"
   Assistant Professor<br>
   M-3-201-08<br>
   funda.durupinarbabur@umb.edu
+  <br>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Peter_Fejer.jpg"><br>
@@ -89,6 +90,7 @@ permalink: "/faculty"
   Emeritus Professor (retired)<br>
   617.287.6453<br>
   peter.fejer@umb.edu<br>
+  <br>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Kenneth_K_Fletcher.jpg"><br>
@@ -109,7 +111,9 @@ permalink: "/faculty"
   <img src="/WEB/images/people/Colin_Godgrey.jpg"><br>
   <a href="	http://www.cs.umb.edu/~cgodfrey" target=_blank>Colin Godfrey</a><br>
   Associate Professor (retired)<br>
-  colin.godfrey@gmail.com
+  colin.godfrey@gmail.com<br>
+  <br>
+  <br>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Daniel_Haehn.jpg"><br>
@@ -117,12 +121,12 @@ permalink: "/faculty"
   Assistant Professor<br>
   M-3-201-20<br>
   daniel.haehn@umb.edu<br>
+  <br>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Nurit_Haspel.jpg"><br>
   <a href="http://www.cs.umb.edu/~nurith" target=_blank>Nurit Haspel</a><br>
-  Associate Professor,<br>
-  Undergraduate Program Director<br>
+  Associate Professor, Undergraduate Program Director<br>
   M-3-201-04<br>
   617-287-6414<br>
   nurit.haspel@umb.edu
@@ -141,6 +145,7 @@ permalink: "/faculty"
   Senior Lecturer<br>
   M-3-201-14<br>
   swaminathan.iyer@umb.edu
+  <br>
 </div>
 <div class="person">
   <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
@@ -148,6 +153,7 @@ permalink: "/faculty"
   Lecturer<br>
   M-3-201-31<br>
   christopher.kelly005@umb.edu<br>
+  <br>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Xiaohui_Liang.jpg"><br>
@@ -161,7 +167,9 @@ permalink: "/faculty"
   <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
   George Lukas<br>
   Associate Professor (retired)<br>
-  gl@cs.umb.edu
+  gl@cs.umb.edu<br>
+  <br>
+  <br>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Joan_Lukas.jpg"><br>
@@ -174,25 +182,32 @@ permalink: "/faculty"
   <a href="http://www.cs.umb.edu/~ram" target=_blank>Robert Morris</a><br>
   Emeritus Professor (retired)<br>
   ram@cs.umb.edu<br>
+  <br>
+  <br>
 </div>
 <div class="person">
   <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
   Kenneth Newman<br>
   Associate Professor (retired)<br>
-  kwn@cs.umb.edu
+  kwn@cs.umb.edu<br>
+  <br>
+  <br>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Elizabeth_ONeil.jpg"><br>
   <a href="http://www.cs.umb.edu/~eoneil" target=_blank>Elizabeth O'Neil</a><br>
   Emeritus Professor (retired)<br>
   617.287.6455<br>
-  elizabeth.oneil@umb.edu
+  elizabeth.oneil@umb.edu<br>
+  <br>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Patrick_ONeil.jpg"><br>
   <a href="http://www.cs.umb.edu/~poneil" target=_blank>Patrick O'Neil</a><br>
   Emeritus Professor (retired)<br>
-  poneil@cs.umb.edu
+  poneil@cs.umb.edu<br>
+  <br>
+  <br>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Carl_Offner.jpg"><br>
@@ -229,7 +244,9 @@ permalink: "/faculty"
   <img src="/WEB/images/people/Matthew_Schneps.jpg"><br>
   <a href="http://www.cfa.harvard.edu/dyslexia/LVL/" target=_blank>Matthew Schneps</a><br>
   Research Professor (retired)<br>
-  matthew.schneps@umb.edu
+  matthew.schneps@umb.edu<br>
+  <br>
+  <br>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Bo_Sheng.jpg"><br>
@@ -252,7 +269,8 @@ permalink: "/faculty"
   <a href="https://www.cs.umb.edu/~tsoro/" target=_blank>Torna Soro</a><br>
   Lecturer<br>
   M-3-201-32<br>
-  torna.soro001@umb.edu
+  torna.soro001@umb.edu<br>
+  <br>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Jun_Suzuki.jpg"><br>
@@ -266,7 +284,9 @@ permalink: "/faculty"
   <img src="/WEB/images/people/Richard_Tenney.jpg"><br>
   <a href="http://www.cs.umb.edu/~rlt" target=_blank>Richard Tenney</a><br>
   Emeritus Professor (retired)<br>
-  rlt@cs.umb.edu
+  rlt@cs.umb.edu<br>
+  <br>
+  <br>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Duc_Tran.jpg"><br>
@@ -288,13 +308,17 @@ permalink: "/faculty"
   <img src="/WEB/images/people/Robert_Wilson.jpg"><br>
   <a href="	http://www.cs.umb.edu/~bobw" target=_blank>Robert Wilson</a><br>
   Senior Lecturer (retired)<br>
-  bobw@cs.umb.edu
+  bobw@cs.umb.edu<br>
+  <br>
+  <br>
 </div>
 <div class="person">
   <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
   Zaihan Yang<br>
   Lecturer<br>
   zaihan.yang@umb.edu
+  <br>
+  <br>
 </div>
 
 
