@@ -34,7 +34,7 @@ permalink: "/faculty"
   Emeritus Professor (retired)<br>
   eb@cs.umb.edu<br><br>
   <br>
-  <br<
+  <br>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Bill_Campbell.jpg"><br>
