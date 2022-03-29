@@ -10,6 +10,7 @@ permalink: "/faculty"
   Assistant Professor<br>
   M-3-201-02<br>
   ozgun.babur@umb.edu
+  <br>
 </div>
 <div class="person">
   <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
@@ -23,13 +24,13 @@ permalink: "/faculty"
   <img src="/WEB/images/people/Alfred_Bird.jpg"><br>
   Alfred Bird<br>
   Lecturer (retired)<br>
-  abird@cs.umb.edu
+  abird@cs.umb.edu<br><br>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Ethan_Bolker.jpg"><br>
   <a href="http://www.cs.umb.edu/~eb" target=_blank>Ethan Bolker</a><br>
   Emeritus Professor (retired)<br>
-  eb@cs.umb.edu
+  eb@cs.umb.edu<br><br>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Bill_Campbell.jpg"><br>
