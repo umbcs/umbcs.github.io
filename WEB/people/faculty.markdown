@@ -4,6 +4,93 @@ layout: page
 permalink: "/faculty"
 ---
 
+<div class="person">
+  <img src="/WEB/images/people/ozgun_babur.jpg"><br>
+  <a href="https://www.cs.umb.edu/people/Ozgun_Babur/" target=_blank>Ozgun Babur</a><br>
+  Assistant Professor<br>
+  M-3-201-11<br>
+  ozgun.babur@umb.edu
+</div>
+<div class="person">
+  <img src="/WEB/images/people/ozgun_babur.jpg"><br>
+  <a href="https://www.cs.umb.edu/people/Ozgun_Babur/" target=_blank>Ozgun Babur</a><br>
+  Assistant Professor<br>
+  M-3-201-11<br>
+  ozgun.babur@umb.edu
+</div>
+<div class="person">
+  <img src="/WEB/images/people/ozgun_babur.jpg"><br>
+  <a href="https://www.cs.umb.edu/people/Ozgun_Babur/" target=_blank>Ozgun Babur</a><br>
+  Assistant Professor<br>
+  M-3-201-11<br>
+  ozgun.babur@umb.edu
+</div>
+<div class="person">
+  <img src="/WEB/images/people/ozgun_babur.jpg"><br>
+  <a href="https://www.cs.umb.edu/people/Ozgun_Babur/" target=_blank>Ozgun Babur</a><br>
+  Assistant Professor<br>
+  M-3-201-11<br>
+  ozgun.babur@umb.edu
+</div>
+<div class="person">
+  <img src="/WEB/images/people/ozgun_babur.jpg"><br>
+  <a href="https://www.cs.umb.edu/people/Ozgun_Babur/" target=_blank>Ozgun Babur</a><br>
+  Assistant Professor<br>
+  M-3-201-11<br>
+  ozgun.babur@umb.edu
+</div>
+<div class="person">
+  <img src="/WEB/images/people/ozgun_babur.jpg"><br>
+  <a href="https://www.cs.umb.edu/people/Ozgun_Babur/" target=_blank>Ozgun Babur</a><br>
+  Assistant Professor<br>
+  M-3-201-11<br>
+  ozgun.babur@umb.edu
+</div>
+<div class="person">
+  <img src="/WEB/images/people/ozgun_babur.jpg"><br>
+  <a href="https://www.cs.umb.edu/people/Ozgun_Babur/" target=_blank>Ozgun Babur</a><br>
+  Assistant Professor<br>
+  M-3-201-11<br>
+  ozgun.babur@umb.edu
+</div>
+<div class="person">
+  <img src="/WEB/images/people/ozgun_babur.jpg"><br>
+  <a href="https://www.cs.umb.edu/people/Ozgun_Babur/" target=_blank>Ozgun Babur</a><br>
+  Assistant Professor<br>
+  M-3-201-11<br>
+  ozgun.babur@umb.edu
+</div>
+<div class="person">
+  <img src="/WEB/images/people/ozgun_babur.jpg"><br>
+  <a href="https://www.cs.umb.edu/people/Ozgun_Babur/" target=_blank>Ozgun Babur</a><br>
+  Assistant Professor<br>
+  M-3-201-11<br>
+  ozgun.babur@umb.edu
+</div>
+<div class="person">
+  <img src="/WEB/images/people/ozgun_babur.jpg"><br>
+  <a href="https://www.cs.umb.edu/people/Ozgun_Babur/" target=_blank>Ozgun Babur</a><br>
+  Assistant Professor<br>
+  M-3-201-11<br>
+  ozgun.babur@umb.edu
+</div>
+<div class="person">
+  <img src="/WEB/images/people/ozgun_babur.jpg"><br>
+  <a href="https://www.cs.umb.edu/people/Ozgun_Babur/" target=_blank>Ozgun Babur</a><br>
+  Assistant Professor<br>
+  M-3-201-11<br>
+  ozgun.babur@umb.edu
+</div>
+<div class="person">
+  <img src="/WEB/images/people/ozgun_babur.jpg"><br>
+  <a href="https://www.cs.umb.edu/people/Ozgun_Babur/" target=_blank>Ozgun Babur</a><br>
+  Assistant Professor<br>
+  M-3-201-11<br>
+  ozgun.babur@umb.edu
+</div>
+
+
+<!-- 
 <table>
   <tr>
     <td>
@@ -309,3 +396,4 @@ permalink: "/faculty"
     </td>
   </tr>
 </table>
+ -->
