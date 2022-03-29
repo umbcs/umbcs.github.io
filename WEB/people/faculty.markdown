@@ -88,7 +88,6 @@ permalink: "/faculty"
   M-3-201-21<br>
   kenneth.fletcher@umb.edu
 </div>
-</div>
 <div class="person">
   <img src="/WEB/images/people/Gabriel_Ghinita.jpg"><br>
   <a href="http://www.cs.umb.edu/~gghinita/" target=_blank>Gabriel Ghinita</a><br>
@@ -97,13 +96,11 @@ permalink: "/faculty"
   617.287.6479<br>
   gabriel.ghinita@umb.edu
 </div>
-</div>
 <div class="person">
   <img src="/WEB/images/people/Colin_Godgrey.jpg"><br>
   <a href="	http://www.cs.umb.edu/~cgodfrey" target=_blank>Colin Godfrey</a><br>
   Associate Professor (retired)<br>
   colin.godfrey@gmail.com
-</div>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Daniel_Haehn.jpg"><br>
@@ -111,7 +108,6 @@ permalink: "/faculty"
   Assistant Professor<br>
   M-3-201-20<br>
   daniel.haehn@umb.edu<br>
-</div>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Nurit_Haspel.jpg"><br>
@@ -122,7 +118,6 @@ permalink: "/faculty"
   617-287-6414<br>
   nurit.haspel@umb.edu
 </div>
-</div>
 <div class="person">
   <img src="/WEB/images/people/Glenn_Hoffman.jpg"><br>
   Glenn Hoffman<br>
@@ -131,7 +126,6 @@ permalink: "/faculty"
   617-287-6466<br>
   glenn.hoffman@umb.edu
 </div>
-</div>
 <div class="person">
   <img src="/WEB/images/people/swami.jpg"><br>
   <a href="http://www.cs.umb.edu/~siyer" target=_blank>Swami Iyer</a><br>
@@ -139,14 +133,12 @@ permalink: "/faculty"
   M-3-201-14<br>
   swaminathan.iyer@umb.edu
 </div>
-</div>
 <div class="person">
   <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
   Christopher Kelly<br>
   Lecturer<br>
   M-3-201-31<br>
   christopher.kelly005@umb.edu<br>
-</div>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Xiaohui_Liang.jpg"><br>
@@ -156,13 +148,11 @@ permalink: "/faculty"
   617-287-6791<br>
   xiaohui.liang@umb.edu
 </div>
-</div>
 <div class="person">
   <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
   George Lukas<br>
   Associate Professor (retired)<br>
   gl@cs.umb.edu
-</div>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Joan_Lukas.jpg"><br>
@@ -170,20 +160,17 @@ permalink: "/faculty"
   Emeritus Professor (retired)<br>
   joan@cs.umb.edu
 </div>
-</div>
 <div class="person">
   <img src="/WEB/images/people/Robert_Morris.jpg"><br>
   <a href="http://www.cs.umb.edu/~ram" target=_blank>Robert Morris</a><br>
   Emeritus Professor (retired)<br>
   ram@cs.umb.edu<br>
 </div>
-</div>
 <div class="person">
   <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
   Kenneth Newman<br>
   Associate Professor (retired)<br>
   kwn@cs.umb.edu
-</div>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Elizabeth_ONeil.jpg"><br>
@@ -192,13 +179,11 @@ permalink: "/faculty"
   617.287.6455<br>
   elizabeth.oneil@umb.edu
 </div>
-</div>
 <div class="person">
   <img src="/WEB/images/people/Patrick_ONeil.jpg"><br>
   <a href="http://www.cs.umb.edu/~poneil" target=_blank>Patrick O'Neil</a><br>
   Emeritus Professor (retired)<br>
   poneil@cs.umb.edu
-</div>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Carl_Offner.jpg"><br>
@@ -208,14 +193,12 @@ permalink: "/faculty"
   617.287.6490<br>
   carl.offner@umb.edu
 </div>
-</div>
 <div class="person">
   <img src="/WEB/images/people/Ming_Ouyang.jpg"><br>
   <a href="	http://www.cs.umb.edu/~ming/" target=_blank>Ming Ouyang</a><br>
   Associate Professor<br>
   M-3-201-25<br>
   ming.ouyang@umb.edu
-</div>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Marc_Pomplun.jpg"><br>
@@ -225,7 +208,6 @@ permalink: "/faculty"
   617-287-6443<br>
   marc.pomplun@umb.edu
 </div>
-</div>
 <div class="person">
   <img src="/WEB/images/people/amanda_potasznik.jpg"><br>
   Amanda Potasznik<br>
@@ -234,13 +216,11 @@ permalink: "/faculty"
   617-287-6490<br>
   amanda.potasznik@umb.edu
 </div>
-</div>
 <div class="person">
   <img src="/WEB/images/people/Matthew_Schneps.jpg"><br>
   <a href="http://www.cfa.harvard.edu/dyslexia/LVL/" target=_blank>Matthew Schneps</a><br>
   Research Professor (retired)<br>
   matthew.schneps@umb.edu
-</div>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Bo_Sheng.jpg"><br>
@@ -250,7 +230,6 @@ permalink: "/faculty"
   617.287.6468<br>
   bo.sheng@umb.edu
 </div>
-</div>
 <div class="person">
   <img src="/WEB/images/people/Dan_Simovici.jpg"><br>
   <a href="http://www.cs.umb.edu/~dsim" target=_blank>Dan Simovici</a><br>
@@ -259,14 +238,12 @@ permalink: "/faculty"
   617-287-6472<br>
   dan.simovici@umb.edu
 </div>
-</div>
 <div class="person">
   <img src="/WEB/images/people/Torna_Omar_Soro.jpg"><br>
   <a href="https://www.cs.umb.edu/~tsoro/" target=_blank>Torna Soro</a><br>
   Lecturer<br>
   M-3-201-32<br>
   torna.soro001@umb.edu
-</div>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Jun_Suzuki.jpg"><br>
@@ -276,13 +253,11 @@ permalink: "/faculty"
   617.287.6462<br>
   junichi.suzuki@umb.edu
 </div>
-</div>
 <div class="person">
   <img src="/WEB/images/people/Richard_Tenney.jpg"><br>
   <a href="http://www.cs.umb.edu/~rlt" target=_blank>Richard Tenney</a><br>
   Emeritus Professor (retired)<br>
   rlt@cs.umb.edu
-</div>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Duc_Tran.jpg"><br>
@@ -292,7 +267,6 @@ permalink: "/faculty"
   617-287-6452<br>
   duc.tran@umb.edu
 </div>
-</div>
 <div class="person">
   <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
   Simon Tran<br>
@@ -301,13 +275,11 @@ permalink: "/faculty"
   617-287-6490<br>
   simon.tran@umb.edu
 </div>
-</div>
 <div class="person">
   <img src="/WEB/images/people/Robert_Wilson.jpg"><br>
   <a href="	http://www.cs.umb.edu/~bobw" target=_blank>Robert Wilson</a><br>
   Senior Lecturer (retired)<br>
   bobw@cs.umb.edu
-</div>
 </div>
 <div class="person">
   <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
