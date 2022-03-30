@@ -5,14 +5,14 @@ permalink: "/groups"
 ---
 # Computational Biology Group (CBG)
 
-Director(s): [Nurit Haspel](put link here)
+Director(s): [Nurit Haspel](http://www.cs.umb.edu/~nurith)
 
 The computational biology group focuses on the development of novel algorithms and the application of state-of-the-art existing methodologies to solve various key problems in molecular biology, nanobiology and biochemistry. We combine biophysical and biochemical principles with algorithmic techniques, aiming to better understand protein structure and dynamics. Current research topics include modeling conformational changes in proteins, design of novel nano-structures, modeling protein-protein interactions and understanding protein folding and docking
 
 
 # Data Mining Group (DMG)
 
-Director(s): [Dan Simovici](put link here)
+Director(s): [Dan Simovici](http://www.cs.umb.edu/~dsim)
 
 Vast amounts of data are being gathered at a very rapid rate in various fields, such as, high energy particle physics, astronomy, astrophysics, and bioinformatics. The need for efficient and high quality algorithms to mine these datasets for hidden patterns has pushed the frontiers of research in machine learning and data mining.
 
