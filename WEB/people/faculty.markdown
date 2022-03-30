@@ -49,7 +49,7 @@ permalink: "/faculty"
   <a href="https://www.cs.umb.edu/~stchang/" target=_blank>Stephen Chang</a><br>
   Assistant Professor<br>
   M-3-201-03<br>
-  stephen.chang@umb.edu
+  stephen.chang@umb.edu<br>
   <br>
 </div>
 <div class="person">
