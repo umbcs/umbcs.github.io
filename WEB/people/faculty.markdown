@@ -81,7 +81,7 @@ permalink: "/faculty"
   <a href="http://www.cs.umb.edu/~fundad" target=_blank>Funda Durupinar</a><br>
   Assistant Professor<br>
   M-3-201-08<br>
-  funda.durupinarbabur@umb.edu
+  funda.durupinarbabur@umb.edu<br>
   <br>
 </div>
 <div class="person">
@@ -97,7 +97,8 @@ permalink: "/faculty"
   Kenneth Fletcher<br>
   Assistant Professor<br>
   M-3-201-21<br>
-  kenneth.fletcher@umb.edu
+  kenneth.fletcher@umb.edu<br>
+  <br>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Gabriel_Ghinita.jpg"><br>
@@ -144,7 +145,7 @@ permalink: "/faculty"
   <a href="http://www.cs.umb.edu/~siyer" target=_blank>Swami Iyer</a><br>
   Senior Lecturer<br>
   M-3-201-14<br>
-  swaminathan.iyer@umb.edu
+  swaminathan.iyer@umb.edu<br>
   <br>
 </div>
 <div class="person">
@@ -175,7 +176,9 @@ permalink: "/faculty"
   <img src="/WEB/images/people/Joan_Lukas.jpg"><br>
   <a href="http://www.cs.umb.edu/~joan" target=_blank>Joan Lukas</a><br>
   Emeritus Professor (retired)<br>
-  joan@cs.umb.edu
+  joan@cs.umb.edu<br>
+  <br>
+  <br>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Robert_Morris.jpg"><br>
@@ -222,7 +225,8 @@ permalink: "/faculty"
   <a href="	http://www.cs.umb.edu/~ming/" target=_blank>Ming Ouyang</a><br>
   Associate Professor<br>
   M-3-201-25<br>
-  ming.ouyang@umb.edu
+  ming.ouyang@umb.edu<br>
+  <br>
 </div>
 <div class="person">
   <img src="/WEB/images/people/Marc_Pomplun.jpg"><br>
@@ -316,7 +320,7 @@ permalink: "/faculty"
   <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
   Zaihan Yang<br>
   Lecturer<br>
-  zaihan.yang@umb.edu
+  zaihan.yang@umb.edu<br>
   <br>
   <br>
 </div>
