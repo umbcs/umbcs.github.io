@@ -57,11 +57,10 @@ EAGER: Advanced Machine Learning Techniques to Discover Disease Subtypes in Canc
 Additive Manufactacturing Simulator (AMS)
 
 |Source of funds                   |Product Innovation and Engineering    
-|PI(s)                             |[Kenneth FLetcher](put link here)
+|PI(s)                             |[Kenneth Fletcher](put link here)
 |Start Date                        |April 10, 2017
 |End Date                          |April 9, 2019
 |Amount                            |$100,000
-
 NeTS: Small: Collaborative: Towards Privacy-Preserving Autonomous Vehicle
 
 |Source of funds                   |National Science Foundation](https://www.nsf.gov)         
@@ -208,7 +207,7 @@ A Prototypical Ontology-supported Intelligent Geospatial Feature Discovery Syste
 Computational Framework for Characterizing Protein Conformational Landscapes
 
 |Source of funds                   |[National Science Foundation](phttps://www.nsf.gov)
-|PI(s)                             |[Nirut Haspel](http://www.cs.umb.edu/~nurith) 
+|PI(s)                             |[Nurit Haspel](http://www.cs.umb.edu/~nurith) 
 |Start Date                        |July 1, 2014
 |End Date                           |June 30, 2018
 |Amount                            |$320,000
@@ -240,7 +239,7 @@ A Prototypical Ontology-supporA Prototypical Ontology-supported Intelligent Geos
 Developing Novel Computational Methods for Investigating Protein Dynamics Using a Multi-Scale Approach
 
 |Source of funds                   |National Science Foundation](https://www.nsf.gov)
-|PI(s)                             |[Nirut Haspel](	http://www.cs.umb.edu/~nurith) 
+|PI(s)                             |[Nurit Haspel](	http://www.cs.umb.edu/~nurith) 
 |Start Date                        |Sept. 1, 2011
 |End Date                           |Aug. 31, 2014
 |Amount                            |$249,774
@@ -304,7 +303,7 @@ Outreach: Crater Seeker for Mars and Beyond
 Towards Rational Design of Amyloid-based Peptides to Self-assemble into Ordered Nano- or Micro-structures with Distinct Morphology
 
 |Source of funds                   |UMass Boston Proposal Preparation Grant Program
-|PI(s)                             |[Nirut Haspel](http://www.cs.umb.edu/~nurith) 
+|PI(s)                             |[Nurit Haspel](http://www.cs.umb.edu/~nurith) 
 |Start Date                        |July 1, 2010
 |End Date                           |Dec. 31, 2011
 |Amount                            |$10,000
@@ -312,7 +311,7 @@ Towards Rational Design of Amyloid-based Peptides to Self-assemble into Ordered 
 Identification and Characterization of Biologically Active Metabolic Fragments of Pituitary Hormones: Has an Entire Area of Cell Signaling Been Missed?
 
 |Source of funds                   |UMass Boston Healey Grant
-|PI(s)                             |[Nirut Haspel](http://www.cs.umb.edu/~nurith) 
+|PI(s)                             |[Nurit Haspel](http://www.cs.umb.edu/~nurith) 
 |Start Date                        |July 1, 2010
 |End Date                           |June 30, 2011
 |Amount                            |$12,000
@@ -352,7 +351,7 @@ Common Sense: Quantitative Reasoning in the Undergraduate Curriculum
 A Generic and Extensible Model Transformation Framework
 
 |Source of funds                   |[OGIS International](http://www.ogis-international.com)
-|PI(s)                             |[Jun Suzuki(http://www.cs.umb.edu/~jxs) 
+|PI(s)                             |[Jun Suzuki](http://www.cs.umb.edu/~jxs) 
 |Start Date                        |Oct. 1, 2007
 |End Date                           |Sept. 30, 2008
 |Amount                            |$20,000
@@ -360,7 +359,7 @@ A Generic and Extensible Model Transformation Framework
 A General Model for Saccadic Selectivity in Visual Search
 
 |Source of funds                   |[National Eye Institute](http://www.nei.nih.gov)
-|PI(s)                             |[Marc Pomplun(http://www.cs.umb.edu/~marc) 
+|PI(s)                             |[Marc Pomplun](http://www.cs.umb.edu/~marc) 
 |Start Date                        |Sept. 1, 2007
 |End Date                           |Aug. 30, 2009
 |Amount                            |$207,810
@@ -368,7 +367,7 @@ A General Model for Saccadic Selectivity in Visual Search
 A Biologically-inspired Autonomic Architecture for Self-Managing Wireless Sensor Networks
 
 |Source of funds                   |UMass Boston Proposal Preparation Grant
-|PI(s)                             |[Jun Suzuki(http://www.cs.umb.edu/~jxs) 
+|PI(s)                             |[Jun Suzuki](http://www.cs.umb.edu/~jxs) 
 |Start Date                        |April. 1, 2007
 |End Date                           |March. 31, 2008
 |Amount                            |$6,754
@@ -376,7 +375,7 @@ A Biologically-inspired Autonomic Architecture for Self-Managing Wireless Sensor
 A Generic and Extensible Model Transformation Framework
 
 |Source of funds                   |[OGIS International, Inc.](http://www.ogis-international.com)
-|PI(s)                             |[Jun Suzuki(http://www.cs.umb.edu/~jxs) 
+|PI(s)                             |[Jun Suzuki](http://www.cs.umb.edu/~jxs) 
 |Start Date                        |Oct. 1, 2006
 |End Date                           |Sept. 31, 2007
 |Amount                            |$25,000
@@ -384,7 +383,7 @@ A Generic and Extensible Model Transformation Framework
 CSR-PDOS: A Scalable and Self-Organizing System Architecture for Fast and Efficient Information Retrieval in Large-Scale Decentralized Networks
 
 |Source of funds                   |[National Science Foundation](http://www.vertica.com)
-|PI(s)                             |[Duc Tran(http://www.cs.umb.edu/~duc) 
+|PI(s)                             |[Duc Tran](http://www.cs.umb.edu/~duc) 
 |Start Date                        |Sept. 1, 2006
 |End Date                           |Aug. 31, 2009
 |Amount                            |$225,000
@@ -398,7 +397,7 @@ Support for Doctoral Students
 A Software Plug-and-Play Framework for Next Generation Power Delivery Systems
 
 |Source of funds                   |[Central Research Institute of Electric Power Industry](http://criepi.denken.or.jp/en/)
-|PI(s)                             |[Jun Suzuki(http://www.cs.umb.edu/~jxs) 
+|PI(s)                             |[Jun Suzuki](http://www.cs.umb.edu/~jxs) 
 |Start Date                        |June 1, 2006
 |End Date                           |March. 31, 2007
 |Amount                            |$47,571
@@ -406,7 +405,7 @@ A Software Plug-and-Play Framework for Next Generation Power Delivery Systems
 A Generic and Extensible Model Transformation Framework
 
 |Source of funds                   |[OGIS International, Inc.](http://www.ogis-international.com)
-|PI(s)                             |[Jun Suzuki(http://www.cs.umb.edu/~jxs) 
+|PI(s)                             |[Jun Suzuki](http://www.cs.umb.edu/~jxs) 
 |Start Date                        |April 1, 2005
 |End Date                          |Sept. 30, 2006
 |Amount                            |$20,000
@@ -415,7 +414,7 @@ SEI(BIO)+II: Metadata-Rich Image Databases for Biodiversity
 
 
 |Source of funds                   |[National SCience Foundation](https://www.nsf.gov)
-|PI(s)                             |[Robert Morris(http://www.cs.umb.edu/~ram) 
+|PI(s)                             |[Robert Morris](http://www.cs.umb.edu/~ram) 
 |Start Date                        |Oct 1, 2004
 |End Date                          |Sept. 30, 2007
 |Amount                            |$300,000
@@ -423,7 +422,7 @@ SEI(BIO)+II: Metadata-Rich Image Databases for Biodiversity
 DBI Electronic Field Guides: Building Partnerships and Informatics Tools for Species Identification and Biodiversity Monitoring
 
 |Source of funds                   |[National SCience Foundation](https://www.nsf.gov)
-|PI(s)                             |[Robert Morris(http://www.cs.umb.edu/~ram) 
+|PI(s)                             |[Robert Morris](http://www.cs.umb.edu/~ram) 
 |Start Date                        |Sept. 1, 2004
 |End Date                          |Aug. 31, 2007
 |Amount                            |$1,090,000
@@ -431,7 +430,7 @@ DBI Electronic Field Guides: Building Partnerships and Informatics Tools for Spe
 Graduate Assistantships in Areas of National Need
 
 |Source of funds                   |[Department of Education](http://www.ed.gov)
-|PI(s)                             |[Peter Fejer(http://www.cs.umb.edu/~fejer) 
+|PI(s)                             |[Peter Fejer](http://www.cs.umb.edu/~fejer) 
 |Start Date                        |Aug. 15, 2004
 |End Date                          |Aug. 15, 2009
 |Amount                            |$413,880
@@ -439,7 +438,7 @@ Graduate Assistantships in Areas of National Need
 Developing a New Infrastructure for Dynamic Access to Multi-institutional Biodiversity Data
 
 |Source of funds                   |[National Science Foundation](http://www.nsf.gov)
-|PI(s)                             |[Rober Morris(http://www.cs.umb.edu/~ram) 
+|PI(s)                             |[Rober Morris](http://www.cs.umb.edu/~ram) 
 |Start Date                        |Feb. 1, 2004
 |End Date                          |April. 30, 2007
 |Amount                            |$202,209
@@ -454,7 +453,7 @@ Model-Driven Development of Autonomous Adaptive Network Applications
 Collaborative Research: Development of New Digital Library Applications in the Context of a Basic Ontology for Biosystematics Information Using the Literature of Entomology (ants)
 
 |Source of funds                   |[The American Museum of National History](http://www.amnh.org)
-|PI(s)                             |[Robert Morris(http://www.cs.umb.edu/~ram) 
+|PI(s)                             |[Robert Morris](http://www.cs.umb.edu/~ram) 
 |Start Date                        |Dec. 1, 2003
 |End Date                          |Nov. 30, 2006
 |Amount                            |$110,060
@@ -462,7 +461,7 @@ Collaborative Research: Development of New Digital Library Applications in the C
 Implementation of EyeLink Programming Interfaces to Presentation and E-Prime Applications
 
 |Source of funds                   |[SR Research, Toronto, Canada](https://www.sr-research.com)
-|PI(s)                             |[Marc Pomplun(http://www.cs.umb.edu/~marc) 
+|PI(s)                             |[Marc Pomplun](http://www.cs.umb.edu/~marc) 
 |Start Date                        |Aug. 1, 2003
 |End Date                          |Aug. 31, 2004
 |Amount                            |$13,200
@@ -470,7 +469,7 @@ Implementation of EyeLink Programming Interfaces to Presentation and E-Prime App
 Electronic Field Guides for Auditory Neuroscience
 
 |Source of funds                   |[Boston University](http://www.bu.edu)
-|PI(s)                             |[Marc Pomplun(http://www.cs.umb.edu/~marc) 
+|PI(s)                             |[Marc Pomplun](http://www.cs.umb.edu/~marc) 
 |Start Date                        |Jan. 1, 2002
 |End Date                          |Aug. 31, 2006
 |Amount                            |$173,242
