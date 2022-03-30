@@ -493,7 +493,7 @@ Biodiversity Data Discovery and Integration
 The Isolation Testing Project
 
 |Source of funds                   |[National Science Foundation](http://www.nsf.gov)
-|PI(s)                             |[Elizabeth O'neil](http://www.cs.umb.edu/~eoneil), Patrick O'neil](put link here)
+|PI(s)                             |[Elizabeth O'neil](http://www.cs.umb.edu/~eoneil), Patrick O'neil](https://www.cs.umb.edu/~poneil/)
 |Start Date                        |Sept. 1, 1997
 |End Date                          |Aug 31, 2004
 |Amount                            |$360,000
