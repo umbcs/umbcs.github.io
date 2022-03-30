@@ -244,8 +244,10 @@ permalink: "/faculty"
   <br>
   <br>
 </div>
-
+<br>
+<br>
 <h3>Retired Faculty:</h3>
+<br>
 <div class="person">
   <img src="/WEB/images/people/Alfred_Bird.jpg"><br>
   Alfred Bird<br>
