@@ -70,7 +70,7 @@ NCLab's primary mission is to perform cutting-edge research in emerging areas of
 
 # Services Computing Laboratory (SCLab)
 
-Director(s): [Kenneth Fletcher]
+Director(s): Kenneth Fletcher
 
 Services Computing Laboratory (SCLab) focuses on developing methods and algorithms services selection and recommendation. Specifically, SCLab focuses on capturing and including users’ evolving preferences in machine/deep learning algorithms to improve accuracy of services selection and recommendation. Areas of research include exploring user temporal and contextual preferences from sequential actions, detecting fake likers in social media network, and improving recommendation accuracy with Knowledge Graphs.
 
