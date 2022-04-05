@@ -21,10 +21,7 @@ function loadCourses(filename) {
 
 
 
-function printSchedule() {
-
-
-  var url = "schedule.xlsx";
+function printSchedule(url, element) {
 
   var req = new XMLHttpRequest();
 
@@ -55,7 +52,9 @@ function printSchedule() {
 
     var wb = XLSX.read(req.response);
 
-     json = XLSX.utils.sheet_to_json(wb.Sheets[wb.SheetNames[0]]);
+    json = XLSX.utils.sheet_to_json(wb.Sheets[wb.SheetNames[0]]);
+
+    var all_html = '';
 
     for (var row in json) {
 
@@ -113,9 +112,11 @@ function printSchedule() {
       html += "<td>"+remark+"</td>";
       html += "</tr>";
 
-      document.getElementById("schedule_listing").innerHTML += html;
+      all_html += html;
 
     }
+
+    element.innerHTML = all_html;
 
   }
 
