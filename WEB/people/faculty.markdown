@@ -287,7 +287,6 @@ permalink: "/faculty"
     <br>
   </div>
   <div class="person">
-    <img src="/WEB/images/people/Elizabeth_ONeil.jpg"><br>
     <a href="http://www.cs.umb.edu/~eoneil"><img src="/WEB/images/people/Elizabeth_ONeil.jpg"></a><br>
     <a href="http://www.cs.umb.edu/~eoneil" target=_blank>Elizabeth O'Neil</a><br>
     Emeritus Professor (retired)<br>
