@@ -6,7 +6,7 @@ permalink: "/faculty"
 
 <div id='active_faculty' class='listing'>
   <div class="person">
-    <img src="/WEB/images/people/ozgun_babur.jpg"><br>
+    <a href="https://www.cs.umb.edu/~ozgun"<img src="/WEB/images/people/ozgun_babur.jpg"></a><br>
     <a href="https://www.cs.umb.edu/~ozgun" target=_blank>Ozgun Babur</a><br>
     Assistant Professor<br>
     M-3-201-02<br>
