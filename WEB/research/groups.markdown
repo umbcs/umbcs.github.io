@@ -26,7 +26,7 @@ Director(s): [Elizabeth O'Neil](http://www.cs.umb.edu/~eoneil), [Patrick O'Neil]
 DARG seeks to develop advances in database technology that support commercially viable database internal and application improvements. Recent research topics include devising benchmarks and improving designs for data warehousing, isolation testing to provide guarantees of correctness at lower isolation levels, concurrency control algorithms, and bit-sliced indexes and arithmetic. A student from our group was involved with us in a prototype product named C-Store that has since been used as the basis of an industry startup named Vertica.
 
 
-# Distributed Software Systems Group (DSSG)
+# [Distributed Software Systems Group (DSSG)](https://www.cs.umb.edu/~jxs/research/projects.html)
 
 Director(s): [Jun Suzuki](http://www.cs.umb.edu/~jxs)
 
@@ -40,28 +40,28 @@ Director(s): [Ming Ouyang](http://www.cs.umb.edu/~ming/)
 The focus is to parallelize data analysis algorithms, statistical computation, and bioinformatics applications using Nvidia GPUs, AVX instructions, and Intel Xeon Phi processors.
 
 
-# Knowledge Discovery Laboratory (KDLab)
+# [Knowledge Discovery Laboratory (KDLab)](https://www.cs.umb.edu/~ding/research.html)
 
 Director(s): [Wei Ding](http://www.cs.umb.edu/~ding) 
 
 Knowledge Discovery Laboratory aims at the development of data analysis and data management techniques with applications to challenging problems in geosciences, astronomy, environmental sciences. Areas of research include mining discriminating patterns, discovering interesting regions of arbitrary shape and granularity, designing new classification algorithms, and developing scalable algorithms to cope with large real-world datasets.
 
 
-# Machine Psychology (MPsych)
+# [Machine Psychology (MPsych)](https://mpsych.org/)
 
 Director(s): [Daniel Haehn](http://www.cs.umb.edu/~haehn)
 
 Machine learning methods are inspired by neuroscientific discoveries-but current methods are fragile, do not generalize well, and require massive amounts of data. We use visual computing methods to better understand the similarities and differences between human and machine intelligence.
 
 
-# Mobile Security and Privacy Research Lab (MobSP)
+# [Mobile Security and Privacy Research Lab (MobSP)](https://www.cs.umb.edu/mobsp/)
 
 Director(s): [Xiaohui Liang](http://www.faculty.umb.edu/xiaohui.liang) 
 
 Our research interests include security and privacy for mobile devices, smartphones, and IoT devices. We are currently working on security and privacy issues related to health care, smartphones, and personal voice assistance.
 
 
-# Network Computing Laboratory (NCLab)
+# [Network Computing Laboratory (NCLab)](http://nclab.cs.umb.edu/)
 
 Director(s): [Duc Tran](http://www.cs.umb.edu/~duc) 
 
@@ -75,7 +75,7 @@ Director(s): Kenneth Fletcher
 Services Computing Laboratory (SCLab) focuses on developing methods and algorithms services selection and recommendation. Specifically, SCLab focuses on capturing and including users’ evolving preferences in machine/deep learning algorithms to improve accuracy of services selection and recommendation. Areas of research include exploring user temporal and contextual preferences from sequential actions, detecting fake likers in social media network, and improving recommendation accuracy with Knowledge Graphs.
 
 
-# Software Verification Laboratory (SVL)
+# [Software Verification Laboratory (SVL)](https://umb-svl.gitlab.io/)
 
 Director(s): [Tiago Cogumbreiro](https://cogumbreiro.github.io/) 
 
@@ -89,7 +89,7 @@ Director(s): [Funda Durupinar](http://www.cs.umb.edu/~fundad)
 Virtual characters have become ubiquitous mainly through movies and games, but also in the assistive domain as virtual tutors, healthcare providers, interviewers and so on. VCLab aims to develop believable, autonomous virtual characters that exhibit a rich repertoire of behaviors driven by external and internal stimuli. We focus on inherently multidisciplinary problems, involving expertise on computer graphics, animation, artificial intelligence, psychology, and movement analysis.
 
 
-# Visual Attention Laboratory (VALab)
+# [Visual Attention Laboratory (VALab)](https://www.cs.umb.edu/~marc/lab/)
 
 Director(s): [Marc Pomplun](http://www.cs.umb.edu/~marc)
 
