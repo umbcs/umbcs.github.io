@@ -36,3 +36,7 @@ permalink: /academics/
 
 - [Student Funding](/student-funding)
   Provides funding opportunities for undergraduate and graduate students.
+
+- [Alumni](/alumni)
+  Information regarding our alumni.
+
