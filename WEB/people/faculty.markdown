@@ -110,7 +110,7 @@ permalink: "/faculty"
     <br>
   </div>
   <div class="person">
-    <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
+    <img src="/WEB/images/people/Christopher_Kelly.jpg"><br>
     Christopher Kelly<br>
     Lecturer<br>
     M-3-201-31<br>
