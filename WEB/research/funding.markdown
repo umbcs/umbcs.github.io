@@ -7,6 +7,7 @@ permalink: "/funding"
 PIs and Co-PIs only include members of the UMass Boston Computer Science department.
 
 <h3>The Oregon-Massachusetts Mammography Database (OMAMA-DB)</h3>
+
 |Source of funds                   |Massachusetts Life Sciences Center      
 |PI(s)                             |[Daniel Haehn](https://danielhaehn.com/), [Nurit Haspel](https://www.cs.umb.edu/~nurith/), [Dan Simovici](https://www.cs.umb.edu/~dsim/), [Marc Pomplun](https://www.cs.umb.edu/~marc/)
 |Start Date                        |June 2020
@@ -14,6 +15,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 |Amount                            |$749,834.00
 
 <h3>Real-Time Visualization and Precision Targeting in Transcranial Magnetic Stimulation</h3>
+
 |Source of funds                   |National Institutes of Health R21    
 |PI(s)                             |[Daniel Haehn](https://danielhaehn.com/)
 |Start Date                        |June 2020
@@ -243,7 +245,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 End Date                           |May 31, 2016
 |Amount                            |$305,268
 
-<h3>A Prototypical Ontology-supporA Prototypical Ontology-supported Intelligent Geospatial Feature Discovery System</h3>
+<h3>A Prototypical Ontology-supported Intelligent Geospatial Feature Discovery System</h3>
 
 |Source of funds                   |George Mason University
 |PI(s)                             |[Kenneth Fletcher](put link here) 
