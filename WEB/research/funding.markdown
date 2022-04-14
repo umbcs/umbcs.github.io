@@ -22,6 +22,14 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 |End Date                          |June 2022
 |Amount                            |$156,663.00
 
+<h3>Exploiting Voice Assistant Systems for Early Detection of Cognitive Decline</h3>
+
+|Source of funds                   |NIH/NIA   
+|PI(s)                             |[Xiaohui Liang](http://www.faculty.umb.edu/xiaohui.liang/)
+|Start Date                        |Sep. 30, 2019
+|End Date                          |May 31, 2023
+|Amount                            |$1,179,714 (UMB share $596,844)
+
 <h3>Digital Marker of Marijuana Intoxication: Measure of Dysfunctional Retinal Gangli</h3>
 
 |Source of funds                   |IMMAD LLC      
