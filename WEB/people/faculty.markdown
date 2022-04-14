@@ -14,7 +14,7 @@ permalink: "/faculty"
     <br>
   </div>
   <div class="person">
-    <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
+    <img src="/WEB/images/people/Temitayo_Banjo.jpg"><br>
     Temitayo Banjo<br>
     Lecturer<br>
     M-3-201-32<br>
