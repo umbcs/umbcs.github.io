@@ -84,7 +84,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 |End Date                          |Aug 31, 2020
 |Amount                            |$135,348
 
-<h3>CRII: CHS: Perceptual Data Guided Computational Design
+<h3>CRII: CHS: Perceptual Data Guided Computational Design</h3>
 
 |Source of funds                   |National Science Foundation](https://www.nsf.gov)</h3>         
 |PI(s)                             |[Marc Pomplun](http://www.cs.umb.edu/~marc)
