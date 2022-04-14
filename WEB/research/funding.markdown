@@ -403,7 +403,7 @@ End Date                           |March 31, 2012
 |End Date                           |Aug. 31, 2009
 |Amount                            |$225,000
 
-<h3>Support for Doctoral Students
+<h3>Support for Doctoral Students</h3>
 
 |Source of funds                   |Vertica Corportaion
 |Start Date                        |June 1, 2006
