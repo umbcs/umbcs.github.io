@@ -57,7 +57,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 <h3>Data-Driven Automatic Interior</h3>
 
 |Source of funds                   |Wayfair LLC      
-|PI(s)                             |[Craig Yu](put link here)
+|PI(s)                             |Craig Yu
 |Start Date                        |June 1, 2018
 |End Date                          |Dec 31, 2018
 |Amount                            |$33,039
