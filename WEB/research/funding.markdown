@@ -88,7 +88,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 
 <h3>NeTS: Small: Collaborative: Towards Privacy-Preserving Autonomous Vehicle</h3>
 
-|Source of funds                   |National Science Foundation](https://www.nsf.gov)         
+|Source of funds                   |[National Science Foundation](https://www.nsf.gov)         
 |PI(s)                             |[Xiaohui Liang](http://www.faculty.umb.edu/xiaohui.liang)
 |Start Date                        |Sept 1, 2016
 |End Date                          |Aug 31, 2020
@@ -96,7 +96,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 
 <h3>CRII: CHS: Perceptual Data Guided Computational Design</h3>
 
-|Source of funds                   |National Science Foundation](https://www.nsf.gov)</h3>         
+|Source of funds                   |[National Science Foundation](https://www.nsf.gov)        
 |PI(s)                             |[Marc Pomplun](http://www.cs.umb.edu/~marc)
 |Start Date                        |July 1, 2016
 |End Date                          |June 30, 2019
@@ -104,7 +104,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 
 <h3>Participant Support - CRII: CHS: Perceptual Data Guided Computational Design</h3>
 
-|Source of funds                   |National Science Foundation](https://www.nsf.gov)         
+|Source of funds                   |[National Science Foundation](https://www.nsf.gov)         
 |PI(s)                             |[Marc Pomplun](http://www.cs.umb.edu/~marc)
 |Start Date                        |July 1, 2016
 |End Date                          |June 30, 2019
@@ -128,7 +128,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 
 <h3>NeTS: Small: New models and techniques for efficient communication in smartphone ad-hoc networks</h3>
 
-|Source of funds                   |National Science Foundation](https://www.nsf.gov)         
+|Source of funds                   |[National Science Foundation](https://www.nsf.gov)         
 |PI(s)                             |[Bo Sheng](http://www.cs.umb.edu/~shengbo)
 |Start Date                        |Oct. 1, 2015
 |End Date                          |Sept. 30, 2019
@@ -136,7 +136,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 
 <h3>NeTS: Small: New models and techniques for efficient communication in smartphone ad-hoc networks</h3>
 
-|Source of funds                   |National Science Foundation](https://www.nsf.gov)         
+|Source of funds                   |[National Science Foundation](https://www.nsf.gov)         
 |PI(s)                             |[Bo Sheng](http://www.cs.umb.edu/~shengbo)
 |Start Date                        |Oct. 1, 2015
 |End Date                          |Sept. 30, 2019
@@ -144,7 +144,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 
 <h3>SaTC: EDU: Capacity Building in Security, Privacy and Trust for Geospatial Applications</h3>
 
-|Source of funds                   |National Science Foundation](https://www.nsf.gov)         
+|Source of funds                   [|National Science Foundation](https://www.nsf.gov)         
 |PI(s)                             |[Gabriel Ghinita](http://www.cs.umb.edu/~gghinita/)
 |Start Date                        |Sept. 15, 2015
 |End Date                          |Aug. 31, 2018
@@ -160,7 +160,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 
 <h3>EAGER: Harnessing Dependency to Achieve Efficient Resource Management in Scalable Multi-stage Data Processing Systems</h3>
 
-|Source of funds                   |National Science Foundation](https://www.nsf.gov)         
+|Source of funds                   |[National Science Foundation](https://www.nsf.gov)         
 |PI(s)                             |[Bo Sheng](http://www.cs.umb.edu/~shengbo)
 |Start Date                        |Sept. 1, 2015
 |End Date                          |Dec. 31, 2017
@@ -168,7 +168,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 
 <h3>EAGER: Harnessing Dependency to Achieve Efficient Resource Management in Scalable Multi-stage Data Processing Systems</h3>
 
-|Source of funds                   |National Science Foundation](https://www.nsf.gov)         
+|Source of funds                   |[National Science Foundation](https://www.nsf.gov)         
 |PI(s)                             |[Bo Sheng](http://www.cs.umb.edu/~shengbo)
 |Start Date                        |Sept. 1, 2015
 |End Date                          |Dec. 31, 2017
@@ -184,7 +184,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 
 <h3>Software-Defined Privacy-Preserving Network Measurement Instrument</h3>
 
-|Source of funds                   |National Science Foundation](https://www.nsf.gov)         
+|Source of funds                   |[National Science Foundation](https://www.nsf.gov)         
 |PI(s)                             |[Gabriel Ghinita](http://www.cs.umb.edu/~gghinita/) 
 |Start Date                        |April. 1, 2015
 |End Date                          |March. 31, 2019
@@ -192,7 +192,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 
 <h3>Privacy-Preserving Protocols for Network Measurement to Support Data-Driven Science Discovery</h3>
 
-|Source of funds                   |National Science Foundation](https://www.nsf.gov)         
+|Source of funds                   |[National Science Foundation](https://www.nsf.gov)         
 |PI(s)                             |[Gabriel Ghinita](http://www.cs.umb.edu/~gghinita/) 
 |Start Date                        |March. 31, 2015
 |End Date                          |March. 31, 2018
@@ -215,7 +215,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 
 <h3>Computational Assessment of Landing Performance</h3>
 
-|Source of funds                   |[Federal Aviation Administration](http://www.faa.gov)]
+|Source of funds                   |[Federal Aviation Administration](http://www.faa.gov)
 |PI(s)                             |[Ming Ouyang](http://www.cs.umb.edu/~ming/) [Craig Yu](put link here)
 |Start Date                        |Aug. 1, 2014
 |End Date                           |Oct. 31, 2015
@@ -223,7 +223,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 
 <h3>A Prototypical Ontology-supported Intelligent Geospatial Feature Discovery System</h3>
 
-|Source of funds                   |[George Mason University]]
+|Source of funds                   |George Mason University
 |PI(s)                             |[Wei Ding](http://www.cs.umb.edu/~ding) [Craig Yu](put link here)
 |Start Date                        |July. 27, 2014
 |End Date                           |July. 26, 2015
@@ -263,7 +263,7 @@ End Date                           |May 31, 2016
 
 <h3>Developing Novel Computational Methods for Investigating Protein Dynamics Using a Multi-Scale Approach</h3>
 
-|Source of funds                   |National Science Foundation](https://www.nsf.gov)
+|Source of funds                   |[National Science Foundation](https://www.nsf.gov)
 |PI(s)                             |[Nurit Haspel](	http://www.cs.umb.edu/~nurith) 
 |Start Date                        |Sept. 1, 2011
 |End Date                           |Aug. 31, 2014
@@ -438,7 +438,7 @@ End Date                           |March 31, 2012
 <h3>SEI(BIO)+II: Metadata-Rich Image Databases for Biodiversity</h3>
 
 
-|Source of funds                   |[National SCience Foundation](https://www.nsf.gov)
+|Source of funds                   |[National Science Foundation](https://www.nsf.gov)
 |PI(s)                             |[Robert Morris](http://www.cs.umb.edu/~ram) 
 |Start Date                        |Oct 1, 2004
 |End Date                          |Sept. 30, 2007
