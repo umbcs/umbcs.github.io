@@ -144,7 +144,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 
 <h3>SaTC: EDU: Capacity Building in Security, Privacy and Trust for Geospatial Applications</h3>
 
-|Source of funds                   [|National Science Foundation](https://www.nsf.gov)         
+|Source of funds                   |[National Science Foundation](https://www.nsf.gov)         
 |PI(s)                             |[Gabriel Ghinita](http://www.cs.umb.edu/~gghinita/)
 |Start Date                        |Sept. 15, 2015
 |End Date                          |Aug. 31, 2018
@@ -177,7 +177,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 <h3>A Virtual Reality Platform for Visual Attention Research</h3>
 
 |Source of funds                   |UMass Boston Healey Grant
-|PI(s)                             |[Marc Pomplun](http://www.cs.umb.edu/~marc) [Craig Yu](put link here)
+|PI(s)                             |[Marc Pomplun](http://www.cs.umb.edu/~marc), [Craig Yu](put link here)
 |Start Date                        |July. 1, 2015
 |End Date                          |June. 30, 2016
 |Amount                            |$11,599
@@ -209,7 +209,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 <h3>Advanced Data Mining to Discover Disease Subtypes in Cancer</h3>
 
 |Source of funds                   |Dana Farber Cancer Institute
-|PI(s)                             |[Wei Ding](	http://www.cs.umb.edu/~ding) [Craig Yu](put link here)
+|PI(s)                             |[Wei Ding](	http://www.cs.umb.edu/~ding), [Craig Yu](put link here)
 |Start Date                        |Dec. 1, 2014
 |Amount                            |$91,000
 
@@ -224,7 +224,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 <h3>A Prototypical Ontology-supported Intelligent Geospatial Feature Discovery System</h3>
 
 |Source of funds                   |George Mason University
-|PI(s)                             |[Wei Ding](http://www.cs.umb.edu/~ding) [Craig Yu](put link here)
+|PI(s)                             |[Wei Ding](http://www.cs.umb.edu/~ding), [Craig Yu](put link here)
 |Start Date                        |July. 27, 2014
 |End Date                           |July. 26, 2015
 |Amount                            |$61,521
@@ -446,7 +446,7 @@ End Date                           |March 31, 2012
 
 <h3>DBI Electronic Field Guides: Building Partnerships and Informatics Tools for Species Identification and Biodiversity Monitoring</h3>
 
-|Source of funds                   |[National SCience Foundation](https://www.nsf.gov)
+|Source of funds                   |[National Science Foundation](https://www.nsf.gov)
 |PI(s)                             |[Robert Morris](http://www.cs.umb.edu/~ram) 
 |Start Date                        |Sept. 1, 2004
 |End Date                          |Aug. 31, 2007
