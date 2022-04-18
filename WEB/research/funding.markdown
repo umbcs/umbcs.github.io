@@ -33,7 +33,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 <h3>Practical Encryption for Geospatial Queries on Private Data</h3>
 
 |Source of funds                   |[National Science Foundation](https://www.nsf.gov)
-|PI(s)                             |Gabriel Ghinita](https://www.cs.umb.edu/~gghinita/)
+|PI(s)                             |[Gabriel Ghinita](https://www.cs.umb.edu/~gghinita/)
 |Start Date                        |Oct. 1, 2019
 |End Date                          |Sep. 30, 2022
 |Amount                            |$209,186.00
