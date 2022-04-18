@@ -30,6 +30,14 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 |End Date                          |May 31, 2023
 |Amount                            |$1,179,714 (UMB share $596,844)
 
+<h3>Practical Encryption for Geospatial Queries on Private Data</h3>
+
+|Source of funds                   |[National Science Foundation](https://www.nsf.gov)
+|PI(s)                             |Gabriel Ghinita](https://www.cs.umb.edu/~gghinita/)
+|Start Date                        |Oct. 1, 2019
+|End Date                          |Sep. 30, 2022
+|Amount                            |$209,186.00
+
 <h3>Digital Marker of Marijuana Intoxication: Measure of Dysfunctional Retinal Gangli</h3>
 
 |Source of funds                   |IMMAD LLC      
