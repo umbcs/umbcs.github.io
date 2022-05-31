@@ -271,14 +271,6 @@ permalink: "/faculty"
     <br>
   </div>
   <div class="person">
-    <a href="http://www.cs.umb.edu/~ram"><img src="/WEB/images/people/Robert_Morris.jpg"></a><br>
-    <a href="http://www.cs.umb.edu/~ram" target=_blank>Robert Morris</a><br>
-    Emeritus Professor (retired)<br>
-    ram@cs.umb.edu<br>
-    <br>
-    <br>
-  </div>
-  <div class="person">
     <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
     Kenneth Newman<br>
     Associate Professor (retired)<br>
@@ -335,6 +327,14 @@ permalink: "/faculty"
     <a href="http://www.cs.umb.edu/~wrc" target=_blank>Bill Campbell</a><br>
     Associate Professor<br>
     <br>
+    <br>
+    <br>
+  </div>
+  <div class="person">
+    <a href="http://www.cs.umb.edu/~ram"><img src="/WEB/images/people/Robert_Morris.jpg"></a><br>
+    <a href="http://www.cs.umb.edu/~ram" target=_blank>Robert Morris</a><br>
+    Emeritus Professor (retired)<br>
+    ram@cs.umb.edu<br>
     <br>
     <br>
   </div>
