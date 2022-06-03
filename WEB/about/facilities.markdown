@@ -13,47 +13,46 @@ to access the servers for their programming assignments.
 
 The following information details the equipment in the various labs:
 
-The UNIX/PC Lab (M-3-731) is equipped with:
-
-     * Networked HP M606dn printers
-     * 38 Dell Optiplex 7040 workstations
-     * 1 Dell Optiplex 7050 workstation
-     * 5 Dell Optiplex 7070 workstations
-
-     * Total of 44 PCs:
-          * 22 running Windows
-          * 22 running Ubuntu Linux
-
-
-The Web Lab (M-3-732) is equipped with:
-
-        * 19 Dell Optiplex 7050 workstations (Windows)
-        * 1 Teaching Lectern*
-        * 1 Retractable 80"x50" White Screen
-        * 1 190"x48" White Board
-        * 1 LCD Laser Projector
-
-        * Total of 19 PCs: Includes Resident PC
-
-The IT Lab (M-3-730) is equipped with:
-
-        * 11 Dell Optiplex 7060 workstations (Windows)
-        * 9 Dell Optiplex 7070 workstations  (windows)
-        * 1 Teaching Lectern*
-        * 1 Retractable 80"x48" White Screen
-        * 1 286"x48" White Board
-        * 1 LCD Laser Projector
-
-        * Total of 20 PCs: Includes Resident PC
-
-
-        * Teaching Lectern contains:
-
-          * Blu-Ray DVD
-          * Resident PC
-          * Laptop HDMI Connection
-          * Laptop VGA Connection
-          * Hardline Internet connection to UMB Network
+<h3>The UNIX/PC Lab (M-3-731) is equipped with:</h3>
+<ul>
+    <li>Networked HP M606dn printers</li>
+    <li>38 Dell Optiplex 7040 workstations</li>
+    <li>1 Dell Optiplex 7050 workstation</li>
+    <li>5 Dell Optiplex 7070 workstations</li>
+</ul>
+<h5>Total of 44 PCs:</h5>
+    <ul>
+        <li>22 running Windows</li>
+        <li>22 running Ubuntu Linux</li>
+    </ul>
+</ul>
+<h3>The Web Lab (M-3-732) is equipped with:</h3>
+<ul>
+   <li>19 Dell Optiplex 7050 workstations (Windows)</li>
+   <li>1 Teaching Lectern*</li>
+   <li>1 Retractable 80"x50" White Screen</li>
+   <li>1 190"x48" White Board</li>
+    <li>1 LCD Laser Projector</li>
+</ul>
+<h5>Total of 19 PCs: Includes Resident PC</h5>
+<h3>The IT Lab (M-3-730) is equipped with:</h3>
+<ul>
+    <li>11 Dell Optiplex 7060 workstations (Windows)</li>
+    <li>9 Dell Optiplex 7070 workstations  (windows)</li>
+    <li>1 Teaching Lectern*</li>
+    <li>1 Retractable 80"x48" White Screen</li>
+    <li>1 286"x48" White Board</li>
+    <li>1 LCD Laser Projector</li>
+</ul>
+<h5>Total of 20 PCs: Includes Resident PC</h5>
+<h4>Teaching Lectern contains:</h4>
+<ul>
+    <li>Blu-Ray DVD</li>
+    <li>Resident PC</li>
+    <li>Laptop HDMI Connection</li>
+    <li>Laptop VGA Connection</li>
+    <li>Hardline Internet connection to UMB Network</li>
+</ul>
 
 Lectern is connected to a LCD Laser Projector displaying 94" image onto the
 projection screen.
