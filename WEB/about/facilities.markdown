@@ -44,7 +44,7 @@ The following information details the equipment in the various labs:
     <li>1 LCD Laser Projector</li>
 </ul>
 <h5>Total of 20 PCs: Includes Resident PC</h5>
-<h4>Teaching Lectern contains:</h4>
+<h4>* Teaching Lectern contains:</h4>
 <ul>
     <li>Blu-Ray DVD</li>
     <li>Resident PC</li>
