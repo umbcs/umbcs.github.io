@@ -15,45 +15,45 @@ The following information details the equipment in the various labs:
 
 The UNIX/PC Lab (M-3-731) is equipped with:
 
-     > 2 Networked HP M606dn printers
-     > - 38 Dell Optiplex 7040 workstations
-     > - 1 Dell Optiplex 7050 workstation
-     > - 5 Dell Optiplex 7070 workstations
+     * Networked HP M606dn printers
+     * 38 Dell Optiplex 7040 workstations
+     * 1 Dell Optiplex 7050 workstation
+     * 5 Dell Optiplex 7070 workstations
 
-     > Total of 44 PCs:
-     > - 22 running Windows
-     > - 22 running Ubuntu Linux
+     * Total of 44 PCs:
+          * 22 running Windows
+          * 22 running Ubuntu Linux
 
 
 The Web Lab (M-3-732) is equipped with:
 
-        > 19 Dell Optiplex 7050 workstations (Windows)
-        > 1 Teaching Lectern*
-        > 1 Retractable 80"x50" White Screen
-        > 1 190"x48" White Board
-        > 1 LCD Laser Projector
+        * 19 Dell Optiplex 7050 workstations (Windows)
+        * 1 Teaching Lectern*
+        * 1 Retractable 80"x50" White Screen
+        * 1 190"x48" White Board
+        * 1 LCD Laser Projector
 
-        > Total of 19 PCs: Includes Resident PC
+        * Total of 19 PCs: Includes Resident PC
 
 The IT Lab (M-3-730) is equipped with:
 
-        > 11 Dell Optiplex 7060 workstations (Windows)
-        > 9 Dell Optiplex 7070 workstations  (windows)
-        1 Teaching Lectern*
-        > 1 Retractable 80"x48" White Screen
-        > 1 286"x48" White Board
-        > 1 LCD Laser Projector
+        * 11 Dell Optiplex 7060 workstations (Windows)
+        * 9 Dell Optiplex 7070 workstations  (windows)
+        * 1 Teaching Lectern*
+        * 1 Retractable 80"x48" White Screen
+        * 1 286"x48" White Board
+        * 1 LCD Laser Projector
 
-        > Total of 20 PCs: Includes Resident PC
+        * Total of 20 PCs: Includes Resident PC
 
 
-        > Teaching Lectern contains:
+        * Teaching Lectern contains:
 
-        > - Blu-Ray DVD
-        > - Resident PC
-        > - Laptop HDMI Connection
-        > - Laptop VGA Connection
-        > - Hardline Internet connection to UMB Network
+          * Blu-Ray DVD
+          * Resident PC
+          * Laptop HDMI Connection
+          * Laptop VGA Connection
+          * Hardline Internet connection to UMB Network
 
 Lectern is connected to a LCD Laser Projector displaying 94" image onto the
 projection screen.
