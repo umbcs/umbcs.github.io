@@ -21,17 +21,17 @@ The following information details the equipment in the various labs:
     <li>5 Dell Optiplex 7070 workstations</li>
 </ul>
 <h5>Total of 44 PCs:</h5>
-    <ul>
-        <li>22 running Windows</li>
-        <li>22 running Ubuntu Linux</li>
-    </ul>
+<ul>
+    <li>22 running Windows</li>
+    <li>22 running Ubuntu Linux</li>
+</ul>
 <h3>The Web Lab (M-3-732) is equipped with:</h3>
 <ul>
    <li>19 Dell Optiplex 7050 workstations (Windows)</li>
    <li>1 Teaching Lectern*</li>
    <li>1 Retractable 80"x50" White Screen</li>
    <li>1 190"x48" White Board</li>
-    <li>1 LCD Laser Projector</li>
+   <li>1 LCD Laser Projector</li>
 </ul>
 <h5>Total of 19 PCs: Includes Resident PC</h5>
 <h3>The IT Lab (M-3-730) is equipped with:</h3>
