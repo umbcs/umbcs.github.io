@@ -25,7 +25,6 @@ The following information details the equipment in the various labs:
         <li>22 running Windows</li>
         <li>22 running Ubuntu Linux</li>
     </ul>
-</ul>
 <h3>The Web Lab (M-3-732) is equipped with:</h3>
 <ul>
    <li>19 Dell Optiplex 7050 workstations (Windows)</li>
