@@ -16,4 +16,4 @@ The following students created the original version of this website as part of a
 * Sinan Liu
 * Jonathan Ohop
 
-Thank you!!
+Thank you!! :)
