@@ -31,7 +31,7 @@ Since non-matriculated students in the Certificate programs are considered non-d
 - [CS110]({{site.baseurl}}/academics/courses/CS110), [CS210L]({{site.baseurl}}/academics/courses/CS210L), [Math140](https://www.umb.edu/course_catalog/course_info/ugrd_MATH_all_140), [CS220]({{site.baseurl}}/academics/courses/CS220), [CS240]({{site.baseurl}}/academics/courses/CS240), [CS310]({{site.baseurl}}/academics/courses/CS310)
 - [CS341]({{site.baseurl}}/academics/courses/CS341) or Computer Science elective
 - One application elective
-- A minimum 2.0 GPA of the courses for the CS minor is required
+- A minimum 2.0 GPA of the courses for the CS certificate is required
 
 The Computer Science Department does not offer winter courses; we only offer classes during Fall, Spring, and Summer semesters. We currently do not offer online courses. The Undergraduate Certificate typically requires 4 semesters due to prerequisites. We do not allow students to take requisites out of order. The schedule is as follows:
 
