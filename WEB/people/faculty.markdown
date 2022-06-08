@@ -30,14 +30,6 @@ permalink: "/faculty"
     <br>
   </div>
   <div class="person">
-    <a href="http://www.cs.umb.edu/~cheungr"><img src="/WEB/images/people/Ron_Cheung.jpg"></a><br>
-    <a href="http://www.cs.umb.edu/~cheungr" target=_blank>Ron Cheung</a><br>
-    Senior Lecturer II<br>
-    M-3-201-06<br>
-    617.287.6483<br>
-    ronald.cheung@umb.edu
-  </div>
-  <div class="person">
     <a href="https://cogumbreiro.github.io/"><img src="/WEB/images/people/Tiago_Cogumbreiro.jpg"></a><br>
     <a href="https://cogumbreiro.github.io/" target=_blank>Tiago Cogumbreiro</a><br>
     Assistant Professor<br>
@@ -229,6 +221,14 @@ permalink: "/faculty"
     abird@cs.umb.edu<br><br>
     <br>
     <br>
+  </div>
+   <div class="person">
+    <a href="http://www.cs.umb.edu/~cheungr"><img src="/WEB/images/people/Ron_Cheung.jpg"></a><br>
+    <a href="http://www.cs.umb.edu/~cheungr" target=_blank>Ron Cheung</a><br>
+    Senior Lecturer II<br>
+    M-3-201-06<br>
+    617.287.6483<br>
+    ronald.cheung@umb.edu
   </div>
   <div class="person">
     <a href="http://www.cs.umb.edu/~eb"><img src="/WEB/images/people/Ethan_Bolker.jpg"></a><br>
