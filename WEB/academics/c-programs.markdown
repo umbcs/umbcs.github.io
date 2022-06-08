@@ -28,7 +28,7 @@ Since non-matriculated students in the Certificate programs are considered non-d
 
 **Certificate in Computer Science Requirements:**
 
-- [CS110]({{site.baseurl}}/academics/courses/CS110), [CS210L]({{site.baseurl}}/academics/courses/CS210L), [Math140](https://www.umb.edu/course_catalog/course_info/ugrd_MATH_all_140), [CS220L]({{site.baseurl}}/academics/courses/CS220), [CS240]({{site.baseurl}}/academics/courses/CS240), [CS310]({{site.baseurl}}/academics/courses/CS310)
+- [CS110]({{site.baseurl}}/academics/courses/CS110), [CS210L]({{site.baseurl}}/academics/courses/CS210L), [Math140](https://www.umb.edu/course_catalog/course_info/ugrd_MATH_all_140), [CS220]({{site.baseurl}}/academics/courses/CS220), [CS240]({{site.baseurl}}/academics/courses/CS240), [CS310]({{site.baseurl}}/academics/courses/CS310)
 - [CS341]({{site.baseurl}}/academics/courses/CS341) or Computer Science elective
 - One application elective
 - A minimum 2.0 GPA of the courses for the CS minor is required
@@ -36,8 +36,11 @@ Since non-matriculated students in the Certificate programs are considered non-d
 The Computer Science Department does not offer winter courses; we only offer classes during Fall, Spring, and Summer semesters. We currently do not offer online courses. The Undergraduate Certificate typically requires 4 semesters due to prerequisites. We do not allow students to take requisites out of order. The schedule is as follows:
 
 1st semester –[CS110]({{site.baseurl}}/academics/courses/CS110) and [Math140](https://www.umb.edu/course_catalog/course_info/ugrd_MATH_all_140)
+
 2nd semester-[CS210]({{site.baseurl}}/academics/courses/CS210), [CS220]({{site.baseurl}}/academics/courses/CS220) and [CS240]({{site.baseurl}}/academics/courses/CS240)
+
 3rd semester-[CS310]({{site.baseurl}}/academics/courses/CS310) and [CS341]({{site.baseurl}}/academics/courses/CS341) (or CS elective)
+
 4th semester – (\*Application Elective)
 
 **Application elective**: The applications requirement may be satisfied by any Computer Science course numbered higher than CS341, or by a course taught outside of the department of Computer Science in computer applications to another discipline. Students wishing to use such a course as the applications elective for a Certificate must have their choice approved in advance by the Undergraduate Program Director and must meet the prerequisites for the course set by the department in which it is offered.
