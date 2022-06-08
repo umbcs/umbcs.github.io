@@ -22,6 +22,14 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 |End Date                          |June 2022
 |Amount                            |$156,663.00
 
+<h3>EAGER: III: Collaborative Research: In silico Algorithm for Assessing the Effects of Amino Acid Insertion and Deletion Mutations</h3>
+
+|Source of funds                   |NNational Science Foundation(https://www.nsf.gov)  
+|PI(s)                             |[Nurit Haspel](https://www.cs.umb.edu/~nurith/)
+|Start Date                        |July 2020
+|End Date                          |June 2022
+|Amount                            |$150,000.00 (UMB share $72,684)
+
 <h3>Exploiting Voice Assistant Systems for Early Detection of Cognitive Decline</h3>
 
 |Source of funds                   |NIH/NIA   
