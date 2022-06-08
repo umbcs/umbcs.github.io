@@ -228,7 +228,7 @@ permalink: "/faculty"
     Senior Lecturer II<br>
     M-3-201-06<br>
     617.287.6483<br>
-    ronald.cheung@umb.edu
+    ronald.cheung@umb.edu<br>
   </div>
   <div class="person">
     <a href="http://www.cs.umb.edu/~eb"><img src="/WEB/images/people/Ethan_Bolker.jpg"></a><br>
