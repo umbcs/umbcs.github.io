@@ -18,8 +18,8 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 
 |Source of funds                   |National Institutes of Health R21    
 |PI(s)                             |[Daniel Haehn](https://danielhaehn.com/)
-|Start Date                        |June 2020
-|End Date                          |June 2022
+|Start Date                        |June 2021
+|End Date                          |June 2023
 |Amount                            |$156,663.00
 
 <h3>EAGER: III: Collaborative Research: In silico Algorithm for Assessing the Effects of Amino Acid Insertion and Deletion Mutations</h3>
