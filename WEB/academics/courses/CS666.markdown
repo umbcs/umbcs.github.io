@@ -1,0 +1,17 @@
+---
+title: "CS666"
+layout: page
+permalink: "/academics/courses/CS666"
+---
+
+\
+**Biomedical Signal and Image Processing (3 credits)**
+
+---
+
+\
+This course introduces important signal and image processing methods for biomedical diagnostics and research. You will learn hands-on how to reconstruct, visualize, and analyze datasets from different modalities such as electrocardiography (ECG), electroencephalography and magnetoencephalography (EEG/MEG), ultrasound (US), X-ray, electron and light microscopy (EM/LM), computerized tomography (CT), structural and functional magnetic resonance imaging (MRI/fMRI), as well as single photon emission computed tomography and positron emission tomography (SPECT/PET). Course discussions and assignments include the fundamentals of digital signal processing, filtering and denoising, Fourier transformations, pattern recognition, and state-of-the-art registration and segmentation pipelines. After completion, you will have the $kills to work at hospitals, life science institutions, and biotech companies!
+
+**Pre-requisites:**
+\
+CS310 and MATH 260; or permission of the instructor.
