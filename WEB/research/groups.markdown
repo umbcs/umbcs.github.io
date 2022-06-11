@@ -19,13 +19,6 @@ Vast amounts of data are being gathered at a very rapid rate in various fields, 
 The Data Mining Group (DMG) at UMass Boston is investigating novel ways of exploring large datasets using diverse techniques, such as, mathematical programming, information theoretic methods, Bayesian models, and statistical and neural net based learning.
 
 
-# Database Applied Research Group (DARG)
-
-Director(s): [Elizabeth O'Neil](http://www.cs.umb.edu/~eoneil), [Patrick O'Neil](http://www.cs.umb.edu/~poneil) 
-
-DARG seeks to develop advances in database technology that support commercially viable database internal and application improvements. Recent research topics include devising benchmarks and improving designs for data warehousing, isolation testing to provide guarantees of correctness at lower isolation levels, concurrency control algorithms, and bit-sliced indexes and arithmetic. A student from our group was involved with us in a prototype product named C-Store that has since been used as the basis of an industry startup named Vertica.
-
-
 # [Distributed Software Systems Group (DSSG)](https://www.cs.umb.edu/~jxs/research/projects.html)
 
 Director(s): [Jun Suzuki](http://www.cs.umb.edu/~jxs)
