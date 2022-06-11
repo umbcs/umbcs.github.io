@@ -2,6 +2,8 @@
 title: "Courses"
 layout: page
 permalink: "/courses"
+redirect_from:
+  - /academics/courses/
 ---
 
 Our department offers the following courses.
