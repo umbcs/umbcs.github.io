@@ -73,15 +73,6 @@ Email: csinfo "at" cs.umb.edu
 
 ---
 
-# Jobs and Internships Coordinator
-
-[Elizabeth O'Neil](some link) \
-`Office`: M-3-201-20 \
-`Phone`: 617.287.6455 \
-`Email`: elizabeth.oneil@umb.edu
-
----
-
 # Administrative Assistant
 
 [Debbie Wade](some link) \
