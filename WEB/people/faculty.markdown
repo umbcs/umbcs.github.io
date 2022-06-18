@@ -118,14 +118,6 @@ permalink: "/faculty"
     xiaohui.liang@umb.edu
   </div>
   <div class="person">
-    <a href="http://www.cs.umb.edu/~offner/"><img src="/WEB/images/people/Carl_Offner.jpg"></a><br>
-    <a href="http://www.cs.umb.edu/~offner/" target=_blank>Carl Offner</a><br>
-    Industrial Professor<br>
-    M-3-201-32<br>
-    617.287.6490<br>
-    carl.offner@umb.edu
-  </div>
-  <div class="person">
     <a href="http://www.cs.umb.edu/~ming/"><img src="/WEB/images/people/Ming_Ouyang.jpg"></a><br>
     <a href="http://www.cs.umb.edu/~ming/" target=_blank>Ming Ouyang</a><br>
     Associate Professor<br>
@@ -279,6 +271,14 @@ permalink: "/faculty"
     <br>
   </div>
   <div class="person">
+    <a href="http://www.cs.umb.edu/~offner/"><img src="/WEB/images/people/Carl_Offner.jpg"></a><br>
+    <a href="http://www.cs.umb.edu/~offner/" target=_blank>Carl Offner</a><br>
+    Industrial Professor<br>
+    M-3-201-32<br>
+    617.287.6490<br>
+    carl.offner@umb.edu
+  </div>
+  <div class="person">
     <a href="http://www.cs.umb.edu/~eoneil"><img src="/WEB/images/people/Elizabeth_ONeil.jpg"></a><br>
     <a href="http://www.cs.umb.edu/~eoneil" target=_blank>Elizabeth O'Neil</a><br>
     Emeritus Professor (retired)<br>
@@ -317,8 +317,8 @@ permalink: "/faculty"
   <div class="person">
     <a href="http://www.cs.umb.edu/~poneil"><img src="/WEB/images/people/Patrick_ONeil.jpg"></a><br>
     <a href="http://www.cs.umb.edu/~poneil" target=_blank>Patrick O'Neil</a><br>
-    Emeritus Professor (retired)<br>
-    poneil@cs.umb.edu<br>
+    Emeritus Professor<br>
+    <br>
     <br>
     <br>
   </div>
@@ -333,8 +333,8 @@ permalink: "/faculty"
   <div class="person">
     <a href="http://www.cs.umb.edu/~ram"><img src="/WEB/images/people/Robert_Morris.jpg"></a><br>
     <a href="http://www.cs.umb.edu/~ram" target=_blank>Robert Morris</a><br>
-    Emeritus Professor (retired)<br>
-    ram@cs.umb.edu<br>
+    Emeritus Professor<br>
+    <br>
     <br>
     <br>
   </div>
