@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Profs. Ding, Cogumbreiro, Fletcher receive 3 grants over $1.5m!"
+title: "Profs. Ding, Cogumbreiro, Fletcher receive 3 grants over $1.2m!"
 ---
 
 **(1) Professor Wei Ding is the UMass Boston PI, with Professor Ping Chen from our Engineering Department as a Co-Investigator, of a multi-institutional project titled "Use of accelerometer and gyroscope data to improve precision of estimates of physical activity type and energy expenditure in free-living adults."**
