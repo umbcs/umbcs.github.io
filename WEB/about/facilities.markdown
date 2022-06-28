@@ -25,6 +25,9 @@ The following information details the equipment in the various labs:
     <li>22 running Windows</li>
     <li>22 running Ubuntu Linux</li>
 </ul>
+
+<a href='360?unixlab.jpg'>See the UNIX/PC Lab in 3D!</a>
+
 <h3>The Web Lab (M-3-732) is equipped with:</h3>
 <ul>
    <li>19 Dell Optiplex 7050 workstations (Windows)</li>
@@ -34,6 +37,9 @@ The following information details the equipment in the various labs:
    <li>1 LCD Laser Projector</li>
 </ul>
 <h5>Total of 19 PCs: Includes Resident PC</h5>
+
+<a href='360?weblab.jpg'>See the Web Lab in 3D!</a>
+
 <h3>The IT Lab (M-3-730) is equipped with:</h3>
 <ul>
     <li>11 Dell Optiplex 7060 workstations (Windows)</li>
@@ -52,6 +58,8 @@ The following information details the equipment in the various labs:
     <li>Laptop VGA Connection</li>
     <li>Hardline Internet connection to UMB Network</li>
 </ul>
+
+<a href='360?itlab.jpg'>See the IT Lab in 3D!</a>
 
 Lectern is connected to a LCD Laser Projector displaying 94" image onto the
 projection screen.
