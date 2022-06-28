@@ -1,16 +1,9 @@
 ---
-footer_title: "Information Techonology BS Program"
+title: "Information Technology BS Program"
 layout: page
 permalink: "/it_bs"
 ---
 
-## {{page.footer_title}}
-
----
-
----
-
-\
 **Guiding Principles**
 
 - This is a hands-on, project-based program. Yes, you will be reading. But you will be working on projects, by yourself, in pairs and in teams. The projects will be the kind that you may encounter in the workplace.

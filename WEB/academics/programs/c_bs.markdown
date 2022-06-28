@@ -1,15 +1,9 @@
 ---
-footer_title: "Computer Science BS"
+title: "Computer Science BS"
 layout: page
 permalink: "/cs_bs"
 ---
-## {{page.footer_title}}
 
----
-
----
-
-\
 Our BS program in Computer Science is accredited by the [Computing Accreditation Commission of ABET](https://www.abet.org/). ABET assures quality for degree programs in applied science, computing, engineering, and technology. The program provides a rigorous education in theory and practice of Computer Science in addition to outside science courses. A BS degree can be used as a basis for many jobs in industry or for graduate work in Computer Science and other fields. We have an Honors Program for students who complete an Honors Thesis.
 
 We offer a curriculum stressing software development. It provides training appropriate for students with interests in areas such as cybersecurity, data mining, artificial intelligence, database management, and software engineering. An aptitude for logical reasoning and mathematics is needed to complete the major successfully, partly because designing programs to solve problems requires good problem solving skills and partly because some of the requirements are relatively advanced theoretical Computer Science and mathematics courses.

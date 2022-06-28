@@ -1,16 +1,10 @@
 ---
-footer_title: "Computer Science BA"
+title: "Computer Science BA"
 layout: page
 permalink: "/cs_ba"
 ---
 
-## {{page.footer_title}}
 
----
-
----
-
-\
 Our BA program provides an education in the theory and practice of Computer Science with an emphasis on outside humanities. This degree can be used as a basis for many jobs in industry or for graduate work in Computer Science and other fields. We have an Honors Program for students who complete an Honors Thesis. The department requirements for a Bachelor of Arts degree with a major in Computer Science are given below.
 
 Degree-seeking students must also satisfy the other requirements of the college such as the University Residency Requirement, [Writing Proficiency requirement](https://www.umb.edu/academics/vpass/undergraduate_studies/writing_proficiency), [Quantitative reasoning requirements](https://www.umb.edu/academics/vpass/undergraduate_studies/general_education_requirements/quantitative_reasoning), [General Distribution requirement](https://www.umb.edu/academics/vpass/undergraduate_studies/general_education_requirements/distribution_requirement), [Diversity requirement](https://www.umb.edu/academics/vpass/undergraduate_studies/general_education_requirements/diversity_requirement), Verbal Reasoning and Expression requirement, and the [First-Year and Intermediate Seminars requirement](https://www.umb.edu/academics/vpass/undergraduate_studies/general_education_requirements/first-year_intermediate_seminars). These are not listed here.

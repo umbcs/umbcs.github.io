@@ -22,17 +22,21 @@ permalink: /academics/
 - [Graduate Programs](/graduate-programs)
   Provides descriptions and requirements of our MS and PhD programs in Computer Science.
 
+> [CS MS](/cs_ms)
+
+> [CS PhD](/cs_phd)
+
 - [Honors Programs](/honors-programs)
   Provides description and requirements of our honors program in Computer Science.
 
 - [Undergraduate Programs](/undergraduate-programs)
   Provides descriptions and requirements of our BA and BS programs in Computer Science and Information Technology.
 
-> [CS BA](/cs-ba)
+> [CS BA](/cs_ba)
 
-> [CS BS](/cs-bs)
+> [CS BS](/cs_bs)
 
-> [IT BS](/it-bs)
+> [IT BS](/it_bs)
 
 - [Student Funding](/student-funding)
   Provides funding opportunities for undergraduate and graduate students.
