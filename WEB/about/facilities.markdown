@@ -4,8 +4,6 @@ layout: page
 permalink: "/facilities"
 ---
 
-Facilities
-
 The CS department employs a network of 46 Dell PowerEdge servers behind a Palo
 Alto firewall to support our Computer Science and Information Technology
 courses.  We also utilize two Dell Equal Logic and one Dell SCv3000 iSCSI SANs. Students use PCs in the UNIX Lab, Web Lab, and Information Technology (IT) Lab
