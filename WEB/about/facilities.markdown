@@ -24,6 +24,7 @@ The following information details the equipment in the various labs:
     <li>22 running Ubuntu Linux</li>
 </ul>
 
+<a href='WEB/images/unixlab.jpg' target=_blank><img src='WEB/images/unixlab.jpg' width=250 border=0></a><br>
 <a href='360?unixlab.jpg'>See the UNIX/PC Lab in 3D!</a>
 
 <h3>The Web Lab (M-3-732) is equipped with:</h3>
@@ -36,6 +37,7 @@ The following information details the equipment in the various labs:
 </ul>
 <h5>Total of 19 PCs: Includes Resident PC</h5>
 
+<a href='WEB/images/weblab.jpg' target=_blank><img src='WEB/images/weblab.jpg' width=250 border=0></a><br>
 <a href='360?weblab.jpg'>See the Web Lab in 3D!</a>
 
 <h3>The IT Lab (M-3-730) is equipped with:</h3>
@@ -57,6 +59,7 @@ The following information details the equipment in the various labs:
     <li>Hardline Internet connection to UMB Network</li>
 </ul>
 
+<a href='WEB/images/itlab.jpg' target=_blank><img src='WEB/images/itlab.jpg' width=250 border=0></a><br>
 <a href='360?itlab.jpg'>See the IT Lab in 3D!</a>
 
 Lectern is connected to a LCD Laser Projector displaying 94" image onto the
