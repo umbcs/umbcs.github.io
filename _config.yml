@@ -44,6 +44,7 @@ linkedin_url: https://www.linkedin.com/school/umass-boston?pathWildcard=166578
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
