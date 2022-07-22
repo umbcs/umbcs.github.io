@@ -52,13 +52,13 @@ Annual Enrollment of Undergraduate Majors in BS in Computer Science (Five-Year T
 
 | Academic Year                   | 2012/13 | 2013/14                                        | 2014/15  | 2015/16  | 2016/17        | 2017/18       | 2018/19     |
 | ---------------------------------- | ------- | --------------------------------------------- | ------ | ----- | --------------- | ------------------ | ---------- |
-| Enrolled Student   | 269       | 257            | 294 | 337 | 384 | 474     |            |
+| Enrolled Students   | 269       | 257            | 294 | 337 | 384 | 474     |            |
 
-Annual Enrollment of Undergraduate Majors in BS in Computer Science 
+Annual Number of BS degrees awarded in Computer Science (Five-Year Trend): 
 
 | Academic Year                   | 2012/13 | 2013/14                                        | 2014/15  | 2015/16  | 2016/17        | 2017/18       | 2018/19     |
 | ---------------------------------- | ------- | --------------------------------------------- | ------ | ----- | --------------- | ------------------ | ---------- |
-| Enrolled Student   | 27       | 22            | 30 | 27 | 34 | 34     |            |
+| BS Degree Awarded   | 27       | 22            | 30 | 27 | 34 | 34     |            |
 
 **BS in Computer Science Major Requirements**
 - CS110; CS210; CS220; CS240; CS310; CS341; CS410 (this will be the capstone course for the major); CS420; CS444; CS450; CS451 or CS651; and CS285L (students who declared their major prior to January 27, 2003 may replace CS285L with an additional Computer Science elective)
