@@ -6,7 +6,7 @@ permalink: "/getting-here"
 
 Here you can get information on how to access the UMass Boston campus, whether you are coming by car, bus, bike, or boat.
 
-Once on Campus The Computer Science department can be found in the third floor of the Science Building. Take the elevators in the lobby, and turn left to find our main office, room S-3-132.
+Once on Campus The Computer Science department can be found in the third floor of McCormack Hall. Take the elevators in the lobby, and turn right to find our offices.
 
 Use our [interactive campus map](https://umb.edu/map) to find food, vending machines, and other amenities; you can also [print our transportation map](https://www.umb.edu/the_university/getting_here/parking/map) or [find campus buildings on our mobile app](https://umboston-prod.modolabs.net/default/).
 
