@@ -4,7 +4,7 @@ layout: page
 permalink: "/cs_phd"
 ---
 
-The Computer Science PhD Program prepares students for research careers in the software industry and in academia. It combines a commitment to theory with significant experience in software development. The areas in which students may carry out dissertation research are currently aapplied database research, bioinfomatics, computer graphics, computer vision, cybersecurity, data mining, distributed software systems, higher performance computing, network information systems, programming languages, theoretical computer science, and visual attention.
+The Computer Science PhD Program prepares students for research careers in the software industry and in academia. It combines a commitment to theory with significant experience in software development. The areas in which students may carry out dissertation research are currently applied database research, bioinfomatics, computer graphics, computer vision, cybersecurity, data mining, distributed software systems, higher performance computing, network information systems, programming languages, theoretical computer science, and visual attention.
 
 **Degree Requirements**
 
