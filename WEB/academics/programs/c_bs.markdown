@@ -48,13 +48,13 @@ In order to qualify for desirable industry employment and strong graduate progra
 
 **Enrollment and Graduate Numbers**
 
-Annual Enrollment of Undergraduate Majors in BS in Computer Science (Five-Year Trend):
+Annual Enrollment of Undergraduate Majors in BS in Computer Science:
 
 | AY                 | 2012/13 | 2013/14| 2014/15  | 2015/16  | 2016/17    | 2017/18    | 2018/19   | 2019/20 | 2020/21 | 2021/22 | 2022/23|
 | ------------------------------- | ------- | ------ | ------   | -----    | ---------- | ---------- | --------- | ----    | ----    | ----    | ---    |
 | Enrollment               | 269     | 257    | 294      | 337      | 384        | 474        |  527      | 529     | 550     | 573     | 698    |
 
-Annual Number of BS degrees awarded in Computer Science (Five-Year Trend): 
+Annual Number of BS degrees awarded in Computer Science: 
 
 | AY                              | 2012/13 | 2013/14| 2014/15  | 2015/16  | 2016/17    | 2017/18    | 2018/19   | 2019/20 | 2020/21 | 2021/22 | 2022/21|
 | ------------------------------- | ------- | ------ | ------   | -----    | ---------- | ---------- | --------- | ----    | ----    | ----    | ---    |
