@@ -56,7 +56,7 @@ permalink: "/faculty"
   <div class="person">
     <img src="/WEB/images/people/Kenneth_K_Fletcher.jpg"><br>
     Kenneth Fletcher<br>
-    Assistant Professor<br>
+    Associate Professor<br>
     M-3-201-21<br>
     kenneth.fletcher@umb.edu<br>
     <br>
@@ -80,7 +80,7 @@ permalink: "/faculty"
   <div class="person">
     <a href="http://www.cs.umb.edu/~nurith"><img src="/WEB/images/people/Nurit_Haspel.jpg"></a><br>
     <a href="http://www.cs.umb.edu/~nurith" target=_blank>Nurit Haspel</a><br>
-    Associate Professor, Undergraduate Program Director<br>
+    Professor, Undergraduate Program Director<br>
     M-3-201-04<br>
     617-287-6414<br>
     nurit.haspel@umb.edu
