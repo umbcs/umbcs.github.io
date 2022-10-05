@@ -276,7 +276,7 @@ permalink: "/faculty"
     Industrial Professor (retired)<br>
     M-3-201-32<br>
     617.287.6490<br>
-    carl.offner@umb.edu
+    carl.offner@umb.edu<br>
   </div>
   <div class="person">
     <a href="http://www.cs.umb.edu/~eoneil"><img src="/WEB/images/people/Elizabeth_ONeil.jpg"></a><br>
