@@ -16,4 +16,4 @@ The design and implementation of computer programs in a high-level language, wit
 
 **Pre-requisites:**
 \
-CS 110 or CS/IT 115L and MATH 130 or permission of instructor.
+CS 110 or CS/IT 115L with a grade of C- or better and MATH 130 or permission of instructor.
