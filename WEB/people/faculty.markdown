@@ -80,7 +80,7 @@ permalink: "/faculty"
   <div class="person">
     <a href="http://www.cs.umb.edu/~nurith"><img src="/WEB/images/people/Nurit_Haspel.jpg"></a><br>
     <a href="http://www.cs.umb.edu/~nurith" target=_blank>Nurit Haspel</a><br>
-    Professor, Undergraduate Program Director<br>
+    Undergraduate Program Director, Professor<br>
     M-3-201-04<br>
     617-287-6414<br>
     nurit.haspel@umb.edu
@@ -116,14 +116,6 @@ permalink: "/faculty"
     M-3-201-24<br>
     617-287-6791<br>
     xiaohui.liang@umb.edu
-  </div>
-  <div class="person">
-    <a href="http://www.cs.umb.edu/~offner/"><img src="/WEB/images/people/Carl_Offner.jpg"></a><br>
-    <a href="http://www.cs.umb.edu/~offner/" target=_blank>Carl Offner</a><br>
-    Industrial Professor<br>
-    M-3-201-32<br>
-    617.287.6490<br>
-    carl.offner@umb.edu
   </div>
   <div class="person">
     <a href="http://www.cs.umb.edu/~ming/"><img src="/WEB/images/people/Ming_Ouyang.jpg"></a><br>
@@ -222,6 +214,14 @@ permalink: "/faculty"
     <br>
     <br>
   </div>
+    <div class="person">
+    <a href="http://www.cs.umb.edu/~eb"><img src="/WEB/images/people/Ethan_Bolker.jpg"></a><br>
+    <a href="http://www.cs.umb.edu/~eb" target=_blank>Ethan Bolker</a><br>
+    Emeritus Professor (retired)<br>
+    eb@cs.umb.edu<br><br>
+    <br>
+    <br>
+  </div>
    <div class="person">
     <a href="http://www.cs.umb.edu/~cheungr"><img src="/WEB/images/people/Ron_Cheung.jpg"></a><br>
     <a href="http://www.cs.umb.edu/~cheungr" target=_blank>Ron Cheung</a><br>
@@ -229,14 +229,6 @@ permalink: "/faculty"
     M-3-201-06<br>
     617.287.6483<br>
     ronald.cheung@umb.edu<br>
-  </div>
-  <div class="person">
-    <a href="http://www.cs.umb.edu/~eb"><img src="/WEB/images/people/Ethan_Bolker.jpg"></a><br>
-    <a href="http://www.cs.umb.edu/~eb" target=_blank>Ethan Bolker</a><br>
-    Emeritus Professor (retired)<br>
-    eb@cs.umb.edu<br><br>
-    <br>
-    <br>
   </div>
   <div class="person">
     <a href="http://www.cs.umb.edu/~fejer"><img src="/WEB/images/people/Peter_Fejer.jpg"></a><br>
@@ -277,6 +269,14 @@ permalink: "/faculty"
     kwn@cs.umb.edu<br>
     <br>
     <br>
+  </div>
+   <div class="person">
+    <a href="http://www.cs.umb.edu/~offner/"><img src="/WEB/images/people/Carl_Offner.jpg"></a><br>
+    <a href="http://www.cs.umb.edu/~offner/" target=_blank>Carl Offner</a><br>
+    Industrial Professor (retired)<br>
+    M-3-201-32<br>
+    617.287.6490<br>
+    carl.offner@umb.edu
   </div>
   <div class="person">
     <a href="http://www.cs.umb.edu/~eoneil"><img src="/WEB/images/people/Elizabeth_ONeil.jpg"></a><br>
