@@ -33,7 +33,6 @@ permalink: "/admissions"
 [International Undergraduate Transfer Application, Requirements and Deadline](https://admissions.umb.edu/international-students/apply/transfer)
 [Cost and Aid for International Undergraduate Students](https://admissions.umb.edu/international-students/cost-and-aid)
 
-\
 **Graduate Students** interested in applying for Computer Science Masters, Ph.D., and Database Technology Certificate, by visiting the sites below:
 
 [US Graduate Student Application and Requirements](https://admissions.umb.edu/transfer-students) (There are no specific program requirement)
