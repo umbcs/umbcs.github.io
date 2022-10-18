@@ -291,7 +291,7 @@ permalink: "/faculty"
     <a href="http://www.cs.umb.edu/~eoneil" target=_blank>Elizabeth O'Neil</a><br>
     Emeritus Professor (retired)<br>
     617.287.6455<br>
-    elizabeth.oneil@umb.edu<br>
+    eoneil@cs.umb.edu<br>
     <br>
   </div>
   <div class="person">
