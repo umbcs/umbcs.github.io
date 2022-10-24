@@ -10,6 +10,8 @@ The Computer Science PhD Program prepares students for research careers in the s
 # Degree Requirements
 
 1. **Complete a minimum of 48 credits (16 courses).**
+
+
     | Course requirements | Notes |
     |------|-------|
     | [CS720]({{site.baseurl}}/academics/courses/CS720) | |
