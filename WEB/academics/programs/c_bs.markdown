@@ -23,28 +23,21 @@ Within three to five years of graduation, graduates of the BS in Computer Scienc
 
 **Outcomes**
 
+**Student Outcomes**
 
-In order to qualify for desirable industry employment and strong graduate programs in computer science, students of the BS in Computer Science Program will:
+Graduates of the program will have the ability to:   
 
-(1a) demonstrate proficiency in problem solving, software design and development, data structures, algorithms, computer organization and computer architecture;
+1.    Analyze a complex computing problem and apply principles of computing and other relevant disciplines to identify solutions.  
 
-(1b) apply this proficiency to larger (mid-sized) systems (such as compilers);
+2.    Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline. 
 
-(1c) write programs, document programs and test programs, in a variety of programming languages, supporting different programming paradigms;
+3.    Communicate effectively in a variety of professional contexts.  
 
-(1d) be proficient in at least one (in-demand) programming language;
+4.    Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles.  
 
-(1e) learn to deal with different operating systems and computer architectures;
+5.    Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline. 
 
-(2a) understand and work with some of the important theoretical underpinnings to computer science;
-
-(3a) demonstrate the ability to understand, write about and speak about the social and ethical issues of computing;
-
-(4a) write about their programs and issues related to computing;
-
-(4b) orally present material related to computing;
-
-(4c) work effectively in teams.
+6.    Apply computer science theory and software development fundamentals to produce computing-based solutions. 
 
 **Enrollment and Graduate Numbers**
 
