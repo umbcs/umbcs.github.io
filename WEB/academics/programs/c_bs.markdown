@@ -21,8 +21,6 @@ Within three to five years of graduation, graduates of the BS in Computer Scienc
 
  3. Our graduates will maintain intellectual curiosity and stay informed and knowledgeable about current trends and technologies in their field.
 
-**Outcomes**
-
 **Student Outcomes**
 
 Graduates of the program will have the ability to:   
