@@ -23,7 +23,7 @@ permalink: "/info"
  [Search for Classes](https://www.umb.edu/it/wiser/student_help/search_for_classes) | [View Financial Account (tuition will only show when once you are enrolled in courses)](https://www.umb.edu/it/wiser/student_help/view_account_activity) | [Tuition Information (contact the Bursars Office)](https://www.umb.edu/bursar) | [International Students (I20, Arival Information and more)](https://www.umb.edu/academics/global/isss) |
 
 **All Graduate Students:** 
-[CS-MS Graduate Enrollment Form](https://powerforms.docusign.net/0603db20-9b4f-4bfa-841d-8d043ee198b7?env=na2&acct=97b42ae9-ac6a-4ed8-9448-2d912290b22b&accountId=97b42ae9-ac6a-4ed8-9448-2d912290b22b&recipientLang=en) | [CS-PhD Graduate Enrollment Form](https://powerforms.docusign.net/b8ba58b4-4ddc-4217-b41e-6640911aa739?env=na2&acct=97b42ae9-ac6a-4ed8-9448-2d912290b22b&accountId=97b42ae9-ac6a-4ed8-9448-2d912290b22b&recipientLang=en) | 
+[CS-MS Graduate Enrollment Form](https://na2.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=87675fe4-a155-4265-ab09-966fda0a0c70&env=na2&acct=97b42ae9-ac6a-4ed8-9448-2d912290b22b&v=2) | [CS-PhD Graduate Enrollment Form](https://na2.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=100d1855-3ad8-424a-98ca-c5d5586b4937&env=na2&acct=97b42ae9-ac6a-4ed8-9448-2d912290b22b&v=2) | 
 
 **WISER:**
  [Log-In Page](https://www.umb.edu/it/wiser) | [WISER HELP (Holds, Schedule and more)](https://www.umb.edu/it/wiser/student_help) | [Drop a Class](https://www.umb.edu/it/wiser/student_help/drop_a_class) | [Permission Numbers](https://www.umb.edu/it/wiser/student_help/enter_permission_number) | 
