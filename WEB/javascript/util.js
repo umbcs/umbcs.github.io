@@ -59,9 +59,9 @@ function printSchedule(url, element) {
     for (var row in json) {
 
       var row = json[row];
-
-      var course = row['Subject'].trim()+row['Ctlg #'].trim();
-      var section = row['Sect'];
+      aaaa = row
+      var course = row['Subject'].toString().trim()+row['Ctlg #'].toString().trim();
+      var section = row['Sect'].toString();
       var title = courses[course];
       var room = row['Fac Id'];
       var days = row['Mtg Ptrn'];
@@ -70,7 +70,11 @@ function printSchedule(url, element) {
         time = "";
       }
 
-      var instructor = row['Emp Name'].split(',');
+      var instructor = row['Emp Name'];
+      if (instructor === undefined) {
+        instructor = '';
+      }
+      instructor = instructor.toString().split(',');
       var firstname = instructor[1];
       var lastname = instructor[0];
 
