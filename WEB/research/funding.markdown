@@ -20,7 +20,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 |PI(s)                             |[Daniel Haehn](https://danielhaehn.com/)
 |Start Date                        |June 2021
 |End Date                          |June 2023
-|Amount                            |$156,663.00
+|Amount                            |$493,011.00 (UMB share $156,663.00)
 
 <h3>EAGER: III: Collaborative Research: In silico Algorithm for Assessing the Effects of Amino Acid Insertion and Deletion Mutations</h3>
 
