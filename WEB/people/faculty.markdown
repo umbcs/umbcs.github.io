@@ -270,14 +270,6 @@ permalink: "/faculty"
     <br>
     <br>
   </div>
-   <div class="person">
-    <a href="http://www.cs.umb.edu/~offner/"><img src="/WEB/images/people/Carl_Offner.jpg"></a><br>
-    <a href="http://www.cs.umb.edu/~offner/" target=_blank>Carl Offner</a><br>
-    Industrial Professor (retired)<br>
-    M-3-201-32<br>
-    617.287.6490<br>
-    carl.offner@umb.edu<br>
-  </div>
   <div class="person">
     <a href="http://www.cs.umb.edu/~offner/"><img src="/WEB/images/people/Carl_Offner.jpg"></a><br>
     <a href="http://www.cs.umb.edu/~offner/" target=_blank>Carl Offner</a><br>
