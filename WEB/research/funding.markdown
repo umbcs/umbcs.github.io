@@ -6,6 +6,14 @@ permalink: "/funding"
 
 PIs and Co-PIs only include members of the UMass Boston Computer Science department.
 
+<h3>Culture Change in Computer Science and Engineering at the University of Massachusetts Public University System</h3>
+
+|Source of funds                   |Sloan Foundation     
+|PI(s)                             |[Daniel Haehn](https://danielhaehn.com/)
+|Start Date                        |February 2023
+|End Date                          |February 2025
+|Amount                            |$499,972.00 (UMB share $184,228) 
+
 <h3>The Oregon-Massachusetts Mammography Database (OMAMA-DB)</h3>
 
 |Source of funds                   |Massachusetts Life Sciences Center      
