@@ -91,7 +91,6 @@ Email: csinfo "at" cs.umb.edu
 
 ---
 
-# Webmaster(s)
+# Webmaster
 
-[Joyce Quach](some link) \
 `Email`: webassist@cs.umb.edu
