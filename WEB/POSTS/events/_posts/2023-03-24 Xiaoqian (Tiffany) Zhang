@@ -1,0 +1,24 @@
+---
+layout: post
+title: "PhD Defense: Developing an Effective Network Congestion Control for Large Scale Disaggregated Storage Systems"
+---
+
+Speaker: Xiaoqian (Tiffany) Zhang
+Committee Members: Prof. Bo Sheng (Chair), Prof. Dan Simovici, Prof. Marc Pomplun, Prof. Honggang Zhang, and Prof. Xiaohui Liang
+GDP: Prof. Dan Simovici
+
+Date and Time: March 24th, 2023 (Friday) at 10:00 AM
+Zoom Link: https://umassboston.zoom.us/j/96013053793
+Passcode: 197843
+
+ABSTRACT
+Disaggregated storage systems represent a promising approach for large-scale data center storage frameworks. This architecture involves physically separating computing devices and storage hosts and connecting them via high-speed networks. This design enables more flexible resource management, simplified upgrade and maintenance, and other desirable features for enterprise storage systems.  
+
+However, one of the significant challenges of such systems is the network connection between computing devices and storage hosts. Like traditional data center networks, disaggregated storage systems require ultra-low latency to manage storage I/O requests. Consequently, network congestion becomes a significant concern in such a system.
+
+Additionally, accurately evaluating network congestion control solutions without an evaluation platform designed explicitly for disaggregated storage systems poses a challenge. Therefore, a comprehensive modeling system of disaggregated storage systems in essential for research to construct dependable and fast experiments.  
+
+The dissertation’s initial segment presents a prototype of a storage-network iterative simulator to model and assess the performance of disaggregated storage systems. This task poses a challenge for two primary reasons.  Firstly, the performance of such systems is contingent on network protocols and storage solutions, both of which interact with each other, resulting in unpredictability at runtime. Consequently, modeling storage and network latency independently and aggregating them may produce inaccurate results. Secondly, the available trace datasets used for generating the workload may be insufficient as they do not consider network delay and storage processing time integration. To address these challenges, we developed a prototyped storage-network iterative simulator based on the established storage simulator (MQSim) and network simulator (NS3). This simulator provides an accurate evaluation of network congestion control solutions for large-scale disaggregated storage systems by considering the above-mentioned challenges.
+
+The dissertation's second section concentrates on creating a network congestion control system for disaggregated storage systems. The study reveals that existing congestion control algorithms for data center networks are not suitable for our target system due to the unique characteristics of the network topology and storage I/O workload. As a response to the identified issues, we develop a new approach that dynamically determines the initial sending rate for each flow. Our solution particularly assists in enhancing the effectiveness of congestion control protocols under heavy I/O traffic by setting an appropriate initial rate for a flow that reduces congestion from the outset without degrading network performance.
+
