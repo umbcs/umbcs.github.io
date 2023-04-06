@@ -12,7 +12,6 @@ Degree-seeking students must also satisfy the other requirements of the college 
 
 **Objectives**
 
-
 Within three to five years of graduation, graduates of the BS in Computer Science Program at UMass Boston will achieve the following:
 
  1. Our graduates will be informed and active members of their communities and be thoughtful CS professionals based on their awareness of the human and social issues in computer science.
@@ -37,6 +36,10 @@ Graduates of the program will have the ability to:
 
 6.    Apply computer science theory and software development fundamentals to produce computing-based solutions. 
 
+**Major Change Starting Spring 2023**
+
+Following a recent ABET accreditation review, we have changed our BS program to accommodate their new criteria. CS450 and the science elective are no longer required, although CS450 can still be taken as an elective. CS446 and CS449 are required. The change applies to students who declared a CS/BS major in or after Spring 2023. 
+
 **Enrollment and Graduate Numbers**
 
 Annual Enrollment of Undergraduate Majors in BS in Computer Science:
@@ -51,20 +54,28 @@ Annual Number of BS degrees awarded in Computer Science:
 | ------------------------------- | ------- | ------ | ------   | -----    | ---------- | ---------- | --------- | ----    | ----    | ----    | ---    |
 | Degrees Awarded                 | 27      | 22     | 30       | 27       | 34         | 34         |      33   | 51      |  52     | 65      | 59     | 
 
-**BS in Computer Science Major Requirements**
+**BS in Computer Science Major Requirements (for students who declared a CS major prior to Spring 2023)**
 - CS110; CS210; CS220; CS240; CS310; CS341; CS410 (this will be the capstone course for the major); CS420; CS444; CS450; CS451 or CS651; and CS285L (students who declared their major prior to January 27, 2003 may replace CS285L with an additional Computer Science elective)
 - Math140; Math141; and Math260; Math345
 - Physics113; Physics181; Physics114; and Physics182
 - One science elective. Information on allowable electives may be obtained in the department office
-- Two Computer Science electives chosen from: CS411; CS430; CS433; CS436; CS437 CS438; CS442; CS443; CS446; CS449; CS460; CS461; CS470; CS615; CS620; CS622; CS624; CS630; CS634; CS636; CS637; CS638; CS642; CS644; CS646;CS648; CS651; CS670; CS671; CS675; CS680. With prior permission it may be possible to take an independent study course in place of one of the above
+- Two Computer Science electives chosen from: CS411; CS430; CS433; CS436; CS437 CS438; CS442; CS443; CS446; CS449; CS460; CS461; CS470; CS615; CS620; CS622; CS624; CS630; CS634; CS636; CS637; CS638; CS642; CS644; CS646; CS648; CS651; CS670; CS671; CS675; CS680. With prior permission it may be possible to take an independent study course in place of one of the above
 - At least six 300; 400; or 600 level Computer Science or Mathematics courses must be taken at UMass Boston. This limits the number of transfer courses that can be applied towards a degree
 - A major must maintain a C average (2.0 GPA) in all of the above. Only courses taken at UMass Boston are averaged
 
-**Sample Program for the Major**
+**BS in Computer Science Major Requirements (for students who declared a CS major in or after Spring 2023)**
+- CS110; CS210; CS220; CS240; CS310; CS341; CS410 (this will be the capstone course for the major); CS420; CS444; CS446; CS449; CS451 or CS651; and CS285L
+- Math140; Math141; and Math260; Math345
+- Physics113; Physics181; Physics114; and Physics182
+- Two Computer Science electives chosen from: CS411; CS430; CS433; CS436; CS437 CS438; CS442; CS443; CS450; CS460; CS461; CS470; CS615; CS620; CS622; CS624; CS630; CS634; CS636; CS637; CS638; CS642; CS644; CS646; CS648; CS651; CS670; CS671; CS675; CS680. With prior permission it may be possible to take an independent study course in place of one of the above
+- At least six 300; 400; or 600 level Computer Science or Mathematics courses must be taken at UMass Boston. This limits the number of transfer courses that can be applied towards a degree
+- A major must maintain a C average (2.0 GPA) in all of the above. Only courses taken at UMass Boston are averaged
+
+**Sample Program for the Major (for students who declared a CS major before Spring 2023)**
 
 We present below a possible sequence of Mathematics and Computer Science courses leading to satisfaction of the department requirements in four years. We do not show courses in other departments.
 
-This schedule is only an example; not a prescription or a recommendation. Programs of study will vary depending on students’ interests and abilities. Stronger students may wish to do more than meet the minimal requirements.
+This schedule is only an example; not a prescription or a recommendation. Programs of study will vary depending on students’ interests and abilities. Stronger students may wish to do more than meet the minimal requirements. 
 
 - [Math130](https://www.umb.edu/course_catalog/course_info/ugrd_MATH_all_130) (if necessary)
 - [CS110]({{site.baseurl}}/academics/courses/CS110), [Math140](https://www.umb.edu/academics/course_catalog/course_info/ugrd_MATH_all_140)
@@ -73,5 +84,22 @@ This schedule is only an example; not a prescription or a recommendation. Progra
 - [CS310]({{site.baseurl}}/academics/courses/CS310), [CS341]({{site.baseurl}}/academics/courses/CS341), [Math260](https://www.umb.edu/academics/course_catalog/course_info/ugrd_MATH_all_260)
 - [CS420]({{site.baseurl}}/academics/courses/CS420), [CS450]({{site.baseurl}}/academics/courses/CS450), [Math345](https://www.umb.edu/academics/course_catalog/course_info/ugrd_MATH_all_345)
 - [CS444]({{site.baseurl}}/academics/courses/CS444), [CS451]({{site.baseurl}}/academics/courses/CS451), science elective
+- [CS410]({{site.baseurl}}/academics/courses/CS410), Computer Science elective
+- [CS285L]({{site.baseurl}}/academics/courses/CS285L), Computer Science elective
+
+
+**Sample Program for the Major (for students who declared a CS major in or after Spring 2023)**
+
+This schedule satisfies the new CS major requirements. 
+
+This schedule is only an example; not a prescription or a recommendation. Programs of study will vary depending on students’ interests and abilities. Stronger students may wish to do more than meet the minimal requirements.
+
+- [Math130](https://www.umb.edu/course_catalog/course_info/ugrd_MATH_all_130) (if necessary)
+- [CS110]({{site.baseurl}}/academics/courses/CS110), [Math140](https://www.umb.edu/academics/course_catalog/course_info/ugrd_MATH_all_140)
+- [CS210]({{site.baseurl}}/academics/courses/CS210), [Math141](https://www.umb.edu/academics/course_catalog/course_info/ugrd_MATH_all_141), [Physics113](https://www.umb.edu/academics/course_catalog/course_info/ugrd_PHYSIC_all_113), [Physics181](https://www.umb.edu/academics/course_catalog/course_info/ugrd_PHYSIC_all_181)
+- [CS240]({{site.baseurl}}/academics/courses/CS240), [CS220]({{site.baseurl}}/academics/courses/CS220), [Physics114](https://www.umb.edu/academics/course_catalog/course_info/ugrd_PHYSIC_all_114), [Physics182](https://www.umb.edu/academics/course_catalog/course_info/ugrd_PHYSIC_all_182)
+- [CS310]({{site.baseurl}}/academics/courses/CS310), [CS341]({{site.baseurl}}/academics/courses/CS341), [Math260](https://www.umb.edu/academics/course_catalog/course_info/ugrd_MATH_all_260)
+- [CS420]({{site.baseurl}}/academics/courses/CS420), [CS446]({{site.baseurl}}/academics/courses/CS446), [Math345](https://www.umb.edu/academics/course_catalog/course_info/ugrd_MATH_all_345)
+- [CS444]({{site.baseurl}}/academics/courses/CS444), [CS451]({{site.baseurl}}/academics/courses/CS451), [CS449]({{site.baseurl}}/academics/courses/CS449)
 - [CS410]({{site.baseurl}}/academics/courses/CS410), Computer Science elective
 - [CS285L]({{site.baseurl}}/academics/courses/CS285L), Computer Science elective
