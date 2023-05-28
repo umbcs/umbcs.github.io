@@ -1,5 +1,5 @@
 ---
 layout: slideshow
 title: Welcome to the CS Department!
-img: 01.jpg
+img: 05.jpg
 ---

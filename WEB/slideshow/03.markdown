@@ -1,5 +1,5 @@
 ---
 layout: slideshow
 title: ... and our students!
-img: 04.jpg
+img: 03.jpg
 ---

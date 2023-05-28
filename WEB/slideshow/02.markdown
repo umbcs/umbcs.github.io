@@ -1,5 +1,5 @@
 ---
 layout: slideshow
 title: We love computers!
-img: 03.jpg
+img: 01.jpg
 ---
