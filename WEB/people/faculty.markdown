@@ -135,7 +135,7 @@ permalink: "/faculty"
   </div>
   <div class="person">
     <img src="/WEB/images/people/amanda_potasznik.jpg"><br>
-    Amanda Potasznik<br>
+    <a href="https://blogs.umb.edu/potasznikresearch/" target=_blank>Amanda Potasznik</a><br>
     Senior Lecturer<br>
     M-3-201-31<br>
     617-287-6490<br>
