@@ -20,5 +20,5 @@ At the doctoral level, our research faculty and PhD students are investigating t
 Within this site you will find information regarding admissions, undergraduate and graduate programs, facilities in the department, as well as seminars and events. We have also included directions to the department and the campus as an invitation to come by and visit us anytime. Join us and explore the possibilities that await you here at UMass Boston; become a leader in computing research, academia, or industry.
 
 Sincerely, \
-[Marc Pomplun](some link) \
+[Marc Pomplun](https://www.cs.umb.edu/~marc/) \
 Computer Science Department Chair
