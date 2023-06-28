@@ -14,11 +14,13 @@ Degree-seeking students must also satisfy the other requirements of the college 
 
 Within three to five years of graduation, graduates of the BS in Computer Science Program at UMass Boston will achieve the following:
 
- 1. Our graduates will be informed and active members of their communities and be thoughtful CS professionals based on their awareness of the human and social issues in computer science.
+ 1.	Our graduates will obtain rewarding employment in industry or graduate programs in computer science using the technical skills and knowledge that they acquired during their studies.
+ 
+ 2. Our graduates will be informed and active members of their communities and be thoughtful CS professionals based on their awareness of the human and social issues in computer science.
 
- 2. During their professional careers, our graduates will use and further develop appropriate organizational, communicative, and teamwork skills.
+ 3. During their professional careers, our graduates will use and further develop appropriate organizational, communicative, and teamwork skills.
 
- 3. Our graduates will maintain intellectual curiosity and stay informed and knowledgeable about current trends and technologies in their field.
+ 4. Our graduates will maintain intellectual curiosity and stay informed and knowledgeable about current trends and technologies in their field.
 
 **Student Outcomes**
 
