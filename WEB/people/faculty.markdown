@@ -190,6 +190,13 @@ permalink: "/faculty"
     simon.tran@umb.edu
   </div>
   <div class="person">
+    <a href="https://www.cs.umb.edu/~ywan/"><img src="/WEB/images/people/Yinxin_Wan.jpg"></a><br>
+    <a href="https://www.cs.umb.edu/~ywan/" target=_blank>Yinxin Wan</a><br>
+    Assistant Professor<br>
+    M-3-201-06<br>
+    yinxin.wan@umb.edu
+  </div>
+  <div class="person">
     <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
     Zaihan Yang<br>
     Lecturer<br>
