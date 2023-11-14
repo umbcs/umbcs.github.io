@@ -106,13 +106,13 @@ In addition to the general education courses that all undergraduate students tak
 
 # The Information Architecture Track
 
-[IT341 Introduction to System Administration]({{site.baseurl}}/academics/courses/IT341)
+[IT360 Enterprise Software]({{site.baseurl}}/academics/courses/IT360)
 
-[IT442 Windows System Administration]({{site.baseurl}}/academics/courses/IT442)
+[IT428 Info Security]({{site.baseurl}}/academics/courses/IT428)
 
-[IT443 Network Security Administration]({{site.baseurl}}/academics/courses/IT443)
+[IT461 Systems Analysis]({{site.baseurl}}/academics/courses/IT461)
 
-[IT444 Network Services Administration]({{site.baseurl}}/academics/courses/IT444)
+one course from IT 456, 460, 471
 
 ---
 
