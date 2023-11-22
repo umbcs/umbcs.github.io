@@ -15,5 +15,8 @@ Connect:
 - [Facilities](/facilities)
   Describes the resources that are available within our department.
 
+- [Diversity, Equity and Inclusion](/dei)
+  Our DEI Statement.
+
 - [Getting Here](/getting-here)
   Provides useful information if you are visiting us.
