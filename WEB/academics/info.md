@@ -5,7 +5,12 @@ permalink: "/info"
 ---
 ## CS Ugrad Prerequisite Chart
 
-**Prof. Ming Ouyang created this roadmap to the Computer Science BS.**
+**We now have an interactive roadmap (made by Estevao Lordeiro
+):**
+
+<h1><img src="WEB/images/new.gif">&nbsp;&nbsp;<a href="https://umbcs.github.io/UMassCSPreReqChart/CSChart_unified.html" target=_blank>INTERACTIVE ROADMAP</a></h1>
+
+**Prof. Ming Ouyang created this roadmap to the Computer Science BS (outdated, above is better!).**
 
 <a href="/CSPrereqChart.pdf" target=_blank>
 <img src="WEB/images/prereq.png" width=100 border=1>
