@@ -197,6 +197,13 @@ permalink: "/faculty"
     yinxin.wan@umb.edu
   </div>
   <div class="person">
+    <a href="https://www.cs.umb.edu/~spei2/"><img src="/WEB/images/people/Shichao_Pei.jpg"></a><br>
+    <a href="https://www.cs.umb.edu/~spei2/" target=_blank>Shichao Pei</a><br>
+    Assistant Professor<br>
+    M-3-201-05<br>
+    shichao.pei@umb.edu
+  </div>
+  <div class="person">
     <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
     Zaihan Yang<br>
     Lecturer<br>
