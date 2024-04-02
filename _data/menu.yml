@@ -56,8 +56,9 @@
   link: resources
   submenu:
     - title: CS Department IT Policies and Procedures
-      link: CS_dept_IT_Policies.pdf
-      target: _blank
+      link: cs-department-it-policies
+      #link: CS_dept_IT_Policies.pdf
+      #target: _blank
     - title: Dreamspark/Microsoft Imagine
       url: https://e5.onthehub.com/WebStore/Security/Signin.aspx?ws=9bd8fe3d-d29b-e011-969d-0030487d8897&vsro=8&rurl=%2fWebStore%2fProductsByMajorVersionList.aspx%3fws%3d9bd8fe3d-d29b-e011-969d-0030487d8897%26vsro%3d8%26JSEnabled%3d1
       target: _blank
