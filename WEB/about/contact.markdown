@@ -31,7 +31,7 @@ Email: csinfo "at" cs.umb.edu
 
 # Department Chair
 
-[Marc Pomlun](some link) \
+[Marc Pomlun](https://www.cs.umb.edu/~marc/) \
 `Office`: M-3-201-9 \
 `Email`: marc.pomplun@umb.edu
 
@@ -39,7 +39,7 @@ Email: csinfo "at" cs.umb.edu
 
 # Undergraduate Program Director (Computer Science)
 
-[Nurit Haspel](some link) \
+[Nurit Haspel](https://www.cs.umb.edu/~nurith/) \
 `Office`: M-3-201-4 \
 `Phone`: 617-287-6414 \
 `Email`: nurit.haspel@umb.edu
@@ -48,7 +48,7 @@ Email: csinfo "at" cs.umb.edu
 
 # Undergraduate Program Director (Information Technology)
 
-[Glenn Hoffman](some link) \
+[Glenn Hoffman](https://www.cs.umb.edu/~ghoffman/) \
 `Office`: M-3-201-22 \
 `Phone`: 617-287-6466 \
 `Email`: glenn.hoffman@umb.edu
@@ -57,7 +57,7 @@ Email: csinfo "at" cs.umb.edu
 
 # Graduate Program Director
 
-[Dan Simovici](some link) \
+[Dan Simovici](https://www.cs.umb.edu/~dsim/) \
 `Office`: M-3-201-5 \
 `Phone`: 617.287.6472 \
 `Email`: dan.simovici@umb.edu
@@ -66,7 +66,7 @@ Email: csinfo "at" cs.umb.edu
 
 # Seminar Coordinator
 
-[Tiago Cogumbreiro](some link) \
+[Tiago Cogumbreiro](https://www.umb.edu/directory/tiagocogumbreiro/) \
 `Office`: M-3-201-16 \
 `Phone`: 617.287.6479 \
 `Email`: tiago.cogumbreiro@umb.edu
@@ -75,7 +75,7 @@ Email: csinfo "at" cs.umb.edu
 
 # Administrative Assistant
 
-[Debbie Wade](some link) \
+[Debbie Wade](https://www.umb.edu/directory/debbiewade/) \
 `Office`: M-3-201 \
 `Phone`: 617.287.6476 \
 `Email`: debbie.wade@umb.edu
@@ -84,7 +84,7 @@ Email: csinfo "at" cs.umb.edu
 
 # Graduate Program Secretary
 
-[Gemma Galecia](some link) \
+[Gemma Galecia](https://www.umb.edu/directory/gemmagalecia/) \
 `Office`: M-3-201 \
 `Phone`: 617.287.6441 \
 `Email`: gemma.galecia@umb.edu
