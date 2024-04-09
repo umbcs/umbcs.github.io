@@ -10,17 +10,17 @@ permalink: "office-hours"
   <option value="office_hours_schedule_spring_2024.xlsx" selected>Spring 2024</option>
 </select>
 
-<table id="schedule">
+<table id="office_schedule">
   <thead>
     <tr>
       <th>instructor</th>
-      <th>urlEmail</th>
-      <th>officeLocation</th>
-      <th>officePhoneNumber</th>
-      <th>officeHours</th>
+      <th>Email</th>
+      <th>office Location</th>
+      <th>office PhoneNumber</th>
+      <th>office Hours</th>
     </tr>
   </thead>
-  <tbody id="schedule_listing">
+  <tbody id="office_schedule_listing">
   </tbody>
 </table>
 
@@ -35,7 +35,7 @@ window.onload = function() {
 function update_office_hours() {
 
   var url = document.getElementById('semester').value;
-  var element = document.getElementById("schedule_listing");
+  var element = document.getElementById("office_schedule_listing");
 
   printOfficeHours( url, element );
 

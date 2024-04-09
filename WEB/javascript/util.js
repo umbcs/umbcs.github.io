@@ -54,16 +54,16 @@ function printOfficeHours(url, element) {
       var row = json[row];
       aaaa = row
       
-      var instructor = row['Name']
+      var instructor = row['Name'];
       if (instructor === undefined) {
         instructor = '';
       }
 
-      var email = row['UMass Boston Email']
-      var urlEmail = "<a href=" + email + ">" + email + "</a>"
-      var officeLocation = row['Office Location']
-      var officePhoneNumber = row['Office Phone Number']
-      var officeHours = row['Office Hours']
+      var email = row['UMass Boston Email'];
+      var urlEmail = "<a href=" + email + ">" + email + "</a>";
+      var officeLocation = row['Office Location'];
+      var officePhoneNumber = row['Office Phone Number'];
+      var officeHours = row['Office Hours'];
 
       var html = "<tr>";
       html += "<td>"+instructor+"</td>";
