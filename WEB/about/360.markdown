@@ -6,8 +6,8 @@ permalink: "/360"
 
 <a href='javascript:history.back();'>Go Back!</a>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js" type="text/javascript"></script>
-<script src="https://threejs.org/examples/jsm/controls/TrackballControls.js" type="text/javascript"></script>
+<script src="https://threejs.org/build/three.min.js" type="text/javascript"></script>
+<script src="https://threejs.org/examples/js/controls/TrackballControls.js" type="text/javascript"></script>
 
 <script>
 
