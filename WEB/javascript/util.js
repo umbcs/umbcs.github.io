@@ -67,10 +67,10 @@ function printOfficeHours(url, element) {
 
       var html = "<tr>";
       html += "<td>"+instructor+"</td>";
-      html += "<td>"+urlEmail+"<td>";
-      html += "<td>"+officeLocation+"<td>";
-      html += "<td>"+officePhoneNumber+"<td>";
-      html += "<td>"+officeHours+"<td>";
+      html += "<td>"+urlEmail+"</td>";
+      html += "<td>"+officeLocation+"</td>";
+      html += "<td>"+officePhoneNumber+"</td>";
+      html += "<td>"+officeHours+"</td>";
       html += "</tr>";
 
       all_html += html;
