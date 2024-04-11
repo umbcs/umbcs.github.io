@@ -60,7 +60,7 @@ function printOfficeHours(url, element) {
       }
 
       var email = row['UMass Boston Email'];
-      var urlEmail = "<a href=" + email + ">" + email + "</a>";
+      var urlEmail = "<a href=" + "mailto:" + email + ">" + email + "</a>";
       var officeLocation = row['Office Location'];
       var officePhoneNumber = row['Office Phone Number'];
       var officeHours = row['Office Hours'];
