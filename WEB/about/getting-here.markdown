@@ -13,7 +13,7 @@ Use our [interactive campus map](https://umb.edu/map) to find food, vending mach
 # CS Department Location
 
 The CS department is located on the third floor of the McCormack Hall. Make a u-turn after the stairs and head down the door down the hall.
-<img src="/WEB/images/McCormackThirdFloor-TEMP.jpg"><br>
+<img src="/WEB/images/McCormackThirdFloor-TEMP.jpg" alt="Map of CS Department">
 
 # Public Transportation
 
