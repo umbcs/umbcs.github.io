@@ -17,3 +17,6 @@ Technologies known: HTML, CS, Javascript, React JS, Python, Node JS
 
 1.Fixing broken links in Existing pages like Admissions, Graduate Programs, Undergraduate Programs, Course Schedules, Courses, CS Minor and FAQ's.
 2.Planning to Work on removing unnecessary code in the website to make it clean.
+
+Khushbu - Helped with the office hours information
+Technologies known: HTML, JavaScript, CS
