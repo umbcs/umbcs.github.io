@@ -20,3 +20,5 @@ Technologies known: HTML, CS, Javascript, React JS, Python, Node JS
 
 Khushbu - Helped with the office hours information
 Technologies known: HTML, JavaScript, CS
+** Mehya Tambi - Team Lead**
+- 1.Fixing broken links in Existing pages: Contact Us, Certicicate programs. 
