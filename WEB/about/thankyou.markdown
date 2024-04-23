@@ -15,5 +15,11 @@ The following students created the original version of this website as part of a
 * Ananya Jude
 * Sinan Liu
 * Jonathan Ohop
+* Branden P Favre
+* Riley Choquette
+* Khushbu Kapadia
+* Mehya N Tambi
+* Bhavana Manneni
+* JacobJashwanth Patoju
 
 Thank you!! :)
