@@ -7,4 +7,6 @@ Team:
 Branden - Scrum Master
 
 ** Jacob Jashwanth Patoju - Developer
-Technologies: HTML, CSS, Markdown, Javascript **
+Technologies: HTML, CSS, Markdown, Javascript 
+1. Developed new standalone pages for CS Department IT Policies and Procedures, Dreamspark/Microsoft Imagine.
+2. Planning to develop a new page to showcase the UMB CS Servers.**
