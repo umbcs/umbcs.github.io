@@ -20,6 +20,6 @@ The following students created the original version of this website as part of a
 * Khushbu Kapadia
 * Mehya N Tambi
 * Bhavana Manneni
-* JacobJashwanth Patoju
+* Jacob Jashwanth Patoju
 
 Thank you!! :)
