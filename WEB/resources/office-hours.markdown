@@ -18,6 +18,11 @@ permalink: "office-hours"
       <th>Office Location</th>
       <th>Office Phone Number</th>
       <th>Office Hours</th>
+      <th>instructor</th>
+      <th>Email</th>
+      <th>office Location</th>
+      <th>office PhoneNumber</th>
+      <th>office Hours</th>
     </tr>
   </thead>
   <tbody id="office_schedule_listing">

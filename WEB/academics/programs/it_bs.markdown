@@ -70,7 +70,7 @@ In addition to the general education courses that all undergraduate students tak
 
 [IT110 IT Problem Solving]({{site.baseurl}}/academics/courses/IT110)
 
-[IT111L Managerial Statistics]({{site.baseurl}}/academics/courses/IT11L)
+[IT111L Managerial Statistics]({{site.baseurl}}/academics/courses/IT111L)
 
 [IT114L Introduction to Java Part I]({{site.baseurl}}/academics/courses/IT114L)
 
@@ -78,7 +78,7 @@ In addition to the general education courses that all undergraduate students tak
 
 [IT230L Relational Databases]({{site.baseurl}}/academics/courses/IT230L)
 
-[IT240L Web Fluency]({{site.baseurl}}/academics/courses/IT240L) (syllabus)
+[IT240 Web Fluency]({{site.baseurl}}/academics/courses/IT240) (syllabus)
 
 [IT244 Introduction to Linux/Unix]({{site.baseurl}}/academics/courses/IT244)
 
@@ -155,7 +155,7 @@ Take five of the following courses:
 
 [IT220 Computer Forensics I]({{site.baseurl}}/academics/courses/IT220)
 
-[IT221 Computer Forensics II]({{site.baseurl}}/academics/courses/IT220)
+[IT221 Computer Forensics II]({{site.baseurl}}/academics/courses/IT221)
 
 [IT420 Network and Mobile Forensics]({{site.baseurl}}/academics/courses/IT420)
 
@@ -165,7 +165,7 @@ Take five of the following courses:
 
 ---
 
-<a name= "a8"></a>
+<a name= "a7"></a>
 
 # Project Management, Electives and Capstone
 
@@ -189,14 +189,14 @@ Students transferring into the BS in IT, in either college, may transfer all 100
 
 Questions? Need additional information? Want to visit? Feel free to contact us.
 
-[Glenn Hoffman](https://www.umb.edu/academics/csm/computer_science/faculty/glenn_hoffman)\
+[Glenn Hoffman](https://www.cs.umb.edu/~ghoffman/)\
 Lecturer, Department of Computer Science and Information Technology\
 College of Science and Mathematics\
 617.287.6466\
 **glenn.hoffman “at” umb.edu**\
 S-3-92A\
 
-[Peng Xu](https://www.umb.edu/faculty_staff/bio/peng_xu)\
+[Peng Xu](https://www.umb.edu/directory/pengxu/)\
 Associate Professor, Department of Management Science and Information Systems\
 College of Management\
 617.287.7882\
