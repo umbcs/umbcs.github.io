@@ -11,11 +11,9 @@ Technologies: HTML, CSS, Markdown, Javascript
 1. Developed new standalone pages for CS Department IT Policies and Procedures, Dreamspark/Microsoft Imagine.
 2. Planning to develop a new page to showcase the UMB CS Servers.**
 
-<<<<<<< HEAD
 Riley - developer 
 1. developed the office hours page.
 2. added directions and a site map of the cs department page.
-=======
 
 -- Bhavana Manneni - Developer --
 Technologies known: HTML, CS, Javascript, React JS, Python, Node JS
@@ -27,4 +25,3 @@ Khushbu - Helped with the office hours information
 Technologies known: HTML, JavaScript, CS
 ** Mehya Tambi - Team Lead**
 - 1.Fixing broken links in Existing pages: Contact Us, Certicicate programs. 
->>>>>>> 7bb827922004e9d1c35e0f7a3b2e6c5c8f2360e2

@@ -34,8 +34,7 @@ permalink: "/answers-to-faqs"
 
 
 \
-Ask an operator in the "ops" office [(S-3-157D)](put link here) behind the window in the UNIX/PC Lab (S-3-158) or send an email to operator [at] cs.umb.edu or call 617-287-6480.
-\
+Ask an operator in the "ops" office [(S-3-157D)](https://www.umb.edu/marineops/contact/) behind the window in the UNIX/PC Lab (S-3-158) or send an email to operator @cs.umb.edu or call 617-287-6480.
 
 **Please do not include any personal information or images when emailing OPS like UMB ID number** 
 
@@ -55,24 +54,24 @@ We have a web based application system but it is important to know that the web 
 
 To get a UNIX account for your course there are three scenarios you could be in: you already have an existing UNIX account but have never seen the new web-based application system, you are a new student that needs a new account or you have both a web account and UNIX account.
 
-Existing UNIX account owner\
+**Existing UNIX account owner**\
 \
     If you already have a Unix account but have not registered with the new Apply program you must go to Portal to register. Be sure to click the checkbox labeled "Select if you already have a Unix account" you will then need to enter your account's username and password along with your UMB email address.
 If your username and password match a Unix account you will receive an email at your UMB email address for confirmation. When you click the link in that email you will be registered and will then be able to select your courses for the semester currently available
 
-New students to the departement\
+**New students to the departement**\
 \
 The process is very similar to the one above except that you won't be checking off the box labeled "Select if you already have a Unix account". Head over to Portal to register. Enter the fields requested along with your UMB email address.
 We will be checking that the username you requested does not match an existing Unix account, in the case that the username is already taken you will be asked to enter another one. Once you have pressed submit you will receive an email at the UMB email address you provided for confirmation. When you click the link in that email you have successfully submitted a request for a new account and will then be able to select your courses for the semester currently available.
 
 Returning User with both web and system account\
-If you have both accounts you can simply head over to https://portal.cs.umb.edu/registration/login/ and login to sign up for courses.
+If you have both accounts you can simply head over to **[this link](https://portal.cs.umb.edu/register/)** and login to sign up for courses.
 
-New PhD student
+**New PhD student**
 
-New PhD student must go through the same process as 'New students to the departement' for the creation of an account as an undergrad. Once you have an account you have to send a request to operator 'at' cs.umb.edu to be promoted to phd student status.
+New PhD student must go through the same process as 'New students to the departement' for the creation of an account as an undergrad. Once you have an account you have to send a request to ```operator@cs.umb.edu``` to be promoted to phd student status.
 
-See an operator if you have any additional questions or problems.
+**See an operator if you have any additional questions or problems.**
 
 <a name= "a3"></a>
 
@@ -123,21 +122,21 @@ Disk space is a perpetual problem. Nice users can run out of space because other
 
 Note that disk space is provided separately for CS courses and PhD research, so that stuff doesn't count against home usage.
 
-Homes
+**Homes**
 
 All student homes must use less than 256 Mb of disk.
 All alumni homes must use less than 50 Mb of disk.
 The lab directors may refine their policy on quota values (up or down), at any time.
 Please [FAQ04](#a4) on how to manage your usage.
 
-Mailboxes
+**Mailboxes**
 
 All student mailboxes must use less than 2 Mb of disk.
 In the mail spool, we will impose on students a soft quota of 2 Mb, and a hard quota of 5 Mb.
 That means you will be warned if you go over 2 Mb, and that your mail will bounce if you go over 5 Mb.
 If necessary, ask an operator how to save mail under your home, or to your PC.
 
-The Quota Mechanism
+**The Quota Mechanism**
 
 There are two limits associated with each user, per filesystem: the soft limit and the hard limit.
 When usage exceeds the soft limit, you see messages to reduce usage.
@@ -175,7 +174,7 @@ Change the directory permissions to be unavailable to others, since it is a shar
 ---
 
 
-Use Secure Shell (ssh) to connect to ```users.cs.umb.edu``` or whatever hosts or you were told to use. We recommend the free PuTTY package.
+Use Secure Shell (ssh) to connect to ```users@cs.umb.edu``` or whatever hosts or you were told to use. We recommend the free PuTTY package.
 
 <a name= "a7"></a>
 
@@ -193,7 +192,7 @@ Use ```sftp```, the secure version of the File Transfer Protocol. A PC client pr
 
 We support homepages addressed by ```http://www.cs.umb.edu/~username```, where username is your UNIX login. Your homepage must be named ```index.html``` and be in a publicly readable directory named ```public_html under``` your home directory.
 
-Everything in your webpage is visible to **everyone** on the Internet. Do not put any personal information like phone number. Your email address shoul be in the format of ```name"at"cs(dot)umb(dot)edu```.
+Everything in your webpage is visible to **everyone** on the Internet. Do not put any personal information like phone number. Your email address shoul be in the format of ```name@cs.umb.edu```.
 
 <a name= "a9"></a>
 
@@ -272,7 +271,7 @@ Users may invoke CGI scripts from their home pages by following these guidelines
 
 The Department Computer Science at UMass Boston supplies accounts to enrolled students, to graduates of the CS program, and to faculty and research associates.
 
-If your account is currently shut off, we will re-enable it while you either (1) apply for an alumni account as below, or (2) copy out your files before the account is deleted. Please advise us which you will do, by sending email to ```operator(at)cs(dot)umb(dot)edu```.
+If your account is currently shut off, we will re-enable it while you either (1) apply for an alumni account as below, or (2) copy out your files before the account is deleted. Please advise us which you will do, by sending email to ```operator@cs.umb.edu```.
 
 Alumni accounts must be authenticated, and have a valid address. We invite and require you to authenticate yourself by U.S. Mail. Please mail us a photocopy of your driver's license (in lieu of National ID Card), or your passport or some official picture ID. You should obliterate your SSAN, as we don't want to know it.
 
@@ -381,7 +380,7 @@ On some UNIX systems, the default behavior for tabs is to print them literally. 
 
 ---
 
-We do tape backups daily, in the dark of night. To request a file restore, send email to ```operator(at)cs(dot)umb(dot)edu``` with the following information.
+We do tape backups daily, in the dark of night. To request a file restore, send email to ```operator@cs.umb.edu``` with the following information.
 
 For current work, including course directories:
 
@@ -450,7 +449,7 @@ New mail will be sorted into one of the files ```mail/spam.*``` or your system m
 
 You will want to watch your ```~/.procmail/log``` file to be sure that things are going as expected. Once you are comfortable, you will want to turn off verbosity in the ```.procmailrc``` file.
 
-Please report bugs by email to operator(at)cs(dot)umb(dot)edu.
+# Please report bugs by email to operator@cs.umb.edu .
 
 <a name= "a19"></a>
 
@@ -458,7 +457,7 @@ Please report bugs by email to operator(at)cs(dot)umb(dot)edu.
 
 ---
 
-Yes, there are some loose ethernet cables in all CS labs. To be able to connect to the CS local network, please email ```operator(at)cs(dot)umb(dot)edu``` from your lab account or stop by the OPs Room in S-3-157D with your student ID telling us the laptops's MAC (ethernet) address. We will enter that into our DHCP server's table of good guys, and you will be able to get an address.
+Yes, there are some loose ethernet cables in all CS labs. To be able to connect to the CS local network, please email ```operator@cs.umb.edu``` from your lab account or stop by the OPs Room in S-3-157D with your student ID telling us the laptops's MAC (ethernet) address. We will enter that into our DHCP server's table of good guys, and you will be able to get an address.
 
 <a name= "a20"></a>
 

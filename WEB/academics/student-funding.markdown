@@ -29,8 +29,9 @@ Harold Weinberg Scholarship is awarded to outstanding students who demonstrate a
 
 **If you are interested in please [visit here](https://forms.umb.edu/csm-opportunities/c/csm-scholarships) to apply.**
 
+
 \
 **Other Funding Oppertunities**
 
-[Financial Aid](http://www.umb.edu/admissions/financial_aid_scholarships)
+[Financial Aid](https://www.umb.edu/financial-aid/)
 Includes information regarding various financial aid and loan programs through the university for freshman, transfer, graduate, and international students.

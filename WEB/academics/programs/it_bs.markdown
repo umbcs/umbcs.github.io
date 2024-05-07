@@ -70,7 +70,7 @@ In addition to the general education courses that all undergraduate students tak
 
 [IT110 IT Problem Solving]({{site.baseurl}}/academics/courses/IT110)
 
-[IT111L Managerial Statistics]({{site.baseurl}}/academics/courses/IT11L)
+[IT111L Managerial Statistics](https://courses.umb.edu/course_catalog/course_info/ugrd_it_2023%20fall_111l)
 
 [IT114L Introduction to Java Part I]({{site.baseurl}}/academics/courses/IT114L)
 
@@ -78,7 +78,7 @@ In addition to the general education courses that all undergraduate students tak
 
 [IT230L Relational Databases]({{site.baseurl}}/academics/courses/IT230L)
 
-[IT240L Web Fluency]({{site.baseurl}}/academics/courses/IT240L) (syllabus)
+[IT240L Web Fluency](https://courses.umb.edu/course_catalog/course_info/ugrd_labor_all_240l) (syllabus)
 
 [IT244 Introduction to Linux/Unix]({{site.baseurl}}/academics/courses/IT244)
 
@@ -189,16 +189,16 @@ Students transferring into the BS in IT, in either college, may transfer all 100
 
 Questions? Need additional information? Want to visit? Feel free to contact us.
 
-[Glenn Hoffman](https://www.umb.edu/academics/csm/computer_science/faculty/glenn_hoffman)\
+[Glenn Hoffman](https://www.umb.edu/directory/glennhoffman/)\
 Lecturer, Department of Computer Science and Information Technology\
 College of Science and Mathematics\
 617.287.6466\
-**glenn.hoffman “at” umb.edu**\
-S-3-92A\
+**glenn.hoffman@umb.edu**\
+S-3-92A
 
-[Peng Xu](https://www.umb.edu/faculty_staff/bio/peng_xu)\
+[Peng Xu](https://www.umb.edu/directory/pengxu/)\
 Associate Professor, Department of Management Science and Information Systems\
 College of Management\
 617.287.7882\
-**peng.xu “at” umb.edu**\
-M-5-234\
+**peng.xu@umb.edu**\
+M-5-234

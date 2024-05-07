@@ -31,9 +31,10 @@
   <ul>
     {% for post in site.categories.news %} {% if forloop.index ==
     layout.table-count %}
-    <li class="table-more">
+        <!-- Commenting code because there is no action for that its just reloading the page -->
+    <!--- <li class="table-more">
       <a href="#">See More</a>
-    </li>
+    </li> -->
     {% break %} {% endif %}
     <li>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y"
@@ -56,9 +57,10 @@
   <ul>
     {% for post in site.categories.events %} {% if forloop.index ==
     layout.table-count %}
-    <li class="table-more">
+    <!-- Commenting code because there is no action for that its just reloading the page -->
+    <!--- <li class="table-more">
       <a href="#">See More</a>
-    </li>
+    </li> -->
     {% break %} {% endif %}
     <li>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y"
