@@ -1,0 +1,153 @@
+Subject,Ctlg #,Sect,Title,Fac Id,Mtg Start,Mtg End,Mtg Ptrn,Instructor
+CS, 105,01,An Introduction to Computer Concepts,W01-0031,10:00AM,10:50AM,MWF,Meric Kinali
+CS, 105,02,An Introduction to Computer Concepts,W01-0042,11:00AM,11:50AM,MWF,Meric Kinali
+CS, 110,01,Introduction to Computing,W01-0088,11:00AM,12:15PM,TuTh,Swaminathan Raghunathan Iyer
+CS, 110,01D,Introduction to Computing,M01-0608,09:30AM,10:45AM,Tu,Swaminathan Raghunathan Iyer
+CS, 110,02,Introduction to Computing,Y02-2310,05:30PM,06:45PM,TuTh,Joshua Ford Yee
+CS, 110,02D,Introduction to Computing,M02-0208,09:30AM,10:45AM,Th,Swaminathan Raghunathan Iyer
+CS, 110,03D,Introduction to Computing,M01-0418,12:30PM,01:45PM,Tu,Swaminathan Raghunathan Iyer
+CS, 110,04D,Introduction to Computing,M01-0210,12:30PM,01:45PM,Th,Swaminathan Raghunathan Iyer
+CS, 110,05D,Introduction to Computing,M02-0208,09:30AM,10:45AM,Tu,Swaminathan Raghunathan Iyer
+CS, 110,06D,Introduction to Computing,M02-0205,09:30AM,10:45AM,Th,Swaminathan Raghunathan Iyer
+CS, 110,07D,Introduction to Computing,W01-0061,12:30PM,01:45PM,Tu,Swaminathan Raghunathan Iyer
+CS, 110,08D,Introduction to Computing,W01-0057,12:30PM,01:45PM,Th,Swaminathan Raghunathan Iyer
+CS, 110,09D,Introduction to Computing,W01-0061,04:00PM,05:15PM,Tu,Joshua Ford Yee
+CS, 110,10D,Introduction to Computing,M02-0207,04:00PM,05:15PM,Th,Joshua Ford Yee
+CS, 110,11D,Introduction to Computing,W01-0044,07:00PM,08:15PM,Tu,Joshua Ford Yee
+CS, 110,12D,Introduction to Computing,W01-0044,07:00PM,08:15PM,Th,Joshua Ford Yee
+CS, 119,01,Computer Language Supplement,W01-0088,11:00AM,12:15PM,TuTh,Swaminathan Raghunathan Iyer
+CS, 119,02,Computer Language Supplement,Y02-2310,05:30PM,06:45PM,TuTh,Joshua Ford Yee
+CS, 187SL,01,Science Gateway Seminar I,W01-0010,09:30AM,10:20AM,TuTh,Gregory Steven Blike
+CS, 187SL,02,Science Gateway Seminar I,W01-0010,11:00AM,11:50AM,MW,Gregory Steven Blike
+CS, 210,01,Intermediate Computing with Data Structures,HLL-3507,12:30PM,01:45PM,TuTh,Swaminathan Raghunathan Iyer
+CS, 210,01D,Intermediate Computing with Data Structures,M01-0212,11:00AM,12:15PM,Tu,Swaminathan Raghunathan Iyer
+CS, 210,02,Intermediate Computing with Data Structures,M01-0207,05:30PM,06:45PM,MW,Saied Saadat
+CS, 210,02D,Intermediate Computing with Data Structures,W01-0045,11:00AM,12:15PM,Th,Swaminathan Raghunathan Iyer
+CS, 210,03D,Intermediate Computing with Data Structures,M02-0205,02:00PM,03:15PM,Tu,Swaminathan Raghunathan Iyer
+CS, 210,05D,Intermediate Computing with Data Structures,W01-0061,07:00PM,08:15PM,M,Saied Saadat
+CS, 210,06D,Intermediate Computing with Data Structures,M01-0418,07:00PM,08:15PM,W,Saied Saadat
+CS, 220,01,Applied Discrete Mathematics,W01-0005,02:00PM,03:15PM,MW,Ozgun Babur
+CS, 220,02,Applied Discrete Mathematics,W01-0005,04:00PM,05:15PM,TuTh,Long Bao Nguyen
+CS, 240,01,Programming in C,REMOTE,05:30PM,06:45PM,TuTh,Allen Yang
+CS, 240,02,Programming in C,W01-0004,11:00AM,12:15PM,TuTh,Duc Tran
+CS, 271L,01,Introduction to Cognitive Science,M01-0409,12:00PM,12:50PM,MWF,Shibo Cao
+CS, 285L,01,Social Issues and Ethics in Computing,M01-0213,12:30PM,01:45PM,TuTh,Amanda Potasznik
+CS, 285L,02,Social Issues and Ethics in Computing,M01-0213,04:00PM,05:15PM,TuTh,Amanda Potasznik
+CS, 285L,03,Social Issues and Ethics in Computing,M02-0404,05:30PM,06:45PM,TuTh,Amanda Potasznik
+CS, 285L,04,Social Issues and Ethics in Computing,M01-0614,11:00AM,12:15PM,TuTh,Amanda Potasznik
+CS, 310,01,Advanced Data Structures and Algorithms,Y02-2330,04:00PM,05:15PM,MW,Ming Ouyang
+CS, 310,02,Advanced Data Structures and Algorithms,Y02-2120,04:00PM,05:15PM,TuTh,CS Faculty
+CS, 341,01,Computer Architecture and Organization,Y02-2120,07:00PM,08:15PM,TuTh,Hefei Qiu
+CS, 341,01L,Computer Architecture and Organization,M03-0732,05:30PM,06:45PM,Tu,Hefei Qiu
+CS, 341,02L,Computer Architecture and Organization,M03-0732,05:30PM,06:45PM,Th,Hefei Qiu
+CS, 341,03L,Computer Architecture and Organization,M03-0732,08:30PM,09:45PM,Tu,Hefei Qiu
+CS, 341,04L,Computer Architecture and Organization,M03-0732,08:30PM,09:45PM,Th,Hefei Qiu
+CS, 410,01,An Introduction to Software Engineering,W01-0005,12:30PM,01:45PM,TuTh,Ryan Culpepper
+CS, 410,02,An Introduction to Software Engineering,W02-0158,05:30PM,06:45PM,MW,Ryan Culpepper
+CS, 420,01,An Introduction to the Theory of Computation,M02-0404,04:00PM,05:15PM,TuTh,Duc Tran
+CS, 420,02,An Introduction to the Theory of Computation,W01-0005,11:00AM,12:15PM,TuTh,Duc Tran
+CS, 430,01,Database Management,REMOTE,08:30PM,09:45PM,MW,Cristina Ileana Maier
+CS, 438,01,Applied Machine Learning,M01-0409,04:00PM,05:15PM,MW,Ozgun Babur
+CS, 442,01,Cybersecurity in the Internet of Things,M03-0617,05:30PM,06:45PM,TuTh,Xiaohui Liang
+CS, 444,01,An Introduction to Operating Systems,W01-0004,02:00PM,03:15PM,TuTh,Leif Allen Andersen
+CS, 444,02,An Introduction to Operating Systems,W01-0088,05:30PM,06:45PM,TuTh,Leif Allen Andersen
+CS, 446,01,Introduction to Internetworking,M01-0213,11:00AM,12:15PM,TuTh,Bo Sheng
+CS, 449,01,Introduction to Computer Security,W01-0005,04:00PM,05:15PM,MW,CS Faculty
+CS, 450,01,The Structure of Higher Level Languages,W01-0005,05:30PM,06:45PM,MW,Tiago Soares Cogumbreiro Garcia
+CS, 451,01,Compilers,W01-0004,04:00PM,05:15PM,TuTh,Swaminathan Raghunathan Iyer
+CS, 460,01,Graphics,M03-0407,11:00AM,11:50AM,MWF,Daniel Felix Haehn
+CS, 470,01,An Introduction to Artificial Intelligence,Y02-2310,04:00PM,05:15PM,TuTh,Wei Ding
+CS, 478,01,Independent Study, ,,,TBA,Kenneth Kofi Fletcher
+CS, 478,02,Independent Study, ,,,TBA,Gabriel Ghinita
+CS, 478,03,Independent Study, ,,,TBA,Nurit Haspel
+CS, 478,04,Independent Study, ,,,TBA,Stephen T Chang
+CS, 478,05,Independent Study, ,,,TBA,Tiago Soares Cogumbreiro Garcia
+CS, 478,06,Independent Study, ,,,TBA, 
+CS, 480,01,Special Topics,REMOTE,07:00PM,08:15PM,MW,Cristina Ileana Maier
+CS, 495,01,Practicum in Computer Science, ,,,TBA,Ozgun Babur
+CS, 495,02,Practicum in Computer Science, ,,,TBA,Jong Woo Kim
+CS, 495,03,Practicum in Computer Science, ,,,TBA,Stephen T Chang
+CS, 498,01,Honors Thesis, ,,,TBA,Tiago Soares Cogumbreiro Garcia
+CS, 615,01,User Interface Design,Y03-3350,02:00PM,03:15PM,TuTh,Funda Durupinar Babur
+CS, 620,01,Theory of Computation,M02-0404,04:00PM,05:15PM,MW,Dan Simovici
+CS, 624,01,Analysis of Algorithms,M01-0614,05:30PM,06:45PM,MW,Nurit Haspel
+CS, 630,01,Database Management Systems,REMOTE,08:30PM,09:45PM,MW,Cristina Ileana Maier
+CS, 638,01,Applied Machine Learning,M01-0409,04:00PM,05:15PM,MW,Ozgun Babur
+CS, 642,01,Cybersecurity in the Internet of Things,M03-0617,05:30PM,06:45PM,TuTh,Xiaohui Liang
+CS, 646,01,Computer Communication Networks,M01-0213,11:00AM,12:15PM,TuTh,Bo Sheng
+CS, 651,01,Compiler,W01-0004,04:00PM,05:15PM,TuTh,Swaminathan Raghunathan Iyer
+CS, 670,01,Artificial Intelligence,Y02-2310,04:00PM,05:15PM,TuTh,Wei Ding
+CS, 680,01,Object-Oriented Design and Programming,Y02-2330,07:00PM,08:15PM,TuTh,Junichi Suzuki
+CS, 681,01,Object-Oriented Software Development,Y02-2330,05:30PM,06:45PM,TuTh,Junichi Suzuki
+CS, 682,01,Software Development Laboratory I,W02-0158,07:00PM,08:15PM,TuTh,Kenneth Kofi Fletcher
+CS, 696,01,Independent Study, ,,,TBA,Daniel Felix Haehn
+CS, 696,02,Independent Study, ,,,TBA,Dan Simovici
+CS, 696,03,Independent Study, ,,,TBA,Bo Sheng
+CS, 696,04,Independent Study, ,,,TBA,Nurit Haspel
+CS, 696,05,Independent Study, ,,,TBA,Xiaohui Liang
+CS, 696,06,Independent Study, ,,,TBA,Marc Pomplun
+CS, 696,07,Independent Study, ,,,TBA,Tiago Soares Cogumbreiro Garcia
+CS, 696,08,Independent Study, ,,,TBA,Stephen T Chang
+CS, 696,09,Independent Study, ,,,TBA, 
+CS, 696,10,Independent Study, ,,,TBA, 
+CS, 697,01,Special Topics,REMOTE,07:00PM,08:15PM,MW,Cristina Ileana Maier
+CS, 698,01,Practicum in CS, ,,,TBA,Daniel Felix Haehn
+CS, 698,02,Practicum in CS, ,,,TBA,Ozgun Babur
+CS, 698,03,Practicum in CS, ,,,TBA,Wei Ding
+CS, 698,04,Practicum in CS, ,,,TBA,Xiaohui Liang
+CS, 698,05,Practicum in CS, ,,,TBA, 
+CS, 699,01,Research for MS Thesis, ,,,TBA,Daniel Felix Haehn
+CS, 699,02,Research for MS Thesis, ,,,TBA, 
+CS, 699,03,Research for MS Thesis, ,,,TBA, 
+CS, 699,04,Research for MS Thesis, ,,,TBA, 
+CS, 899,01,PhD Dissertation Research, ,,,TBA,Daniel Felix Haehn
+CS, 899,02,PhD Dissertation Research, ,,,TBA,Bo Sheng
+CS, 899,03,PhD Dissertation Research, ,,,TBA,Tiago Soares Cogumbreiro Garcia
+CS, 899,04,PhD Dissertation Research, ,,,TBA,Nurit Haspel
+CS, 899,05,PhD Dissertation Research, ,,,TBA,Wei Ding
+CS, 899,06,PhD Dissertation Research, ,,,TBA,Dan Simovici
+CS, 899,07,PhD Dissertation Research, ,,,TBA,Marc Pomplun
+CS, 899,08,PhD Dissertation Research, ,,,TBA,Duc Tran
+CS, 899,09,PhD Dissertation Research, ,,,TBA,Ping Chen
+CS, 899,10,PhD Dissertation Research, ,,,TBA,Xiaohui Liang
+CS, 899,11,PhD Dissertation Research, ,,,TBA,Honggang Zhang
+IT, 110,11,Information Technology Problem Solving,M01-0212,02:00PM,02:50PM,MWF,Christopher Grant Kelly
+IT, 110,12,Information Technology Problem Solving,M03-0730,05:30PM,06:45PM,MW,Temitayo Banjo
+IT, 110,13,Information Technology Problem Solving,M03-0730,02:00PM,03:15PM,TuTh,Temitayo Banjo
+IT, 111L,03,Managerial Statistics,M01-0409,05:30PM,08:15PM,M,Management Faculty
+IT, 111L,04,Managerial Statistics,M01-0409,08:00AM,09:15AM,MW,Management Faculty
+IT, 114L,11,Introduction To Java,M01-0619,12:00PM,12:50PM,MWF,Christopher Grant Kelly
+IT, 116,11,Introduction to Scripting,M01-0213,02:00PM,03:15PM,TuTh,Glenn Alfred Hoffman
+IT, 117,11,Intermediate Scripting,W01-0006,04:00PM,05:15PM,TuTh,Glenn Alfred Hoffman
+IT, 221,01,Computer Forensics II,M01-0617,05:30PM,08:15PM,Tu,Management Faculty
+IT, 230L,01,Relational Databases,H04-0031,04:00PM,05:15PM,TuTh,Management Faculty
+IT, 230L,02,Relational Databases,ON-LINE,,,TBA,Management Faculty
+IT, 240,01,Web Fluency,Y04-4160,05:30PM,08:15PM,W,Management Faculty
+IT, 240,02,Web Fluency,W02-0198,04:00PM,05:15PM,TuTh,Management Faculty
+IT, 244,11,Introduction to Linux/Unix,M03-0407,11:00AM,12:15PM,TuTh,Glenn Alfred Hoffman
+IT, 244,12,Introduction to Linux/Unix,M03-0730,04:00PM,05:15PM,MW,Temitayo Banjo
+IT, 246,01,Introduction to Networks,ON-LINE,,,TBA,Management Faculty
+IT, 246,11,Introduction to Networks,M03-0730,12:30PM,01:45PM,TuTh,Temitayo Banjo
+IT, 285L,11,Social Issues and Ethics in Computing,M01-0213,12:30PM,01:45PM,TuTh,Amanda Potasznik
+IT, 285L,12,Social Issues and Ethics in Computing,M01-0213,04:00PM,05:15PM,TuTh,Amanda Potasznik
+IT, 285L,13,Social Issues and Ethics in Computing,M02-0404,05:30PM,06:45PM,TuTh,Amanda Potasznik
+IT, 285L,14,Social Issues and Ethics in Computing,M01-0614,11:00AM,12:15PM,TuTh,Amanda Potasznik
+IT, 341,11,Introduction to System Administration,M03-0730,05:30PM,06:45PM,MW,Christopher Grant Kelly
+IT, 341,12,Introduction to System Administration,M03-0730,11:00AM,11:50AM,MWF,Christopher Grant Kelly
+IT, 360,01,Enterprise Software,H04-0031,11:00AM,12:15PM,TuTh,Management Faculty
+IT, 370,01,Introduction to Analytics,ON-LINE,,,TBA,Management Faculty
+IT, 370,02,Introduction to Analytics,W02-0198,05:30PM,08:15PM,M,Management Faculty
+IT, 370,03,Introduction to Analytics,ON-LINE,,,TBA,Management Faculty
+IT, 421,01,Digital Forensics/Malware Analysis,M02-0208,05:30PM,08:15PM,M,Management Faculty
+IT, 425L,01,Project Management,M01-0428,04:00PM,05:15PM,MW,Management Faculty
+IT, 425L,02,Project Management,M01-0409,05:30PM,08:15PM,W,Management Faculty
+IT, 428L,01,Information System Security,M01-0428,05:30PM,08:15PM,Tu,Management Faculty
+IT, 442,12,Windows System Administration,W01-0009,05:30PM,06:45PM,TuTh,Torna Omar Soro
+IT, 443,11,Network Security Administration I,Y04-4170,02:00PM,03:15PM,TuTh,Torna Omar Soro
+IT, 443,12,Network Security Administration I,W01-0009,07:00PM,08:15PM,TuTh,Torna Omar Soro
+IT, 444,11,Network Security Administration II,Y04-4110,07:00PM,08:15PM,TuTh,Simon Tran
+IT, 456,01,Information Storage and Management,ON-LINE,,,TBA,Management Faculty
+IT, 471,01,Data Warehousing for Business Intelligence,M01-0608,05:30PM,08:15PM,Th,Management Faculty
+IT, 471,02,Data Warehousing for Business Intelligence,M02-0420,05:30PM,08:15PM,Tu,Management Faculty
+IT, 485,11,Information Technology Capstone,M01-0608,05:30PM,06:45PM,MW,Simon Tran
+IT, 485,12,Information Technology Capstone,Y04-4110,05:30PM,06:45PM,TuTh,Simon Tran
