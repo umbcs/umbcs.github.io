@@ -38,6 +38,13 @@ permalink: "/faculty"
     tiago.cogumbreiro@umb.edu
   </div>
   <div class="person">
+    <a href="https://www.cs.umb.edu/~hdeblois"><img src="/WEB/images/people/Jane_Holly_DeBlois.jpg"></a><br>
+    <a href="https://www.cs.umb.edu/~hdeblois" target=_blank>Jane H. DeBlois</a><br>
+    Lecturer<br>
+    M-3-201-32<br>
+    jane.deblois@umb.edu<br>
+  </div>
+  <div class="person">
     <a href="http://www.cs.umb.edu/~ding"><img src="/WEB/images/people/Wei_Ding.jpg"></a><br>
     <a href="http://www.cs.umb.edu/~ding" target=_blank>Wei Ding</a><br>
     Professor<br>

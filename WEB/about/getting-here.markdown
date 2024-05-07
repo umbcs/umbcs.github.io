@@ -10,6 +10,11 @@ Once on Campus The Computer Science department can be found in the third floor o
 
 Use our [interactive campus map](https://umb.edu/map) to find food, vending machines, and other amenities; you can also [print our transportation map](https://www.umb.edu/the_university/getting_here/parking/map) or [find campus buildings on our mobile app](https://umboston-prod.modolabs.net/default/).
 
+# CS Department Location
+
+The CS department is located on the third floor of the McCormack Hall. Make a u-turn after the stairs and head down the door down the hall.
+<a href="/McCormackThirdFloorMap.pdf">Link to a map</a>
+
 # Public Transportation
 
 **Subway** \
