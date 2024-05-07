@@ -14,6 +14,7 @@ The CS minor program provides an education in the core courses of Computer Scien
 
 Many students who are studying within the College of Science and Mathematics will complete some of these courses to complete their major requirements. Students who are studying [Computer Engineering](https://www.umb.edu/academics/program-finder/computer-engineering-bs/), in particular, will need to complete one CS elective to obtain a CS minor. 
 
+
 The Computer Science Department does not offer winter courses; we only offer classes during Fall, Spring, and Summer semesters. We currently do not offer online courses. The minor typically requires 4 semesters due to prerequisites. We do not allow students to take requisites out of ordeer. The schedule is as follows:
 
 1st semester - [CS110]({{site.baseurl}}/academics/courses/CS110) and [MATH140](https://www.umb.edu/course_catalog/course_info/ugrd_MATH_all_140) \

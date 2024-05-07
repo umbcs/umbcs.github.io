@@ -20,6 +20,7 @@ The Undergraduate Certificate provides a fundamental core education in Computer 
 
 We offer a curriculum stressing software development. It provides training appropriate for students with interests in areas such as systems programming, compiler development, artificial intelligence, database management, and software engineering. An aptitude for logical reasoning and mathematics is needed to complete the major successfully, partly because designing programs to solve problems requires good problem solving skills and partly because some of the requirements are relatively advanced theoretical Computer Science and mathematics courses.
 
+
 In addition to the BS in IT offered by the Computer Science Department, there are other opportunities for degrees or certificates in Information Technology within the University. The College of Advancing and Professional Studies CAPS, offers a Certificate in [Information Technology](http://www.umb.edu/academics/caps/certificates/infotech) earned from the [College of Management](https://www.umb.edu/business/academic-departments/management/). The College of Management also provides a Master’s program in [Information Technology](https://www.umb.edu/academics/program-finder/information-technology-bs/).
 
 **Registration**

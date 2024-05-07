@@ -72,11 +72,13 @@ In addition to the general education courses that all undergraduate students tak
 
 [IT111L Managerial Statistics](https://courses.umb.edu/course_catalog/course_info/ugrd_it_2023%20fall_111l)
 
+
 [IT114L Introduction to Java Part I]({{site.baseurl}}/academics/courses/IT114L)
 
 [IT115L Introduction to Java Part II]({{site.baseurl}}/academics/courses/IT115L) (syllabus)
 
 [IT230L Relational Databases]({{site.baseurl}}/academics/courses/IT230L)
+
 
 [IT240L Web Fluency](https://courses.umb.edu/course_catalog/course_info/ugrd_labor_all_240l) (syllabus)
 
@@ -155,7 +157,7 @@ Take five of the following courses:
 
 [IT220 Computer Forensics I]({{site.baseurl}}/academics/courses/IT220)
 
-[IT221 Computer Forensics II]({{site.baseurl}}/academics/courses/IT220)
+[IT221 Computer Forensics II]({{site.baseurl}}/academics/courses/IT221)
 
 [IT420 Network and Mobile Forensics]({{site.baseurl}}/academics/courses/IT420)
 
@@ -165,7 +167,7 @@ Take five of the following courses:
 
 ---
 
-<a name= "a8"></a>
+<a name= "a7"></a>
 
 # Project Management, Electives and Capstone
 
@@ -189,7 +191,9 @@ Students transferring into the BS in IT, in either college, may transfer all 100
 
 Questions? Need additional information? Want to visit? Feel free to contact us.
 
+
 [Glenn Hoffman](https://www.umb.edu/directory/glennhoffman/)\
+
 Lecturer, Department of Computer Science and Information Technology\
 College of Science and Mathematics\
 617.287.6466\
