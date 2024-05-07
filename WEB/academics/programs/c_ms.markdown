@@ -27,7 +27,7 @@ Object-Oriented Software Development I and II ([CS680]({{site.baseurl}}/academic
 
 [CS724: Topics in Algorithm Theory and Design]({{site.baseurl}}/academics/courses/CS724)
 
-[MATH470: Mathematical Logic]({{site.baseurl}}/academics/courses/MATH470)
+[MATH470: Mathematical Logic](https://courses.umb.edu/course_catalog/course_info/ugrd_math_all_470)
 
 Applied Electives:
 
