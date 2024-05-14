@@ -13,6 +13,11 @@ permalink: "office-hours"
 <table id="office_schedule">
   <thead>
     <tr>
+      <th>Instructor</th>
+      <th>Email</th>
+      <th>Office Location</th>
+      <th>Office Phone Number</th>
+      <th>Office Hours</th>
       <th>instructor</th>
       <th>Email</th>
       <th>office Location</th>

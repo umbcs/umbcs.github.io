@@ -16,4 +16,13 @@ The following students created the original version of this website as part of a
 * Sinan Liu
 * Jonathan Ohop
 
+The following students updated the existing version of this website as part of a <a href="https://www.cs.umb.edu/~hdeblois/" target=_blank>CS410</a> project in Spring 2024.
+
+* Branden Favre
+* Riley Choquette
+* Khushbu Kapadia
+* Mehya N. Tambi
+* Bhavana Manneni
+* Jacob Jashwanth Patoju
+
 Thank you!! :)

@@ -19,6 +19,31 @@ function loadCourses(filename) {
 
 }
 
+function printOfficeHours(url, element) {
+  var req = new XMLHttpRequest();
+
+  req.open("GET", url, true);
+  req.responseType = "arraybuffer";
+
+  req.onload = function(e) {
+
+    NAME_MAP = {
+      'Junichi Suzuki': 'Jun Suzuki',
+      'Ronald Cheung': 'Ron Cheung',
+      'Swaminathan Raghunathan Iyer':  'Swami Iyer',
+      'Tiago Soares Cogumbreiro Garcia': 'Tiago Cogumbreiro',
+      'Funda Durupinar Babur' : 'Funda Durupinar',
+      'Daniel Felix Haehn': 'Daniel Haehn',
+      'Kenneth Kofi Fletcher': 'Kenneth Fletcher',
+      'Glenn Alfred Hoffman': 'Glenn Hoffman',
+      'TBD' : 'CS Faculty',
+      'BLANK' : 'CS Faculty',
+      'Unassigned': 'CS Faculty',
+      'Christopher Grant Kelly': 'Chris Kelly',
+      'Management Instructor': 'Management Faculty'
+    }
+
+    var wb = XLSX.read(req.response);
 
 function printOfficeHours(url, element) {
   var req = new XMLHttpRequest();
@@ -86,7 +111,6 @@ function printOfficeHours(url, element) {
 
 }
 
-
 function printSchedule(url, element) {
 
   var req = new XMLHttpRequest();
@@ -123,7 +147,7 @@ function printSchedule(url, element) {
     var all_html = '';
 
     for (var row in json) {
-
+      
       var row = json[row];
       aaaa = row
       var course = row['Subject'].toString().trim()+row['Ctlg #'].toString().trim();
