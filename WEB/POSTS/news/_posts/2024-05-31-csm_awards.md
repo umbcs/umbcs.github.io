@@ -7,6 +7,7 @@ Dr. Amanda Potasznik received the 2024 CSM Distinguished Teaching Award (NTT).
 Dr. Daniel Haehn earned this year's CSM Excellence in Undergraduate Education Award. 
 
 Congratulations :)
+<br>
 <img src="/WEB/images/amanda_and_daniel.jpg">
 
 
