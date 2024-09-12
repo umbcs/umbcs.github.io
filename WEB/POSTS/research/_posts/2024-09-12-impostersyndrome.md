@@ -5,7 +5,7 @@ title: "Understanding Imposter Syndrome in UMass Boston STEM Students"
 
 Do you ever doubt your abilities despite your achievements?
 
-You’re not alone. Imposter Syndrome—the feeling of self-doubt or unworthiness despite evident success—affects many STEM students. We are three IT/CS students conducting a research project to better understand how Imposter Syndrome impacts students like you at UMass Boston, with guidance from Professor Amanda Potasznik.
+You’re not alone. Imposter Syndrome is the feeling of self-doubt or unworthiness despite evident success—affects many STEM students. We are three IT/CS students conducting a research project to better understand how Imposter Syndrome impacts students like you at UMass Boston, with guidance from Professor Amanda Potasznik.
 
 **Why is this important?**
 
