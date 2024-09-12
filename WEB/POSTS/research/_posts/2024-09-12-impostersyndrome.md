@@ -20,7 +20,7 @@ Click the link here to the survey:
 This is an anonymous survey for STEM students only, aged 18 and over. Help us learn more—because feeling like an imposter shouldn’t hold you back!
 
 For questions, please contact us at:
-- Amanda Potasznik: amanda.potasznik@umb.edu
-- Jariel Rodriguez: jariel.rodriguez001@umb.edu
 - Melaku Mohammed: melaku.mohammed001@umb.edu
+- Jariel Rodriguez: jariel.rodriguez001@umb.edu
 - Saimon Alam: saimon.alam001@umb.edu
+- Amanda Potasznik: amanda.potasznik@umb.edu
