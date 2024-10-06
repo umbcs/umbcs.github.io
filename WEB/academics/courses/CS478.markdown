@@ -7,12 +7,12 @@ permalink: "/academics/courses/CS478"
 
 
 \
-**Independent Study (3 credits)**
+**Independent Study (1-3 credits)**
 
 ---
 
 \
-Work done by a student or group of students under faculty supervision on material not currently offered in a regularly scheduled course. Students wishing to undertake such work must first find a faculty member willing to supervise it; the work to be completed must be approved by the department's chairperson.
+Work done by a student or group of students under faculty supervision on material not currently offered in a regularly scheduled course. Students wishing to undertake such work must first find a faculty member willing to supervise it; **By default, an independent study is a one credit course that counts as a general elective.** If a student wishes to have the independent study considered as a CS upper level elective, they have to prepare a syllabus and send it to the department chair or undergraduate program director for pre-approval. Afterwards, they may sign up for a three credit course. 
 
 **Pre-requisites:**
 \
