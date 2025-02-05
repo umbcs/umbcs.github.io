@@ -109,7 +109,7 @@ permalink: "/faculty"
     <br>
   </div>
 <div class="person">
-    <a href="https://talesimbiriba.github.io"><img src="/WEB/images/people/Photo_Imbiriba.jpg"></a><br>
+    <a href="https://talesimbiriba.github.io"><img src="/WEB/images/people/Tales_Imbiriba.jpg"></a><br>
     <a href="https://talesimbiriba.github.io" target=_blank>Tales Imbiriba</a><br>
     Assistant Professor<br>
     M-3-201-19<br>
