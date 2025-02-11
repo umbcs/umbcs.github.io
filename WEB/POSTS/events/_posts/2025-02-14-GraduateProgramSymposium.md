@@ -2,6 +2,7 @@
 layout: post
 title: "2025 GRADUATE STUDENTS’ SYMPOSIUM"
 ---
+
 <p><b>2025 GRADUATE STUDENTS’ SYMPOSIUM</b></p>
 <p>Date and Time: Friday, February 14th at 10:00 AM</p>
 <p>Location: Campus Center, 3rd Floor, Ballroom, Section A (3550A)</p>
@@ -14,7 +15,7 @@ title: "2025 GRADUATE STUDENTS’ SYMPOSIUM"
 <p></p>
 <p>Honoring the Memory of Marc Pomplun</p>
 <p></p>
-Flyer will soon be posted
+<img src='/WEB/images/2025_gss_flyer.png'>
 
 
 
