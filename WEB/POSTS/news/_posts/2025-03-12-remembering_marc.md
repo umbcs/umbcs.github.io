@@ -12,5 +12,6 @@ Marc married Michelle Umali in 2007 at the New York Botanical Garden. She descri
 
 Everyone who knew Marc describe him as exremely kind, bright and genuine, and as a wonderful colleauge and mentor. He will be profoundly missed by his family, his colleagues here at the University and elsewhere, and by his former students. 
 <br>
-<img src="/WEB/images/people/Marc_Pomplun.jpg">
+<br>
+<center><img src="/WEB/images/people/Marc_Pomplun.jpg"></center>
 
