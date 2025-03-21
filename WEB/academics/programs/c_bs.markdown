@@ -60,10 +60,10 @@ Annual Number of BS degrees awarded in Computer Science:
 - CS110; CS210; CS220; CS240; CS310; CS341; CS410 (this will be the capstone course for the major); CS420; CS444; CS450; CS451 or CS651; and CS285L (students who declared their major prior to January 27, 2003 may replace CS285L with an additional Computer Science elective)
 - Math140; Math141; and Math260; Math345
 - Physics113; Physics181; Physics114; and Physics182
-- One science elective. Information on allowable electives may be obtained in the department office
+- One science elective. Possible science elective courses: Anthropology 105, 312, 317, 412 432; Biology, Chemistry and Physics: Any course that counts for the major. Engineering: Any course numbered 200 or higher. Psychology: 466, 468, 475, 476. Environmental Studies: ENVSTY 116L, 267L, 321L, ENVSCI 116L, 120, 226, 260, 261, any course 400 and up. Other courses may be accepted with permission.
 - Two Computer Science electives chosen from: CS411; CS430; CS433; CS436; CS437 CS438; CS442; CS443; CS446; CS449; CS460; CS461; CS470; CS615; CS620; CS622; CS624; CS630; CS634; CS636; CS637; CS638; CS642; CS644; CS646; CS648; CS651; CS670; CS671; CS675; CS680. With prior permission it may be possible to take an independent study course in place of one of the above
 - At least six 300; 400; or 600 level Computer Science or Mathematics courses must be taken at UMass Boston. This limits the number of transfer courses that can be applied towards a degree
-- A major must maintain a C average (2.0 GPA) in all of the above. Only courses taken at UMass Boston are averaged
+- A major must maintain a C average (2.0 GPA) in all of the above. Only courses taken at UMass Boston are averaged. 
 
 **BS in Computer Science Major Requirements (for students who declared a CS major in or after Spring 2023)**
 - CS110; CS210; CS220; CS240; CS310; CS341; CS410 (this will be the capstone course for the major); CS420; CS444; CS446; CS449; CS451 or CS651; and CS285L
