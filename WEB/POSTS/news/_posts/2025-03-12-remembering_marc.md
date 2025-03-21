@@ -2,7 +2,7 @@
 layout: post
 title: "Remembering Marc Pomplun"
 ---
-We are deeply saddened to announce that Marc Pomplun, the Computer Science department chair and a beloved colleage, passed away on January 18, 2025. He was 55. Marc was admired by his colleagues and students alike. He enjoyed teaching and mentoring students and passionately incorporated creative ways to bring to life the concepts he taught in the classroom.  He was also widely appreciated for his major contributions to UMass Boston having served as department chair since Summer 2019.  
+We are deeply saddened to announce that Marc Pomplun, the Computer Science department chair and a beloved colleague, passed away on January 18, 2025. He was 55. Marc was admired by his colleagues and students alike. He enjoyed teaching and mentoring students and passionately incorporated creative ways to bring to life the concepts he taught in the classroom.  He was also widely appreciated for his major contributions to UMass Boston having served as department chair since Summer 2019.  
 
 Marc was born in Ratzeburg, Germany and grew up in Lübeck, Germany. He was the only child of his mother Petra (neé Liesener), who is 82 and lives in Lübeck, and his late father Hasko Pomplun. He completed his undergraduate and graduate studies at Bielefeld University in Bielefeld, Germany. He conducted his doctoral research under Professor Helge Ritter and later completed postdoctoral work at the University of Toronto before coming to UMass Boston in 2002.
 
