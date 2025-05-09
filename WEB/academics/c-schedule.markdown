@@ -16,7 +16,11 @@ permalink: "/course-schedule"
   <option value="schedule_summer_session1_2024.xlsx">Summer 2024 Session 1</option>
   <option value="schedule_summer_session2_2024.xlsx">Summer 2024 Session 2</option>
   <option value="schedule_fall_2024.xlsx">Fall 2024</option>
-  <option value="schedule_spring_2025.xlsx" selected>Spring 2025</option>
+  <option value="schedule_spring_2025.xlsx">Spring 2025</option>
+  <option value="schedule_summer_session1_2025.xlsx">Summer 2025 Session 1</option>
+  <option value="schedule_summer_session2_2025.xlsx">Summer 2025 Session 2</option>
+  <option value="schedule_summer_session3_2025.xlsx">Summer 2025 Session 3</option>
+  <option value="schedule_fall_2025.xlsx" selected>Fall 2025</option>
 </select>
 
 <table id="schedule">
