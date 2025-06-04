@@ -71,7 +71,7 @@ permalink: "/faculty"
   <div class="person">
     <a href="http://www.cs.umb.edu/~gghinita/"><img src="/WEB/images/people/Gabriel_Ghinita.jpg"></a><br>
     <a href="http://www.cs.umb.edu/~gghinita/" target=_blank>Gabriel Ghinita</a><br>
-    Associate Professor<br>
+    Professor<br>
     M-3-201-19<br>
     617.287.6479<br>
     gabriel.ghinita@umb.edu
@@ -126,26 +126,10 @@ permalink: "/faculty"
   <div class="person">
     <a href="http://www.faculty.umb.edu/xiaohui.liang"><img src="/WEB/images/people/Xiaohui_Liang.jpg"></a><br>
     <a href="http://www.faculty.umb.edu/xiaohui.liang" target=_blank>Xiaohui Liang</a><br>
-    Associate Professor<br>
+    Interim department Chair, Associate Professor<br>
     M-3-201-24<br>
     617-287-6791<br>
     xiaohui.liang@umb.edu
-  </div>
-  <div class="person">
-    <a href="http://www.cs.umb.edu/~ming/"><img src="/WEB/images/people/Ming_Ouyang.jpg"></a><br>
-    <a href="http://www.cs.umb.edu/~ming/" target=_blank>Ming Ouyang</a><br>
-    Associate Professor<br>
-    M-3-201-25<br>
-    ming.ouyang@umb.edu<br>
-    <br>
-  </div>
-  <div class="person">
-    <a href="http://www.cs.umb.edu/~marc"><img src="/WEB/images/people/Marc_Pomplun.jpg"></a><br>
-    <a href="http://www.cs.umb.edu/~marc" target=_blank>Marc Pomplun</a><br>
-    Department Chair, Professor<br>
-    M-3-201-09<br>
-    617-287-6443<br>
-    marc.pomplun@umb.edu
   </div>
   <div class="person">
     <img src="/WEB/images/people/amanda_potasznik.jpg"><br>
@@ -196,14 +180,6 @@ permalink: "/faculty"
     duc.tran@umb.edu
   </div>
   <div class="person">
-    <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
-    Simon Tran<br>
-    Lecturer<br>
-    M-3-201-31<br>
-    617-287-6490<br>
-    simon.tran@umb.edu
-  </div>
-  <div class="person">
     <a href="https://www.cs.umb.edu/~ywan/"><img src="/WEB/images/people/Yinxin_Wan.jpg"></a><br>
     <a href="https://www.cs.umb.edu/~ywan/" target=_blank>Yinxin Wan</a><br>
     Assistant Professor<br>
@@ -240,14 +216,12 @@ permalink: "/faculty"
     Lecturer (retired)<br>
     abird@cs.umb.edu<br><br>
     <br>
-    <br>
   </div>
     <div class="person">
     <a href="http://www.cs.umb.edu/~eb"><img src="/WEB/images/people/Ethan_Bolker.jpg"></a><br>
     <a href="http://www.cs.umb.edu/~eb" target=_blank>Ethan Bolker</a><br>
     Emeritus Professor (retired)<br>
     eb@cs.umb.edu<br><br>
-    <br>
     <br>
   </div>
    <div class="person">
@@ -264,14 +238,12 @@ permalink: "/faculty"
     Emeritus Professor (retired)<br>
     617.287.6453<br>
     peter.fejer@umb.edu<br>
-    <br>
   </div>
   <div class="person">
     <a href="http://www.cs.umb.edu/~cgodfrey"><img src="/WEB/images/people/Colin_Godgrey.jpg"></a><br>
     <a href="http://www.cs.umb.edu/~cgodfrey" target=_blank>Colin Godfrey</a><br>
     Associate Professor (retired)<br>
     colin.godfrey@gmail.com<br>
-    <br>
     <br>
   </div>
   <div class="person">
@@ -280,14 +252,12 @@ permalink: "/faculty"
     Associate Professor (retired)<br>
     gl@cs.umb.edu<br>
     <br>
-    <br>
   </div>
   <div class="person">
     <a href="http://www.cs.umb.edu/~joan"><img src="/WEB/images/people/Joan_Lukas.jpg"></a><br>
     <a href="http://www.cs.umb.edu/~joan" target=_blank>Joan Lukas</a><br>
     Emeritus Professor (retired)<br>
     joan@cs.umb.edu<br>
-    <br>
     <br>
   </div>
   <div class="person">
@@ -296,7 +266,6 @@ permalink: "/faculty"
     Associate Professor (retired)<br>
     kwn@cs.umb.edu<br>
     <br>
-    <br>
   </div>
   <div class="person">
     <a href="http://www.cs.umb.edu/~offner/"><img src="/WEB/images/people/Carl_Offner.jpg"></a><br>
@@ -304,7 +273,7 @@ permalink: "/faculty"
     Industrial Professor<br>
     M-3-201-32<br>
     617.287.6490<br>
-    carl.offner@umb.edu
+    carl.offner@umb.edu<br>
   </div>
   <div class="person">
     <a href="http://www.cs.umb.edu/~eoneil"><img src="/WEB/images/people/Elizabeth_ONeil.jpg"></a><br>
@@ -338,6 +307,12 @@ permalink: "/faculty"
     <br>
     <br>
   </div>
+    <div class="person">
+    <a href="http://www.cs.umb.edu/~ming/"><img src="/WEB/images/people/Ming_Ouyang.jpg"></a><br>
+    <a href="http://www.cs.umb.edu/~ming/" target=_blank>Ming Ouyang</a><br>
+    Associate Professor (retired)<br>
+    <br>
+  </div>
 </div>
 
 <div id='in_memorandum' class='listing'>
@@ -365,5 +340,10 @@ permalink: "/faculty"
     <br>
     <br>
     <br>
+  </div>
+    <div class="person">
+    <a href="http://www.cs.umb.edu/~marc"><img src="/WEB/images/people/Marc_Pomplun.jpg"></a><br>
+    <a href="http://www.cs.umb.edu/~marc" target=_blank>Marc Pomplun</a><br>
+    Department Chair, Professor<br>
   </div>
 </div>
