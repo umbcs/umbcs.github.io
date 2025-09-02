@@ -31,7 +31,7 @@ The following information details the equipment in the various labs:
 <ul>
    <li>19 Dell Optiplex 7050 workstations (Windows)</li>
    <li>1 Teaching Lectern*</li>
-   <li>1 Retractable 80"x50" White Screen</li>
+   <li>1 Retractable 50"x80" White Screen</li>
    <li>1 190"x48" White Board</li>
    <li>1 LCD Laser Projector</li>
 </ul>
@@ -45,7 +45,7 @@ The following information details the equipment in the various labs:
     <li>11 Dell Optiplex 7060 workstations (Windows)</li>
     <li>9 Dell Optiplex 7070 workstations  (windows)</li>
     <li>1 Teaching Lectern*</li>
-    <li>1 Retractable 80"x48" White Screen</li>
+    <li>1 Retractable 50"x80" White Screen</li>
     <li>1 286"x48" White Board</li>
     <li>1 LCD Laser Projector</li>
 </ul>
@@ -55,7 +55,7 @@ The following information details the equipment in the various labs:
     <li>Blu-Ray DVD</li>
     <li>Resident PC</li>
     <li>Laptop HDMI Connection</li>
-    <li>Laptop VGA Connection</li>
+    <li>Laptop USB-C Connection</li>
     <li>Hardline Internet connection to UMB Network</li>
 </ul>
 
