@@ -32,7 +32,7 @@ permalink: "/faculty"
   <div class="person">
     <a href="https://cogumbreiro.github.io/"><img src="/WEB/images/people/Tiago_Cogumbreiro.jpg"></a><br>
     <a href="https://cogumbreiro.github.io/" target=_blank>Tiago Cogumbreiro</a><br>
-    Assistant Professor<br>
+    Associate Professor<br>
     M-3-201-16<br>
     617-287-6479<br>
     tiago.cogumbreiro@umb.edu
@@ -55,7 +55,7 @@ permalink: "/faculty"
   <div class="person">
     <a href="http://www.cs.umb.edu/~fundad"><img src="/WEB/images/people/Funda_Durupinar.jpg"></a><br>
     <a href="http://www.cs.umb.edu/~fundad" target=_blank>Funda Durupinar</a><br>
-    Assistant Professor<br>
+    Associate Professor<br>
     M-3-201-08<br>
     funda.durupinarbabur@umb.edu<br>
     <br>
@@ -79,7 +79,7 @@ permalink: "/faculty"
   <div class="person">
     <a href="http://www.cs.umb.edu/~haehn"><img src="/WEB/images/people/Daniel_Haehn.jpg"></a><br>
     <a href="http://www.cs.umb.edu/~haehn" target=_blank>Daniel Haehn</a><br>
-    Assistant Professor<br>
+    Associate Professor<br>
     M-3-201-20<br>
     daniel.haehn@umb.edu<br>
     <br>
@@ -87,8 +87,8 @@ permalink: "/faculty"
   <div class="person">
     <a href="http://www.cs.umb.edu/~nurith"><img src="/WEB/images/people/Nurit_Haspel.jpg"></a><br>
     <a href="http://www.cs.umb.edu/~nurith" target=_blank>Nurit Haspel</a><br>
-    Undergraduate Program Director, Professor<br>
-    M-3-201-04<br>
+    Professor, Department Chair<br>
+    M-3-201-09<br>
     617-287-6414<br>
     nurit.haspel@umb.edu
   </div>
@@ -112,7 +112,7 @@ permalink: "/faculty"
     <a href="https://talesimbiriba.github.io"><img src="/WEB/images/people/Tales_Imbiriba.jpg"></a><br>
     <a href="https://talesimbiriba.github.io" target=_blank>Tales Imbiriba</a><br>
     Assistant Professor<br>
-    M-3-201-19<br>
+    M-3-201-04<br>
     tales.imbiriba@umb.edu
   </div>
   <div class="person">
@@ -126,11 +126,18 @@ permalink: "/faculty"
   <div class="person">
     <a href="http://www.faculty.umb.edu/xiaohui.liang"><img src="/WEB/images/people/Xiaohui_Liang.jpg"></a><br>
     <a href="http://www.faculty.umb.edu/xiaohui.liang" target=_blank>Xiaohui Liang</a><br>
-    Interim department Chair, Associate Professor<br>
+    Associate Professor<br>
     M-3-201-24<br>
     617-287-6791<br>
     xiaohui.liang@umb.edu
   </div>
+ <!--   <div class="person">
+    <a href="http://www.faculty.umb.edu/xiaohui.liang" target=_blank>Tariqul Islam Papon</a><br>
+    Assistant Professor<br>
+    M-3-201-28<br>
+    617-287-6791<br>
+    xiaohui.liang@umb.edu
+  </div>-->
   <div class="person">
     <img src="/WEB/images/people/amanda_potasznik.jpg"><br>
     <a href="https://blogs.umb.edu/potasznikresearch/" target=_blank>Amanda Potasznik</a><br>
@@ -142,7 +149,7 @@ permalink: "/faculty"
   <div class="person">
     <a href="http://www.cs.umb.edu/~shengbo"><img src="/WEB/images/people/Bo_Sheng.jpg"></a><br>
     <a href="http://www.cs.umb.edu/~shengbo" target=_blank>Bo Sheng</a><br>
-    Associate Professor<br>
+    Professor, Undergraduate Program Director<br>
     M-3-201-23<br>
     617.287.6468<br>
     bo.sheng@umb.edu
@@ -150,7 +157,7 @@ permalink: "/faculty"
   <div class="person">
     <a href="http://www.cs.umb.edu/~dsim"><img src="/WEB/images/people/Dan_Simovici.jpg"></a><br>
     <a href="http://www.cs.umb.edu/~dsim" target=_blank>Dan Simovici</a><br>
-    Graduate Program Director, Professor<br>
+    Professor, Graduate Program Director<br>
     M-3-201-05<br>
     617-287-6472<br>
     dan.simovici@umb.edu
@@ -203,7 +210,95 @@ permalink: "/faculty"
   </div>
   <div class="person"></div>
   <div class="person"></div>
-
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180
+181
+    M-3-201-22<br>
+    617-287-6466<br>
+    glenn.hoffman@umb.edu
+  </div>
+  <div class="person">
+    <a href="http://www.cs.umb.edu/~siyer"><img src="/WEB/images/people/swami.jpg"></a><br>
+    <a href="http://www.cs.umb.edu/~siyer" target=_blank>Swami Iyer</a><br>
+    Senior Lecturer<br>
+    M-3-201-14<br>
+    swaminathan.iyer@umb.edu<br>
+    <br>
+  </div>
+<div class="person">
+    <a href="https://talesimbiriba.github.io"><img src="/WEB/images/people/Tales_Imbiriba.jpg"></a><br>
+    <a href="https://talesimbiriba.github.io" target=_blank>Tales Imbiriba</a><br>
+    Assistant Professor<br>
+    M-3-201-04<br>
+    tales.imbiriba@umb.edu
+  </div>
+  <div class="person">
+    <img src="/WEB/images/people/Christopher_Kelly.jpg"><br>
+    Christopher Kelly<br>
+    Lecturer<br>
+    M-3-201-31<br>
+    christopher.kelly005@umb.edu<br>
+    <br>
+  </div>
+  <div class="person">
+    <a href="http://www.faculty.umb.edu/xiaohui.liang"><img src="/WEB/images/people/Xiaohui_Liang.jpg"></a><br>
+    <a href="http://www.faculty.umb.edu/xiaohui.liang" target=_blank>Xiaohui Liang</a><br>
+    Associate Professor<br>
+    M-3-201-24<br>
+    617-287-6791<br>
+    xiaohui.liang@umb.edu
+  </div>
+ <!--   <div class="person">
+    <a href="http://www.faculty.umb.edu/xiaohui.liang" target=_blank>Tianfang Zhang</a><br>
+    Assistant Professor<br>
+    M-3-201-10<br>
+    617-287-6791<br>
+    xiaohui.liang@umb.edu
+  </div>-->
 </div>
 
 
