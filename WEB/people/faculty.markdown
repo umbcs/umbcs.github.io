@@ -85,7 +85,7 @@ permalink: "/faculty"
     <br>
   </div>
   <div class="person">
-    <a href="http://www.cs.umb.edu/~nurith"><img src="/WEB/images/people/Nurit_Haspel.jpg"></a><br>
+    <a href="http://www.cs.umb.edu/~nurith"><img src="/WEB/images/people/nurit_haspel.jpg"></a><br>
     <a href="http://www.cs.umb.edu/~nurith" target=_blank>Nurit Haspel</a><br>
     Professor, Department Chair<br>
     M-3-201-09<br>
