@@ -133,7 +133,7 @@ permalink: "/faculty"
     <br>
   </div>
 <div class="person">
-       <a href="https://www.umb.edu/directory/tpapon/"><img src="/WEB/images/people/tariqulislam_Papon.jpg"></a><br>
+       <a href="https://www.umb.edu/directory/tpapon/"><img src="/WEB/images/people/tariqulislam_papon.jpg"></a><br>
     <a href="https://www.cs.umb.edu/~tpapon/" target=_blank>MD Tariqul Islam Papon</a><br>
     Assistant Professor<br>
     M-3-201-28<br>
