@@ -257,6 +257,7 @@ permalink: "/faculty"
     617-287-6791<br>
     xiaohui.liang@umb.edu
   </div>-->
+  <div class="person"> <a href="https://soheilappear.github.io/soheilsepahyar/"><img src="/WEB/images/people/Soheil_Sepahyar.jpg"> </a><br> <a href="https://soheilappear.github.io/soheilsepahyar/" target=_blank>Soheil Sepahyar</a><br> Lecturer<br> M-3-201-31<br> soheil.sepahyar@umb.edu </div>"
 </div>
 
 
