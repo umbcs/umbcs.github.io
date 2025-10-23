@@ -133,11 +133,11 @@ permalink: "/faculty"
     <br>
   </div>
 <div class="person">
-       <a href="https://www.umb.edu/directory/tpapon/"><img src="/WEB/images/people/tariqulislam_papon.jpg"></a><br>
-    <a href="https://www.cs.umb.edu/~tpapon/" target=_blank>MD Tariqul Islam Papon</a><br>
+       <a href="https://www.cs.umb.edu/~tpapon/"><img src="/WEB/images/people/tarikulislam_papon.jpg"></a><br>
+    <a href="https://www.cs.umb.edu/~tpapon/" target=_blank>Tarikul Islam Papon</a><br>
     Assistant Professor<br>
     M-3-201-28<br>
-    <!--617-287-6791<br>-->
+    <!-- 617-287-6791<br> -->
     T.Papon@umb.edu
   <br>
   </div>
@@ -211,53 +211,13 @@ permalink: "/faculty"
     <br>
     <br>
   </div>
-  <div class="person"></div>
-   <a href="http://www.cs.umb.edu/~ghoffman"><img src="/WEB/images/people/Glenn_Hoffman.jpg"></a><br>
-    <a href="http://www.cs.umb.edu/~ghoffman" target=_blank>Glenn Hoffman</a><br>
-   IT Program Director, Senior Lecturer<br>
-    M-3-201-22<br>
-    617-287-6466<br>
-    glenn.hoffman@umb.edu
-  </div>
   <div class="person">
-    <a href="http://www.cs.umb.edu/~siyer"><img src="/WEB/images/people/swami.jpg"></a><br>
-    <a href="http://www.cs.umb.edu/~siyer" target=_blank>Swami Iyer</a><br>
-    Senior Lecturer<br>
-    M-3-201-14<br>
-    swaminathan.iyer@umb.edu<br>
-    <br>
-  </div>
-<div class="person">
-    <a href="https://talesimbiriba.github.io"><img src="/WEB/images/people/Tales_Imbiriba.jpg"></a><br>
-    <a href="https://talesimbiriba.github.io" target=_blank>Tales Imbiriba</a><br>
-    Assistant Professor<br>
-    M-3-201-04<br>
-    tales.imbiriba@umb.edu
-  </div>
-  <div class="person">
-    <img src="/WEB/images/people/Christopher_Kelly.jpg"><br>
-    Christopher Kelly<br>
+    <a href="https://soheilappear.github.io/soheilsepahyar/"><img src="/WEB/images/people/Soheil_Sepahyar.jpg"></a><br>
+    <a href="https://soheilappear.github.io/soheilsepahyar/" target=_blank>Soheil Sepahyar</a><br>
     Lecturer<br>
     M-3-201-31<br>
-    christopher.kelly005@umb.edu<br>
-    <br>
+    soheil.sepahyar@umb.edu
   </div>
-  <div class="person">
-    <a href="http://www.faculty.umb.edu/xiaohui.liang"><img src="/WEB/images/people/Xiaohui_Liang.jpg"></a><br>
-    <a href="http://www.faculty.umb.edu/xiaohui.liang" target=_blank>Xiaohui Liang</a><br>
-    Associate Professor<br>
-    M-3-201-24<br>
-    617-287-6791<br>
-    xiaohui.liang@umb.edu
-  </div>
- <!--   <div class="person">
-    <a href="http://www.faculty.umb.edu/xiaohui.liang" target=_blank>Tianfang Zhang</a><br>
-    Assistant Professor<br>
-    M-3-201-10<br>
-    617-287-6791<br>
-    xiaohui.liang@umb.edu
-  </div>-->
-  <div class="person"> <a href="https://soheilappear.github.io/soheilsepahyar/"><img src="/WEB/images/people/Soheil_Sepahyar.jpg"> </a><br> <a href="https://soheilappear.github.io/soheilsepahyar/" target=_blank>Soheil Sepahyar</a><br> Lecturer<br> M-3-201-31<br> soheil.sepahyar@umb.edu </div>"
 </div>
 
 
