@@ -16,4 +16,6 @@ An advanced course offering intensive study of selected topics in computer scien
 
 **Pre-requisites:**
 \
-Permission of the department chair.
+Permission from instructor.
+\
+Permission of the department chair or undergraduate program director is required for the course to count as a CS upper level elective.
