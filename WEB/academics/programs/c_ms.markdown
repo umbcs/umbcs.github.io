@@ -7,6 +7,12 @@ permalink: "/cs_ms"
 
 UMass Boston’s computer science master’s program thoroughly prepares students for a professional career in software development. This established and innovative program stresses the integration of theoretical knowledge with practical applications. Our Computer Science MS graduates are in high demand with major tech sector employers and startups. We invite you to learn more by joining <a href="https://admissions.umb.edu/graduate-students/request">our email list</a>.
 
+**Admissions to the Program**
+
+Admission to the MS program is competitive. The GRE general test is required, as well as the completion of a BS degree in Computer Science or a related area. The grade point average in undergraduate studies plays a role in the admission decision as well as recommendation letters.
+
+A combined BS/MS program is available. After completing 90 credits of undergraduate work with a GPA of at least 3.5, our undergraduate students may file for admission to the BS/MS program, which avoids the more complicated direct admission to the MS program.
+
 **Degree Requirements**
 
 Candidates for the degree complete a minimum of 30 credits, at least 24 of which must be in courses numbered 600 or above.
