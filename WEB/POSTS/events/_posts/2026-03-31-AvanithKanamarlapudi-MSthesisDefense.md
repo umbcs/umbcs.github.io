@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MS Thesis Defense: Avanith Kanamarlapudi"
+Title: "MS Thesis Defense: Avanith Kanamarlapudi"
 ---
 
 OMAMA-DB: The Oregon–Massachusetts Mammography Database
