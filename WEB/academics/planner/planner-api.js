@@ -15,6 +15,9 @@ const fetchCourseSchedule = (courseId) => {
 
     if (courseCache[courseId]) {
         offeredContainer.innerHTML = courseCache[courseId];
+        if (typeof lucide !== 'undefined') {
+            lucide.createIcons();
+        }
         return;
     }
 

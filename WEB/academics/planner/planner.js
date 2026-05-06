@@ -173,4 +173,7 @@ fetch(BASE_URL + '/WEB/academics/planner/prerequisites.json?v=' + new Date().get
         cyEvents();
         uiEvents();
         applyCompletionStyles();
+        if (typeof lucide !== 'undefined') {
+            lucide.createIcons();
+        }
     });

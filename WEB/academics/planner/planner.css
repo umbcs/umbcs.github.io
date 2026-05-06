@@ -64,6 +64,7 @@ body {
 .close-button:hover {
     color: #ffffff;
 }
+
 .info-content {
     flex-grow: 1;
     padding: 0 24px;
@@ -113,7 +114,9 @@ body {
     font-size: 13px;
 }
 
-.prereq-text span { margin-right: 6px; }
+.prereq-text span {
+    margin-right: 6px;
+}
 
 .unlocks-container {
     display: flex;
@@ -188,6 +191,7 @@ body {
     border-radius: 6px;
     font-size: 13px;
 }
+
 .info-footer {
     padding: 24px;
     display: flex;
@@ -213,6 +217,7 @@ body {
     border: 1px solid #2A2A2A;
     color: #c9d1d9;
 }
+
 .button:hover {
     background-color: #2A2A2A;
 }
@@ -223,36 +228,118 @@ body {
     color: #2ea043;
 }
 
-.zoom-controls {
+.toolbar {
     position: absolute;
-    bottom: 40px;
-    left: 40px;
+    top: 32px;
+    left: 32px;
     z-index: 100;
+    background-color: #1a1a1a;
+    border: 1px solid #333;
+    border-radius: 8px;
+    padding: 8px 10px;
     display: flex;
-    flex-direction: column;
-    gap: 6px;
-    background-color: rgba(26, 26, 26, 0.85);
-    padding: 8px;
-    border-radius: 12px;
-    border: 1px solid #333333;
+    align-items: center;
+    gap: 8px;
 }
 
-.zoom-button {
-    width: 36px;
-    height: 36px;
+.toolbar-vertical {
+    position: absolute;
+    top: 96px;
+    left: 32px;
+    z-index: 100;
+    background-color: #1a1a1a;
+    border: 1px solid #333;
+    border-radius: 8px;
+    padding: 6px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+}
+
+.toolbar-divider-horizontal {
+    width: 18px;
+    height: 1px;
+    background-color: #333;
+    margin: 4px 0;
+}
+
+.toolbar-logo {
+    height: 40px;
+    width: auto;
+    margin-left: 4px;
+}
+
+.toolbar-logo path {
+    fill: #ffffff;
+}
+
+.toolbar-divider {
+    width: 1px;
+    height: 20px;
+    background-color: #333;
+    margin: 0 4px;
+}
+
+.toolbar-title-group {
+    display: flex;
+    flex-direction: column;
+    margin-right: 4px;
+    margin-left: 2px;
+}
+
+.toolbar-title-main {
+    font-size: 17px;
+    font-weight: 700;
+    color: #e5e7eb;
+}
+
+.toolbar-title-sub {
+    font-size: 13px;
+    color: #9ca3af;
+}
+
+.toolbar-select {
+    appearance: none;
+    -webkit-appearance: none;
     background-color: transparent;
     border: none;
-    color: #8b949e;
-    font-size: 18px;
+    color: #e5e7eb;
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
     cursor: pointer;
+    outline: none;
+    padding: 4px 20px 4px 8px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%239ca3af' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 4px center;
+}
+
+.toolbar-select option {
+    background-color: #1a1a1a;
+}
+
+.toolbar-icon-btn {
+    background: transparent;
+    border: none;
+    color: #9ca3af;
+    width: 32px;
+    height: 32px;
+    border-radius: 6px;
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: all 0.2s;
-    font-family: 'Inter', sans-serif;
+    cursor: pointer;
+    transition: all 0.2s ease;
 }
 
-.zoom-button:hover {
-    background-color: #2A2A2A;
+.toolbar-icon-btn svg {
+    width: 16px;
+    height: 16px;
+}
+
+.toolbar-icon-btn:hover {
+    background-color: #2a2a2a;
     color: #ffffff;
 }
