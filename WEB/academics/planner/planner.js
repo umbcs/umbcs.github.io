@@ -177,6 +177,17 @@ const uiEvents = () => {
             cy.style(getCyStyle());
         }
     });
+    document.getElementById('cs-electives-button').addEventListener('click', () => {
+       const electiveCourse = cy.$('#CS_Electives');
+       cy.animate({
+            fit: {
+                eles: electiveCourse.union(electiveCourse.children()),
+                padding: 100,
+            },
+            duration: 700,
+            easing: 'ease-in-out'
+       });
+    });
 }   
 
 const initCy = (data) => {

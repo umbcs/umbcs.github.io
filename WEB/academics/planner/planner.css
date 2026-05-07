@@ -414,3 +414,24 @@ body {
     background-color: var(--toolbar-icon-hover-bg);
     color: var(--toolbar-icon-hover-text);
 }
+
+.toolbar-button {
+   background-color: var(--toolbar-bg);
+   border: 1px solid var(--toolbar-border);
+   border-radius: 20px;
+   color: var(--toolbar-text-main);
+   padding: 6px 16px;
+   font-family: 'Inter', sans-serif;
+   font-size: 13px;
+   font-weight: 600;
+   letter-spacing: 0.5px;
+   cursor: pointer;
+}
+
+
+.toolbar-button:hover {
+   background-color: var(--toolbar-icon-hover-bg);
+   color: var(--toolbar-icon-hover-text);
+   border-color: var(--toolbar-text-main);
+   transform: translateY(-1px);
+}
