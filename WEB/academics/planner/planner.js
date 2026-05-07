@@ -8,6 +8,10 @@ const GRAPH_CONFIG = {
 let cy;
 let completedCourses = new Set(JSON.parse(localStorage.getItem('completedCourses') || '[]'));
 let selectedNodeId = null;
+let currentTheme = localStorage.getItem('theme');
+if (!currentTheme) {
+    currentTheme = (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) ? 'dark' : 'light';
+}
 
 const sidebar = document.getElementById('info');
 const closeButton = document.getElementById('close-info');
@@ -20,6 +24,18 @@ const prereq = document.getElementById('side-prereq');
 const unlocksSection = document.getElementById('unlocks-section');
 const unlocksList = document.getElementById('side-unlocks');
 const completeButton = document.getElementById('button-complete');
+const themeToggleBtn = document.getElementById('theme-toggle');
+
+const applyTheme = (theme) => {
+    document.documentElement.setAttribute('data-theme', theme);
+    localStorage.setItem('theme', theme);
+    if (themeToggleBtn) {
+        themeToggleBtn.innerHTML = `<i data-lucide="${theme === 'light' ? 'moon' : 'sun'}"></i>`;
+        if (typeof lucide !== 'undefined') lucide.createIcons();
+    }
+};
+
+applyTheme(currentTheme);
 
 const closeSidebar = () => {
     sidebar.classList.remove('active');
@@ -154,13 +170,21 @@ const uiEvents = () => {
     document.getElementById('center-button').addEventListener('click', () => {
         cy.fit(null, 50);
     });
+
+    document.getElementById('theme-toggle').addEventListener('click', () => {
+        currentTheme = currentTheme === 'light' ? 'dark' : 'light';
+        applyTheme(currentTheme);
+        if (cy && typeof getCyStyle !== 'undefined') {
+            cy.style(getCyStyle());
+        }
+    });
 }   
 
 const initCy = (data) => {
     cy = cytoscape({
         container: document.getElementById('cy'),
         elements: data,
-        style: cyStyle,
+        style: getCyStyle(),
         layout: { name: 'preset', fit: false },
         ...GRAPH_CONFIG
     });

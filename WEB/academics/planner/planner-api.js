@@ -25,7 +25,7 @@ const fetchCourseSchedule = (courseId) => {
     let number = match[2];
     let url = `https://courses.umb.edu/course_catalog/course_info/ugrd_${subject}_all_${number}`;
 
-    offeredContainer.innerHTML = '<div style="color:#8b949e; font-size: 13px;">Loading live schedule...</div>';
+    offeredContainer.innerHTML = '<div style="color: var(--sidebar-subheading); font-size: 13px;">Loading live schedule...</div>';
 
     fetch(url)
         .then(res => res.text())
@@ -46,7 +46,7 @@ const fetchCourseSchedule = (courseId) => {
                     if (rows.length > 0) {
                         foundAny = true;
                         let mt = foundAny && htmlOut !== '' ? '16px' : '0';
-                        htmlOut += `<div style="font-weight: 600; font-size: 16px; color: #ffffff; margin-bottom: 12px; margin-top: ${mt}; border-bottom: 1px solid #2a2a2a; padding-bottom: 8px;">${termText}</div>`;
+                        htmlOut += `<div style="font-weight: 600; font-size: 16px; color: var(--sidebar-title); margin-bottom: 12px; margin-top: ${mt}; border-bottom: 1px solid var(--border-color); padding-bottom: 8px;">${termText}</div>`;
 
                         rows.forEach(row => {
                             const sec = row.querySelector('td[data-label="Section"]')?.innerText.trim() || 'N/A';

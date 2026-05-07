@@ -1,12 +1,14 @@
-const cyStyle = [
+const getStyle = (prop) => getComputedStyle(document.documentElement).getPropertyValue(prop).trim();
+
+const getCyStyle = () => [
     {
         selector: 'node:childless',
         style: {
             'shape': 'round-rectangle',
-            'background-color': '#1e1e1e',
+            'background-color': getStyle('--node-bg'),
             'border-width': 1,
-            'border-color': '#3a3a3a',
-            'color': '#ffffff',
+            'border-color': getStyle('--node-border'),
+            'color': getStyle('--node-text'),
             'label': function(ele) {
                 var id = ele.data('id');
                 var name = ele.data('name');
@@ -32,11 +34,11 @@ const cyStyle = [
             'background-opacity': 0,
             'background-color': 'transparent',
             'border-width': 1,
-            'border-color': '#2a2a2a',
+            'border-color': getStyle('--node-parent-border'),
             'shape': 'rectangle',
             'label': 'data(name)',
             'font-family': 'Inter, sans-serif',
-            'color': '#999999',
+            'color': getStyle('--node-parent-text'),
             'text-valign': 'top',
             'text-halign': 'center',
             'font-size': '14px',
@@ -48,8 +50,8 @@ const cyStyle = [
         selector: 'edge',
         style: {
             'width': 1.5,
-            'line-color': '#404040',
-            'target-arrow-color': '#404040',
+            'line-color': getStyle('--edge-line'),
+            'target-arrow-color': getStyle('--edge-line'),
             'target-arrow-shape': 'triangle',
             'curve-style': 'bezier',
             'transition-property': 'line-color, target-arrow-color, opacity, width',
@@ -64,8 +66,8 @@ const cyStyle = [
             'label': 'Pre/Co Req',
             'font-family': 'Inter, sans-serif',
             'font-size': '10px',
-            'color': '#8b949e',
-            'text-background-color': '#0d1117',
+            'color': getStyle('--sidebar-subheading'),
+            'text-background-color': getStyle('--bg-color'),
             'text-background-opacity': 1,
             'text-background-padding': '2px'
         }
@@ -81,22 +83,22 @@ const cyStyle = [
     {
         selector: 'node.hover-node',
         style: {
-            'border-color': '#ffffff',
+            'border-color': getStyle('--node-border-hover'),
             'border-width': 1
         }
     },
     {
         selector: 'node.selected-path',
         style: {
-            'border-color': '#ffffff',
+            'border-color': getStyle('--node-border-hover'),
             'border-width': 1.5
         }
     },
     {
         selector: 'edge.selected-path, edge.completed-path',
         style: {
-            'line-color': '#ffffff',
-            'target-arrow-color': '#ffffff',
+            'line-color': getStyle('--edge-active'),
+            'target-arrow-color': getStyle('--edge-active'),
             'width': 2.5,
             'z-index': 99
         }
@@ -104,8 +106,8 @@ const cyStyle = [
     {
         selector: 'edge.selected-partial',
         style: {
-            'line-color': '#ffffff',
-            'target-arrow-color': '#ffffff',
+            'line-color': getStyle('--edge-active'),
+            'target-arrow-color': getStyle('--edge-active'),
             'width': 2.5,
             'line-style': 'dashed',
             'line-dash-pattern': [6, 4],
@@ -115,8 +117,8 @@ const cyStyle = [
     {
         selector: 'edge.completed-partial',
         style: {
-            'line-color': '#ffffff',
-            'target-arrow-color': '#ffffff',
+            'line-color': getStyle('--edge-active'),
+            'target-arrow-color': getStyle('--edge-active'),
             'width': 2.5,
             'line-style': 'dashed',
             'line-dash-pattern': [6, 4],
@@ -126,7 +128,7 @@ const cyStyle = [
     {
         selector: 'node.completed',
         style: {
-            'border-color': '#2ea043',
+            'border-color': getStyle('--mark-complete-color'),
             'border-width': 2
         }
     }
