@@ -86,7 +86,7 @@ body {
     position: absolute;
     top: 0;
     right: 0;
-    width: 400px;
+    width: 310px;
     height: 100vh;
     background-color: var(--sidebar-bg);
     border-left: 1px solid var(--border-color);
@@ -103,20 +103,20 @@ body {
 }
 
 .info-heading {
-    padding: 24px;
+    padding: 20px;
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
 }
 
 .info-heading h1 {
-    font-size: 28px;
+    font-size: 22px;
     color: var(--sidebar-title);
     margin: 0 0 4px 0;
 }
 
 .info-heading p {
-    font-size: 15px;
+    font-size: 14px;
     color: var(--sidebar-subtitle);
     margin: 0;
 }
@@ -135,7 +135,7 @@ body {
 
 .info-content {
     flex-grow: 1;
-    padding: 0 24px;
+    padding: 0 20px;
 }
 
 .section {
@@ -160,11 +160,11 @@ body {
     padding: 6px 12px;
     border-radius: 6px;
     font-family: 'JetBrains Mono', monospace;
-    font-size: 13px;
+    font-size: 12px;
 }
 
 .description-text {
-    font-size: 15px;
+    font-size: 13px;
     line-height: 1.6;
     color: var(--tag-text);
     margin: 0;
@@ -179,7 +179,7 @@ body {
     padding: 6px 12px;
     border-radius: 6px;
     font-family: 'JetBrains Mono', monospace;
-    font-size: 13px;
+    font-size: 12px;
 }
 
 .prereq-text span {
@@ -209,7 +209,7 @@ body {
 
 .class-section {
     font-weight: 600;
-    font-size: 15px;
+    font-size: 13px;
     color: var(--sidebar-title);
 }
 
@@ -227,7 +227,7 @@ body {
     align-items: flex-start;
     gap: 10px;
     color: var(--sidebar-text);
-    font-size: 14px;
+    font-size: 13px;
     margin-bottom: 10px;
 }
 
@@ -298,32 +298,32 @@ body {
 
 .toolbar {
     position: absolute;
-    top: 15px;
-    left: 20px;
+    top: 12px;
+    left: 12px;
     z-index: 100;
     background-color: var(--toolbar-bg);
     border: 1px solid var(--toolbar-border);
     border-radius: 12px;
-    padding: 10px 16px;
+    padding: 8px 12px;
     display: flex;
     align-items: center;
-    gap: 12px;
+    gap: 10px;
     box-shadow: var(--toolbar-shadow);
 }
 
 .toolbar-vertical {
     position: absolute;
-    top: 96px;
-    left: 20px;
+    top: 80px;
+    left: 12px;
     z-index: 100;
     background-color: var(--toolbar-bg);
     border: 1px solid var(--toolbar-border);
     border-radius: 12px;
-    padding: 8px;
+    padding: 6px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 8px;
+    gap: 6px;
     box-shadow: var(--toolbar-shadow);
 }
 
@@ -335,9 +335,9 @@ body {
 }
 
 .toolbar-logo {
-    height: 40px;
+    height: 32px;
     width: auto;
-    margin-left: 4px;
+    margin-left: 2px;
 }
 
 .toolbar-logo path {
@@ -359,13 +359,13 @@ body {
 }
 
 .toolbar-title-main {
-    font-size: 17px;
+    font-size: 15px;
     font-weight: 700;
     color: var(--toolbar-text-main);
 }
 
 .toolbar-title-sub {
-    font-size: 13px;
+    font-size: 11px;
     color: var(--toolbar-text-sub);
 }
 
@@ -395,8 +395,8 @@ body {
     background: transparent;
     border: none;
     color: var(--toolbar-icon);
-    width: 40px;
-    height: 32px;
+    width: 34px;
+    height: 34px;
     border-radius: 6px;
     display: flex;
     align-items: center;
@@ -406,8 +406,8 @@ body {
 }
 
 .toolbar-icon-btn svg {
-    width: 18px;
-    height: 18px;
+    width: 16px;
+    height: 16px;
 }
 
 .toolbar-icon-btn:hover {

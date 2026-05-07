@@ -1,9 +1,8 @@
 const GRAPH_CONFIG = {
-    zoom: 0.669,
-    pan: { x: 800, y: 300 },
+    zoom: 0.55,
     minZoom: 0.4,
     maxZoom: 5
-}   
+}
 
 let cy;
 let completedCourses = new Set(JSON.parse(localStorage.getItem('completedCourses') || '[]'));
@@ -197,6 +196,8 @@ fetch(BASE_URL + '/WEB/academics/planner/prerequisites.json?v=' + new Date().get
         cyEvents();
         uiEvents();
         applyCompletionStyles();
+        cy.center(cy.$('#MATH130'));
+        cy.panBy({ x: 0, y: -280 });
         if (typeof lucide !== 'undefined') {
             lucide.createIcons();
         }
