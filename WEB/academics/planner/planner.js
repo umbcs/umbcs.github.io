@@ -3,6 +3,34 @@ const GRAPH_CONFIG = {
     minZoom: 0.4,
     maxZoom: 5
 }
+const CREDIT_CATEGORIES = [
+    {
+        ids: new Set(['CS110','CS210','CS220','CS240','CS285L','CS310',
+                      'CS341','CS410','CS420','CS444','CS446','CS449','CS451']),
+        max: 41,
+        parentId: 'Computer_Science',
+        baseName: 'Computer Science'
+    },
+    {
+        ids: new Set(['MATH140','MATH141','Math260','MATH345']),
+        max: 14,
+        parentId: 'Math',
+        baseName: 'Mathematics'
+    },
+    {
+        ids: new Set(['PHYSIC113','PHYSIC114','PHYSIC181','PHYSIC182']),
+        max: 12,
+        parentId: 'Physics',
+        baseName: 'Physics'
+    },
+    {
+        ids: new Set(['CS413','CS415','CS430','CS435','CS436','CS437',
+                      'CS438','CS442','CS443','CS450','CS460','CS461','CS470','CS480']),
+        max: 6,
+        parentId: 'CS_Electives',
+        baseName: 'CS Electives'
+    }
+];
 
 let cy;
 let completedCourses = new Set(JSON.parse(localStorage.getItem('completedCourses') || '[]'));
@@ -58,6 +86,24 @@ const applyCompletionStyles = () => {
         if (completedCourses.has(node.id())) {
             node.addClass('completed');
             updateLineStyle(node, 'completed-path', 'completed-partial');
+        }
+    });
+};
+
+const updateCreditcount = () => {
+    CREDIT_CATEGORIES.forEach(cat => {
+        let earned = 0;
+        cat.ids.forEach(id => {
+            if (completedCourses.has(id)) {
+                const node = cy.$('#' + id);
+                if (node.length > 0) {
+                    earned += (node.data('credits') || 0);
+                }
+            }
+        });
+        const parentNode = cy.$('#' + cat.parentId);
+        if (parentNode.length > 0) {
+            parentNode.data('name', `${cat.baseName} - ${earned}/${cat.max} credits taken`);
         }
     });
 };
@@ -150,6 +196,7 @@ const uiEvents = () => {
         }
         localStorage.setItem('completedCourses', JSON.stringify([...completedCourses]));
         applyCompletionStyles();
+        updateCreditcount();
     });
 
     document.getElementById('zoom-in-button').addEventListener('click', () => {
@@ -177,6 +224,8 @@ const uiEvents = () => {
             cy.style(getCyStyle());
         }
     });
+
+
     document.getElementById('cs-electives-button').addEventListener('click', () => {
        const electiveCourse = cy.$('#CS_Electives');
        cy.animate({
@@ -207,6 +256,7 @@ fetch(BASE_URL + '/WEB/academics/planner/prerequisites.json?v=' + new Date().get
         cyEvents();
         uiEvents();
         applyCompletionStyles();
+        updateCreditcount();
         cy.center(cy.$('#MATH130'));
         cy.panBy({ x: 0, y: -280 });
         if (typeof lucide !== 'undefined') {

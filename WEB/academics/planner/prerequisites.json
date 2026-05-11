@@ -54,6 +54,7 @@
       "data": {
         "id": "MATH140",
         "name": "Calculus I",
+        "credits": 4,
         "group": "MATH",
         "prereq_text": "Pre Requisites: Pre-requisite: Appropriate recent placement score or completion of MATH 130 with a grade of B or better.",
         "description": "The first in the sequence of calculus courses for science and math majors. Topics include limits, continuity, derivatives and their applications, and definite and indefinite integrals with applications to geometric and physical problems.",
@@ -68,6 +69,7 @@
       "data": {
         "id": "CS110",
         "name": "Introduction to Computing",
+        "credits": 4,
         "group": "CS",
         "prereq_text": "Pre Requisites: Pre-requisite: MATH 130 with a grade of B or better in the previous semester or placement into Math 140 from the ALEKS test  Note: Students with grades lower than B in the pre-requisite course will be dropped from the class.",
         "description": "An introduction to computer programming: the concepts involved in use of a higher level language and the program development process. The goal of this course is proficiency in the design and implementation of programs of significant size and complexity. This course is quite demanding because of the length of the programming exercises assigned. This is the first course in the computer science sequence.",
@@ -82,6 +84,7 @@
       "data": {
         "id": "CS210",
         "name": "Intermediate Computing with Data Structures",
+        "credits": 4,
         "group": "CS",
         "prereq_text": "Pre Requisites: Pre-requisite: CS 110 or CS/IT 115L  with a grade of C- or better and MATH 130 or permission of instructor",
         "description": "The design and implementation of computer programs in a high-level language, with emphasis on proper design principles and advanced programming concepts, including dynamic data structures and recursion. The assignments are designed to introduce the student to a variety of topics in computing: data structures and ADTs, Lists, Stacks, Queues, Ordered Lists, Binary Trees, and searching and sorting techniques.",
@@ -96,6 +99,7 @@
       "data": {
         "id": "CS220",
         "name": "Applied Discrete Mathematics",
+        "credits": 3,
         "group": "CS",
         "prereq_text": "Pre Requisites: Pre-requisite: CS 110 and MATH 140 or permission of instructor",
         "description": "An introduction to the mathematical structures and concepts used in computing: sets, mathematical induction, ordered sets, Boolean algebras, predicate calculus, trees, relations and lattice theory. Formal and informal theories and corresponding mathematical proofs are taught.",
@@ -110,6 +114,7 @@
       "data": {
         "id": "CS240",
         "name": "Programming in C",
+        "credits": 3,
         "group": "CS",
         "prereq_text": "Pre Requisites: Pre-requisite: CS 110 or CS/IT 115L or CS 119 with a grade of C- or better",
         "description": "C programming for programmers with prior knowledge of some high-level language (e.g., one semester of programming in Java). The course treats C as a machine-level language and as a general-purpose language; it covers number representation, masking, bitwise operations, and memory allocation, as well as more general topics such as dynamic data structures, file I/O, separate compilation, program development tools, and debugging.",
@@ -124,6 +129,7 @@
       "data": {
         "id": "CS341",
         "name": "Computer Architecture and Organization",
+        "credits": 3,
         "group": "CS",
         "prereq_text": "Pre Requisites: Pre-req = CS 240",
         "description": "Computer hardware concepts and hardware-level programming for C programmers. Topics include digital logic circuits, computer organization of a microprocessor system (i.e., how CPU, memory, and i/o interface chips are interconnected), serial and parallel port interfacing, hardware programming in C and C/assembler, interrupt programming, device drivers. The necessary assembly language is also covered. The course includes a hands-on lab meeting one hour per week.",
@@ -138,6 +144,7 @@
       "data": {
         "id": "CS310",
         "name": "Advanced Data Structures and Algorithms",
+        "credits": 3,
         "group": "CS",
         "prereq_text": "Pre Requisites: Pre-requisite: CS 210 (with a grade of C- or better) and CS 220 (with a grade of C- or better) and CS 240",
         "description": "A systematic study of the methods of structuring and manipulating data in computing. Abstract data types. The design and analysis of algorithms. Advanced techniques for program development and organization.",
@@ -152,6 +159,7 @@
       "data": {
         "id": "CS420",
         "name": "An Introduction to the Theory of Computation",
+        "credits": 3,
         "group": "CS",
         "prereq_text": "Pre Requisites: Pre-requisite: CS 220 (grade of C- or better)",
         "description": "This course introduces such theoretical aspects of computing as models of computation, inherent limits on computation, and feasible computation. Topics include definition of computable functions (recursive functions, functions computable by Turing machines, functions computable in a programming language), unsolvability of the halting problem and related problems, the classes P and NP, finite automata, and context-free grammars.",
@@ -173,6 +181,7 @@
       "data": {
         "id": "CS444",
         "name": "An Introduction to Operating Systems",
+        "credits": 3,
         "group": "CS",
         "prereq_text": "Pre Requisites: Pre-req = CS 341 and 310",
         "description": "Description of current operating systems, with focus on one or two in particular. Topics include defining the operating system as distinct from the hardware on one side and software systems on the other; process concepts; memory management; CPU scheduling; device management; file systems; network support.",
@@ -187,6 +196,7 @@
       "data": {
         "id": "CS446",
         "name": "Introduction to Internetworking",
+        "credits": 3,
         "group": "CS",
         "prereq_text": "Pre Requisites: Pre-req = CS 341 and 310Co-req = CS 444",
         "description": "The objective of this course is to provide a practical understanding of computer networks, with emphasis on the Internet. The course starts with an overview of the Internet, its protocol layers, edge and core networks, access networks and physical media. The course then focuses on fundamental design and implementation concepts of the application, transport, and network layers of the Internet.",
@@ -201,6 +211,7 @@
       "data": {
         "id": "CS410",
         "name": "An Introduction to Software Engineering",
+        "credits": 3,
         "group": "CS",
         "prereq_text": "Pre Requisites: Pre-requisite: CS 310 and any 400-level CS course",
         "description": "This course covers all aspects of the software development process from initial specification to final validation of completed software design. Implementation methodologies are discussed in the context of a major team project, to be chosen according to student and instructor interest. Oral presentations by students are an important part of the course.",
@@ -215,6 +226,7 @@
       "data": {
         "id": "CS449",
         "name": "Introduction to Computer Security",
+        "credits": 3,
         "group": "CS",
         "prereq_text": "Pre Requisites: Pre req: CS 310 and CS 341",
         "description": "The course will provide an introduction to the fundamentals of computer security, and will cover both general theoretical aspects as well as applied methods of computer security. The course will address the general concepts of confidentiality, integrity and availability of digital information, and will focus on aspects such as: risks and vulnerabilities; models and policies for access control; program security - buffer overflow attacks, malware, viruses; browser security; authentication and authorization; encryption; and an overview of applied data, operating system and network security (with emphasis on Internet security). The course will also address the aspect of privacy, which is tightly related to security and is becoming increasingly important in today's digital society.",
@@ -229,6 +241,7 @@
       "data": {
         "id": "CS451",
         "name": "Compilers",
+        "credits": 3,
         "group": "CS",
         "prereq_text": "Pre Requisites: Pre-requisite: CS 310 and CS 420 or 622",
         "description": "This course is an introduction to compiler organization and implementation, including formal specifications and algorithms for lexical and syntactic analysis, internal representation of the source program, semantic analysis, run-time environment issues, and code generation. Participants write a compiler for a reasonably large subset of a contemporary language, targeted to a virtual machine.",
@@ -243,6 +256,7 @@
       "data": {
         "id": "Math260",
         "name": "Linear Algebra",
+        "credits": 3,
         "parent": "Math",
         "prereq_text": "Pre Requisites: Pre-requisite:  MATH 140 or permission of instructor",
         "description": "This is an introductory class in Linear Algebra. Topics include basic algebraic operations of Matrices, Linear systems of equations, Gauss-Jordan elimination, subspaces, linear independence, bases, dimension, linear maps, determinants, orthogonality, orthogonalization process, eigenvalues and eigenvectors, as well as a brief discussion on abstract vector spaces."
@@ -256,6 +270,7 @@
       "data": {
         "id": "MATH141",
         "name": "Calculus II",
+        "credits": 4,
         "group": "MATH",
         "parent": "Math",
         "prereq_text": "Pre Requisites: Pre-requisite: Completion of MATH 140 or MATH 145 with a grade of C- or better.",
@@ -270,6 +285,7 @@
       "data": {
         "id": "MATH345",
         "name": "Probabilities & Statistics",
+        "credits": 3,
         "group": "MATH",
         "parent": "Math",
         "prereq_text": "Pre Requisites: Pre-req = MATH 141",
@@ -284,6 +300,7 @@
       "data": {
         "id": "PHYSIC113",
         "name": "Physics I",
+        "credits": 4,
         "group": "PHYSICS",
         "parent": "PHYSICS_I_Coreq",
         "prereq_text": "Pre Requisites: Co-req = MATH 140 and, for PHYSICS majors PHYSIC 181",
@@ -298,6 +315,7 @@
       "data": {
         "id": "PHYSIC181",
         "name": "Physics I LAB",
+        "credits": 2,
         "group": "PHYSICS",
         "parent": "PHYSICS_I_Coreq",
         "prereq_text": "Pre Requisites: Co-req = PHYSIC 107 or 113",
@@ -312,6 +330,7 @@
       "data": {
         "id": "PHYSIC114",
         "name": "Physics II",
+        "credits": 4,
         "group": "PHYSICS",
         "parent": "PHYSICS_II_Coreq",
         "prereq_text": "Pre Requisites: Pre-requisite:  PHYSIC 113 with grade of C- or better and pre-requisite/co-requisite: MATH 141.Note: Students with grades lower than C- in the pre-requisite course will be dropped from the class.",
@@ -320,12 +339,13 @@
     },
     {
       "position": {
-        "x": 818,
-        "y": 382
+        "x": 810,
+        "y": 373
       },
       "data": {
         "id": "PHYSIC182",
         "name": "Physics II LAB",
+        "credits": 2,
         "group": "PHYSICS",
         "parent": "PHYSICS_II_Coreq",
         "prereq_text": "Pre Requisites: Pre-requisite: PHYSICS 181 with grade of C- or better and pre-requisite/co-requisite: PHYSICS 108 or 114.Note: Students with grades lower than C- in the pre-requisite course will be dropped from the class.",
@@ -338,8 +358,9 @@
         "y": 1000
       },
       "data": {
-        "id": "CS285",
+        "id": "CS285L",
         "name": "Social Issues & Ethics in Computing",
+        "credits": 3,
         "group": "CS",
         "parent": "Computer_Science",
         "prereq_text": "Pre Requisites:",
@@ -370,6 +391,7 @@
       "data": {
         "id": "CS413",
         "name": "Applied Cryptography",
+        "credits": 3,
         "group": "CS",
         "prereq_text": "Pre Requisites: pre-requisite: CS 310",
         "description": "This course aims to introduce fundamental and practical knowledge of cryptography and its applications. This course covers diverse topics on cryptography and network security techniques including conventional encryption, asymmetric and symmetric cryptology, digital signatures, certificates, key exchange, key management, authentication, network access control, cloud computing security, electronic mail security, advanced crypto primitives, bitcoin, blockchain, and differential privacy. This course focuses on both theoretical aspects and practical applications of cryptanalysis and network security techniques.",
@@ -384,6 +406,7 @@
       "data": {
         "id": "CS415",
         "name": "User Interface Design",
+        "credits": 3,
         "group": "CS",
         "prereq_text": "Pre Requisites: Pre-requisite = CS 310 or permission of instructor",
         "description": "An introduction to user interface design, which encompasses design of the user interface and the functional design of the whole system. Students read and critique papers and articles, evaluate and critique existing user interfaces, and design interfaces of their own. Working in small groups, students use either interface prototyping tools or conventional rapid prototyping systems to construct an experimental interface.",
@@ -398,6 +421,7 @@
       "data": {
         "id": "CS430",
         "name": "Database Management",
+        "credits": 3,
         "group": "CS",
         "prereq_text": "Pre Requisites: Pre-req = CS 240 and 310",
         "description": "Introduction to database systems, including database programming. The course covers relational algebra, SQL, object-relational systems, embedded programming, and basic transaction concepts. It covers database design, both entity-relationship modeling and normalization.",
@@ -412,6 +436,7 @@
       "data": {
         "id": "CS435",
         "name": "Recommender Systems",
+        "credits": 3,
         "group": "CS",
         "prereq_text": "Pre Requisites: Pre-requisite: CS 310",
         "description": "This course covers the basic concepts of recommender systems, including personalization algorithms, evaluation tools, and user experiences. We will discuss how recommender systems are deployed in e-commerce sites, social networks, and many other online systems.",
@@ -426,6 +451,7 @@
       "data": {
         "id": "CS436",
         "name": "Database Application Development",
+        "credits": 3,
         "group": "CS",
         "prereq_text": "Pre Requisites: Pre-requisite = CS 430 and CS 310",
         "description": "A study of database applications, that is, software systems that solve a particular real-world problem and hold their data in a relational database. The systems under study will also have a realistic user interface. Students will work in small groups on a real-world project specified and implemented during the term. Topics include system specification from user needs, analysis of dataflow and workflow, object design, database design, and client-server techniques.",
@@ -440,6 +466,7 @@
       "data": {
         "id": "CS437",
         "name": "Database-Backed Web Sites & Web Services",
+        "credits": 3,
         "group": "CS",
         "prereq_text": "Pre Requisites: Pre-req = CS 310 and 430 or permission of instructor.",
         "description": "Today, much programming is web-based. Web based programs serve up information from a Web site in a form that can be either read by a browser or processed by another program. This course introduces the student to the design and implementation of such web-based programs.",
@@ -454,6 +481,7 @@
       "data": {
         "id": "CS438",
         "name": "Applied Machine Learning",
+        "credits": 3,
         "group": "CS",
         "prereq_text": "Pre Requisites: Pre-req: CS 310",
         "description": "This course presents the practical side of machine learning for applications, such as pattern recognition from images or building predictive classifiers. Topics will include linear models for regression, decision trees, rule based classification, support vector machines, Bayesian networks, and clustering. The emphasis of the course will be on the hands-on application of machine learning to a variety of problems.",
@@ -468,6 +496,7 @@
       "data": {
         "id": "CS442",
         "name": "Cybersecurity in the Internet of Things",
+        "credits": 3,
         "group": "CS",
         "prereq_text": "Pre Requisites: Pre-requisite: CS 310",
         "description": "This course aims to introduce the concept of IoT and its impact on our daily lives, to understand the architecture and components of IoT, and to address the challenges and solutions of deploying IoT in reality. Students will learn how to make design trade-offs between communication and computations costs and between hardware and software. In addition, cybersecurity is a critical design issue of the IoT system. From this course, students will become aware of the cybersecurity issues raised by IoT and gain the knowledge of related security techniques. Students will also gain hands-on experiences on building IoT devices and implementing security techniques through team projects.",
@@ -482,6 +511,7 @@
       "data": {
         "id": "CS443",
         "name": "Mobile Applications",
+        "credits": 3,
         "group": "CS",
         "prereq_text": "Pre Requisites: Pre-Reqisite: CS 310",
         "description": "Mobile devices are becoming ubiquitous along with the high demand for mobile applications serving corporations and millions of end-users. In this course, students will learn programming skills for developing mobile applications on the Android platform, which is the fastest growing mobile operating system. Android is open source and includes many libraries that can help developers easily implement rich and complex applications. Students in this course will learn how to create, test,and deploy Android applications.",
@@ -496,6 +526,7 @@
       "data": {
         "id": "CS450",
         "name": "The Structure of Higher Level Languages",
+        "credits": 3,
         "group": "CS",
         "prereq_text": "Pre Requisites: Pre-requisite:  CS 310 and 220",
         "description": "The syntax and semantics of higher level languages. Mechanisms for parsing, parameter passing, scoping, dynamic storage allocation, and message passing are modeled by programs written in a suitably high-level language.",
@@ -510,6 +541,7 @@
       "data": {
         "id": "CS460",
         "name": "Graphics",
+        "credits": 3,
         "group": "CS",
         "prereq_text": "Pre Requisites: Pre-req = CS 310 and Math 260",
         "description": "After completing this course, you will be able to develop rich and interactive web-based 3D visualizations for computers, smartphones, and tablets. By using WebGL, you will learn to create immersive and high-quality graphics, including 3D geometric transformations, camera transformations, the image-rendering process, as well as materials and texture mapping. This course also includes advanced topics such as color representations, light simulation, dealing with geometries, and creating animations. And since everything runs in the browser, you can show your work to your friends with a link to a website.",
@@ -524,6 +556,7 @@
       "data": {
         "id": "CS461",
         "name": "Computer Games Programming",
+        "credits": 3,
         "group": "CS",
         "prereq_text": "Pre Requisites: Pre-req: CS 310",
         "description": "This course covers the game development pipeline, from modeling of virtual environmental and gaming assets, to interactive rendering and real-time physics-based simulation in virtual environments. The syllabus i centered on the essential components of a game engine. Special technical issues in game development will also be discussed, such as real-time interactivity, scalability of modeling techniques and the use of the standard techniques adopted in common game engines. Students also need to team up to develop their own games using a game engine. The goal of this course is to prepare students for a career as a game developer.",
@@ -538,6 +571,7 @@
       "data": {
         "id": "CS470",
         "name": "An Introduction to Artificial Intelligence",
+        "credits": 3,
         "group": "CS",
         "prereq_text": "Pre Requisites: Pre-requisite: CS 310 and CS 220",
         "description": "An introduction to the main techniques of Artificial Intelligence: state-space search methods, semantic networks, theorem-proving and production rule systems. Important applications of these techniques are presented. Students are expected to write programs exemplifying some of techniques taught, using the LISP language.",
@@ -552,6 +586,7 @@
       "data": {
         "id": "CS480",
         "name": "Special Topics",
+        "credits": 3,
         "group": "CS",
         "prereq_text": "Pre Requisites:",
         "description": "An advanced course offering intensive study of selected topics in computer science. Course content varies and will be announced prior to registration.",
@@ -753,7 +788,8 @@
       "data":{
         "source": "MATH141",
         "target": "PHYSIC114"
-      }
+      },
+      "classes": "coreq"
     },
     {
       "data": {
@@ -771,7 +807,8 @@
       "data": {
         "source": "MATH140",
         "target": "PHYSIC113"
-      }
+      },
+      "classes": "coreq"
     },
     {
       "data": {
