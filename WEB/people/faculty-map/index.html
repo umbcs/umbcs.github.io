@@ -5,134 +5,669 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>McCormack Hall - CS Faculty Finder</title>
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; display: flex; flex-direction: column; height: 100vh; background-color: #f4f4f9; }
-        header { background: #005a8b; color: white; padding: 1rem; text-align: center; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
-        
-        .main-content { display: flex; flex: 1; overflow: hidden; }
+        * { box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            background-color: #f4f4f9;
+            color: #222;
+        }
+        header {
+            background: linear-gradient(135deg, #005a8b 0%, #0077b6 100%);
+            color: white;
+            padding: 0.9rem 1.25rem;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        header h1 { margin: 0; font-size: 1.2rem; font-weight: 600; }
+        header .subtitle { font-size: 0.85rem; opacity: 0.85; }
 
-        /* Map Section */
-        .map-container { flex: 2; position: relative; background: #fff; display: flex; align-items: flex-start; justify-content: center; overflow: auto; padding: 20px; }
-        .map-wrapper { position: relative; display: inline-block; border: 2px solid #333; }
-        #baseMap { max-width: 1000px; height: auto; display: block; }
+        .main-content { display: flex; flex: 1; overflow: hidden; min-height: 0; }
 
-        /* The Animated Pin */
-        #mapPin { 
-            position: absolute; 
-            font-size: 30px; 
-            display: none; 
-            transform: translate(-50%, -100%); 
-            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-            z-index: 100;
-            filter: drop-shadow(0 2px 2px rgba(0,0,0,0.3));
+        /* ---------- Map ---------- */
+        .map-container {
+            flex: 2;
+            position: relative;
+            background: #eef2f6;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .map-viewport {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            cursor: grab;
+        }
+        .map-viewport.dragging { cursor: grabbing; }
+
+        .map-wrapper {
+            position: absolute;
+            top: 0;
+            left: 0;
+            transform-origin: 0 0;
+            transition: transform 0.05s linear;
+        }
+        #baseMap {
+            display: block;
+            user-select: none;
+            -webkit-user-drag: none;
+            pointer-events: none;
+            background: white;
+            box-shadow: 0 4px 14px rgba(0,0,0,0.12);
         }
 
-        /* Sidebar Section */
-        .sidebar { flex: 1; background: white; border-left: 1px solid #ddd; display: flex; flex-direction: column; padding: 15px; }
-        #profSearch { width: 100%; padding: 12px; margin-bottom: 15px; border: 1px solid #ccc; border-radius: 5px; font-size: 16px; }
-        
-        .table-wrapper { overflow-y: auto; flex: 1; border: 1px solid #eee; }
+        /* ---------- Map Markers ---------- */
+        .room-marker {
+            position: absolute;
+            width: 26px;
+            height: 26px;
+            margin-left: -13px;
+            margin-top: -13px;
+            border-radius: 50%;
+            background: #ff5252;
+            color: white;
+            font-size: 11px;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            border: 2px solid white;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.35);
+            transition: transform 0.18s ease, background 0.18s ease, opacity 0.2s ease;
+            z-index: 10;
+        }
+        .room-marker:hover {
+            transform: scale(1.25);
+            background: #ff1744;
+            z-index: 30;
+        }
+        .room-marker.selected {
+            background: #ffb300;
+            color: #222;
+            transform: scale(1.45);
+            z-index: 40;
+            animation: pulse 1.4s infinite;
+        }
+        .room-marker.dimmed { opacity: 0.18; }
+
+        @keyframes pulse {
+            0%   { box-shadow: 0 0 0 0 rgba(255,179,0,0.85), 0 2px 6px rgba(0,0,0,0.35); }
+            70%  { box-shadow: 0 0 0 18px rgba(255,179,0,0),    0 2px 6px rgba(0,0,0,0.35); }
+            100% { box-shadow: 0 0 0 0 rgba(255,179,0,0),       0 2px 6px rgba(0,0,0,0.35); }
+        }
+
+        /* Tooltip on marker hover */
+        .marker-tooltip {
+            position: absolute;
+            background: rgba(20,20,20,0.92);
+            color: #fff;
+            padding: 8px 10px;
+            border-radius: 6px;
+            font-size: 12px;
+            line-height: 1.35;
+            pointer-events: none;
+            transform: translate(-50%, calc(-100% - 14px));
+            white-space: nowrap;
+            z-index: 200;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+            opacity: 0;
+            transition: opacity 0.15s ease;
+        }
+        .marker-tooltip.visible { opacity: 1; }
+        .marker-tooltip .tt-room { font-weight: 700; color: #ffd54f; margin-bottom: 2px; }
+        .marker-tooltip .tt-name { color: #fff; }
+
+        /* ---------- Zoom Controls ---------- */
+        .map-controls {
+            position: absolute;
+            top: 12px;
+            right: 12px;
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            z-index: 500;
+        }
+        .map-controls button {
+            width: 36px;
+            height: 36px;
+            border: none;
+            background: white;
+            border-radius: 6px;
+            font-size: 18px;
+            font-weight: bold;
+            cursor: pointer;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+            transition: background 0.15s;
+        }
+        .map-controls button:hover { background: #e3f2fd; }
+
+        .map-legend {
+            position: absolute;
+            bottom: 12px;
+            left: 12px;
+            background: rgba(255,255,255,0.94);
+            padding: 8px 12px;
+            border-radius: 6px;
+            font-size: 12px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+            z-index: 500;
+            line-height: 1.6;
+        }
+        .legend-dot {
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            margin-right: 6px;
+            vertical-align: middle;
+            border: 2px solid white;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.3);
+        }
+
+        /* ---------- Sidebar ---------- */
+        .sidebar {
+            flex: 1;
+            min-width: 320px;
+            max-width: 440px;
+            background: white;
+            border-left: 1px solid #ddd;
+            display: flex;
+            flex-direction: column;
+            padding: 14px;
+            min-height: 0;
+        }
+        #profSearch {
+            width: 100%;
+            padding: 11px 14px;
+            margin-bottom: 12px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            font-size: 15px;
+            outline: none;
+            transition: border 0.2s, box-shadow 0.2s;
+        }
+        #profSearch:focus {
+            border-color: #0077b6;
+            box-shadow: 0 0 0 3px rgba(0,119,182,0.15);
+        }
+
+        .selection-info {
+            font-size: 13px;
+            background: #fff8e1;
+            border: 1px solid #ffe082;
+            color: #6d4c00;
+            padding: 8px 10px;
+            border-radius: 6px;
+            margin-bottom: 10px;
+            display: none;
+        }
+        .selection-info.visible { display: block; }
+        .selection-info b { color: #b76e00; }
+        .selection-info button {
+            float: right;
+            background: transparent;
+            border: none;
+            color: #6d4c00;
+            font-size: 16px;
+            cursor: pointer;
+            line-height: 1;
+            padding: 0;
+        }
+
+        .table-wrapper {
+            overflow-y: auto;
+            flex: 1;
+            border: 1px solid #eee;
+            border-radius: 6px;
+            min-height: 0;
+        }
         table { width: 100%; border-collapse: collapse; }
-        th { background: #f8f9fa; position: sticky; top: 0; padding: 10px; text-align: left; border-bottom: 2px solid #ddd; }
-        td { padding: 10px; border-bottom: 1px solid #eee; cursor: pointer; transition: background 0.2s; }
-        tr:hover td { background: #e7f3ff; color: #005a8b; font-weight: bold; }
-        
-        .instructions { font-size: 12px; color: #666; margin-top: 10px; font-style: italic; }
+        th {
+            background: #f8f9fa;
+            position: sticky;
+            top: 0;
+            padding: 10px;
+            text-align: left;
+            border-bottom: 2px solid #ddd;
+            font-size: 13px;
+            color: #555;
+            z-index: 1;
+        }
+        td {
+            padding: 10px;
+            border-bottom: 1px solid #eee;
+            cursor: pointer;
+            transition: background 0.15s, color 0.15s;
+            font-size: 14px;
+        }
+        td.room-cell {
+            font-family: 'Courier New', monospace;
+            color: #0077b6;
+            font-weight: 600;
+            white-space: nowrap;
+        }
+        tr:hover td { background: #e7f3ff; }
+        tr.selected td {
+            background: #fff3cd;
+            color: #6d4c00;
+            font-weight: 600;
+        }
+        tr.hidden { display: none; }
+
+        td.page-cell { white-space: nowrap; width: 1%; }
+        .page-link {
+            color: #0077b6;
+            text-decoration: none;
+            font-size: 13px;
+            font-weight: 600;
+            padding: 4px 8px;
+            border-radius: 4px;
+            transition: background 0.15s, color 0.15s;
+        }
+        .page-link:hover { background: #e3f2fd; color: #005a8b; }
+        .page-link.none { color: #bbb; font-weight: 400; cursor: default; }
+
+        .info-link {
+            color: #b76e00;
+            text-decoration: underline;
+            text-underline-offset: 2px;
+        }
+        .info-link:hover { color: #6d4c00; }
+
+        .instructions {
+            font-size: 12px;
+            color: #666;
+            margin-top: 10px;
+            font-style: italic;
+        }
+
+        @media (max-width: 800px) {
+            .main-content { flex-direction: column; }
+            .sidebar { max-width: none; border-left: none; border-top: 1px solid #ddd; }
+        }
     </style>
 </head>
 <body>
 
 <header>
-    <h1>CS Department Roadmap: McCormack Level 3</h1>
+    <div>
+        <h1>CS Department Roadmap: McCormack Level 3</h1>
+        <div class="subtitle">Click a marker on the map or a professor in the list to link them.</div>
+    </div>
 </header>
 
 <div class="main-content">
     <div class="map-container">
-        <div class="map-wrapper">
-            <img src="image_c0ca26.jpg" id="baseMap" alt="McCormack Hall Map">
-            <div id="mapPin">📍</div>
+        <div class="map-viewport" id="mapViewport">
+            <div class="map-wrapper" id="mapWrapper">
+                <img src="image_c0ca26.jpg" id="baseMap" alt="McCormack Hall Map">
+                <!-- Room markers injected by JS -->
+            </div>
+            <div class="marker-tooltip" id="markerTooltip"></div>
+        </div>
+
+        <div class="map-controls">
+            <button id="zoomIn"  title="Zoom in">+</button>
+            <button id="zoomOut" title="Zoom out">−</button>
+            <button id="zoomReset" title="Reset view" style="font-size:14px;">⟲</button>
+        </div>
+
+        <div class="map-legend">
+            <div><span class="legend-dot" style="background:#ff5252;"></span>Faculty office</div>
+            <div><span class="legend-dot" style="background:#ffb300;"></span>Selected room</div>
         </div>
     </div>
 
     <div class="sidebar">
-        <input type="text" id="profSearch" onkeyup="filterTable()" placeholder="Type professor name...">
+        <input type="text" id="profSearch" oninput="filterTable()" placeholder="Search professor or room...">
+        <div class="selection-info" id="selectionInfo"></div>
         <div class="table-wrapper">
             <table id="profTable">
                 <thead>
                     <tr>
                         <th>Professor</th>
                         <th>Office</th>
+                        <th>Page</th>
                     </tr>
                 </thead>
-                <tbody id="tableBody">
-                    </tbody>
+                <tbody id="tableBody"></tbody>
             </table>
         </div>
-        <p class="instructions">Tip: Click a name to move the pin on the map.</p>
+        <p class="instructions">Tip: Scroll to zoom, drag to pan. Click a marker to see who's in that room.</p>
     </div>
 </div>
 
 <script>
     const facultyData = [
-        { name: "Ozgun Babur", room: "M-3-201-02", x: 80.5, y: 72.5 },
-        { name: "Temitayo Banjo", room: "M-3-201-32", x: 81.5, y: 64.5 },
-        { name: "Stephen Chang", room: "M-3-201-03", x: 80.5, y: 74.5 },
-        { name: "Tiago Cogumbreiro", room: "M-3-201-16", x: 91.5, y: 77.0 },
-        { name: "Jane H. DeBlois", room: "M-3-201-32", x: 81.5, y: 64.5 },
-        { name: "Wei Ding", room: "M-3-201-07", x: 80.5, y: 82.5 },
-        { name: "Funda Durupinar", room: "M-3-201-08", x: 80.5, y: 84.5 },
-        { name: "Kenneth Fletcher", room: "M-3-201-21", x: 91.5, y: 68.5 },
-        { name: "Gabriel Ghinita", room: "M-3-201-19", x: 91.5, y: 72.5 },
-        { name: "Daniel Haehn", room: "M-3-201-20", x: 91.5, y: 70.5 },
-        { name: "Nurit Haspel", room: "M-3-201-09", x: 80.5, y: 86.5 },
-        { name: "Glenn Hoffman", room: "M-3-201-22", x: 91.5, y: 66.5 },
-        { name: "Swami Iyer", room: "M-3-201-14", x: 88.5, y: 88.5 },
-        { name: "Tales Imbiriba", room: "M-3-201-04", x: 80.5, y: 76.5 },
-        { name: "Christopher Kelly", room: "M-3-201-31", x: 79.5, y: 64.5 },
-        { name: "Xiaohui Liang", room: "M-3-201-24", x: 91.5, y: 62.5 },
-        { name: "Tarikul Islam Papon", room: "M-3-201-28", x: 91.5, y: 55.5 },
-        { name: "Amanda Potasznik", room: "M-3-201-31", x: 79.5, y: 64.5 },
-        { name: "Bo Sheng", room: "M-3-201-23", x: 91.5, y: 64.5 },
-        { name: "Dan Simovici", room: "M-3-201-05", x: 80.5, y: 78.5 },
-        { name: "Torna Soro", room: "M-3-201-32", x: 81.5, y: 64.5 },
-        { name: "Jun Suzuki", room: "M-3-201-15", x: 90.5, y: 88.5 },
-        { name: "Duc Tran", room: "M-3-201-18", x: 91.5, y: 74.5 },
-        { name: "Yinxin Wan", room: "M-3-201-06", x: 80.5, y: 80.5 },
-        { name: "Shichao Pei", room: "M-3-201-05", x: 80.5, y: 78.5 },
-        { name: "Soheil Sepahyar", room: "M-3-201-31", x: 79.5, y: 64.5 },
-        { name: "Leonard David", room: "M-3-201-17", x: 91.5, y: 76.5 },
-        { name: "Gemma Galecia", room: "M-3-201-01", x: 80.5, y: 70.5 },
-        { name: "Elif Gurel", room: "M-3-201-13", x: 86.5, y: 88.5 },
-        { name: "Thomas Mullaly", room: "M-3-201-12", x: 84.5, y: 88.5 },
-        { name: "Antonio Pera", room: "M-3-201-34", x: 84.5, y: 64.5 },
-        { name: "Debbie Wade", room: "M-3-201-11", x: 82.5, y: 88.5 }
+        { name: "Ozgun Babur", room: "M-3-201-02", x: 80.5, y: 72.5, url: "https://www.cs.umb.edu/~ozgun" },
+        { name: "Temitayo Banjo", room: "M-3-201-32", x: 81.5, y: 64.5, url: "" },
+        { name: "Stephen Chang", room: "M-3-201-03", x: 80.5, y: 74.5, url: "https://www.cs.umb.edu/~stchang/" },
+        { name: "Tiago Cogumbreiro", room: "M-3-201-16", x: 91.5, y: 77.0, url: "https://cogumbreiro.github.io/" },
+        { name: "Jane H. DeBlois", room: "M-3-201-32", x: 81.5, y: 64.5, url: "https://www.cs.umb.edu/~hdeblois" },
+        { name: "Wei Ding", room: "M-3-201-07", x: 80.5, y: 82.5, url: "http://www.cs.umb.edu/~ding" },
+        { name: "Funda Durupinar", room: "M-3-201-08", x: 80.5, y: 84.5, url: "http://www.cs.umb.edu/~fundad" },
+        { name: "Kenneth Fletcher", room: "M-3-201-21", x: 91.5, y: 68.5, url: "" },
+        { name: "Gabriel Ghinita", room: "M-3-201-19", x: 91.5, y: 72.5, url: "http://www.cs.umb.edu/~gghinita/" },
+        { name: "Daniel Haehn", room: "M-3-201-20", x: 91.5, y: 70.5, url: "http://www.cs.umb.edu/~haehn" },
+        { name: "Nurit Haspel", room: "M-3-201-09", x: 80.5, y: 86.5, url: "http://www.cs.umb.edu/~nurith" },
+        { name: "Glenn Hoffman", room: "M-3-201-22", x: 91.5, y: 66.5, url: "http://www.cs.umb.edu/~ghoffman" },
+        { name: "Swami Iyer", room: "M-3-201-14", x: 88.5, y: 88.5, url: "http://www.cs.umb.edu/~siyer" },
+        { name: "Tales Imbiriba", room: "M-3-201-04", x: 80.5, y: 76.5, url: "https://talesimbiriba.github.io" },
+        { name: "Christopher Kelly", room: "M-3-201-31", x: 79.5, y: 64.5, url: "" },
+        { name: "Xiaohui Liang", room: "M-3-201-24", x: 91.5, y: 62.5, url: "http://www.faculty.umb.edu/xiaohui.liang" },
+        { name: "Tarikul Islam Papon", room: "M-3-201-28", x: 91.5, y: 55.5, url: "https://www.cs.umb.edu/~tpapon/" },
+        { name: "Amanda Potasznik", room: "M-3-201-31", x: 79.5, y: 64.5, url: "https://blogs.umb.edu/potasznikresearch/" },
+        { name: "Bo Sheng", room: "M-3-201-23", x: 91.5, y: 64.5, url: "http://www.cs.umb.edu/~shengbo" },
+        { name: "Dan Simovici", room: "M-3-201-05", x: 80.5, y: 78.5, url: "http://www.cs.umb.edu/~dsim" },
+        { name: "Torna Soro", room: "M-3-201-32", x: 81.5, y: 64.5, url: "https://www.cs.umb.edu/~tsoro/" },
+        { name: "Jun Suzuki", room: "M-3-201-15", x: 90.5, y: 88.5, url: "http://www.cs.umb.edu/~jxs" },
+        { name: "Duc Tran", room: "M-3-201-18", x: 91.5, y: 74.5, url: "http://www.cs.umb.edu/~duc" },
+        { name: "Yinxin Wan", room: "M-3-201-06", x: 80.5, y: 80.5, url: "https://www.cs.umb.edu/~ywan/" },
+        { name: "Shichao Pei", room: "M-3-201-05", x: 80.5, y: 78.5, url: "https://www.cs.umb.edu/~spei2/" },
+        { name: "Soheil Sepahyar", room: "M-3-201-31", x: 79.5, y: 64.5, url: "https://soheilappear.github.io/soheilsepahyar/" },
+        { name: "Leonard David", room: "M-3-201-17", x: 91.5, y: 76.5, url: "" },
+        { name: "Gemma Galecia", room: "M-3-201-01", x: 80.5, y: 70.5, url: "" },
+        { name: "Elif Gurel", room: "M-3-201-13", x: 86.5, y: 88.5, url: "" },
+        { name: "Thomas Mullaly", room: "M-3-201-12", x: 84.5, y: 88.5, url: "" },
+        { name: "Antonio Pera", room: "M-3-201-34", x: 84.5, y: 64.5, url: "" },
+        { name: "Debbie Wade", room: "M-3-201-11", x: 82.5, y: 88.5, url: "" }
     ];
 
-    // Populate the table
-    const tableBody = document.getElementById('tableBody');
-    facultyData.sort((a, b) => a.name.localeCompare(b.name)).forEach(prof => {
-        const row = document.createElement('tr');
-        row.innerHTML = `<td>${prof.name}</td><td>${prof.room}</td>`;
-        row.onclick = () => movePin(prof.x, prof.y);
-        tableBody.appendChild(row);
+    /* ---------- Build a room → faculty index ---------- */
+    const roomMap = {}; // room -> { room, x, y, profs: [{name, url}] }
+    facultyData.forEach(p => {
+        if (!roomMap[p.room]) roomMap[p.room] = { room: p.room, x: p.x, y: p.y, profs: [] };
+        roomMap[p.room].profs.push({ name: p.name, url: p.url || "" });
     });
+    const rooms = Object.values(roomMap);
 
-    // Move the Pin
-    function movePin(x, y) {
-        const pin = document.getElementById('mapPin');
-        pin.style.left = x + "%";
-        pin.style.top = y + "%";
-        pin.style.display = "block";
+    /* ---------- DOM refs ---------- */
+    const mapWrapper   = document.getElementById('mapWrapper');
+    const mapViewport  = document.getElementById('mapViewport');
+    const baseMap      = document.getElementById('baseMap');
+    const tableBody    = document.getElementById('tableBody');
+    const tooltip      = document.getElementById('markerTooltip');
+    const selectionInfo= document.getElementById('selectionInfo');
+
+    /* ---------- Render markers on the map ---------- */
+    function shortRoom(r) {
+        // M-3-201-02 -> "02"
+        const m = r.match(/-(\d+)$/);
+        return m ? m[1] : r;
     }
 
-    // Search function
-    function filterTable() {
-        let input = document.getElementById("profSearch").value.toUpperCase();
-        let tr = tableBody.getElementsByTagName("tr");
-        for (let i = 0; i < tr.length; i++) {
-            let text = tr[i].textContent || tr[i].innerText;
-            tr[i].style.display = text.toUpperCase().indexOf(input) > -1 ? "" : "none";
+    function renderMarkers() {
+        rooms.forEach(r => {
+            const el = document.createElement('div');
+            el.className = 'room-marker';
+            el.dataset.room = r.room;
+            el.style.left = r.x + '%';
+            el.style.top  = r.y + '%';
+            el.textContent = shortRoom(r.room);
+
+            el.addEventListener('mouseenter', e => showTooltip(r, el));
+            el.addEventListener('mouseleave', hideTooltip);
+            el.addEventListener('click', e => {
+                e.stopPropagation();
+                selectRoom(r.room, { scrollList: true });
+            });
+            mapWrapper.appendChild(el);
+        });
+    }
+
+    /* ---------- Tooltip ---------- */
+    function showTooltip(room, anchorEl) {
+        const profs = room.profs.map(p => `<div class="tt-name">${p.name}</div>`).join('');
+        tooltip.innerHTML = `<div class="tt-room">${room.room}</div>${profs}`;
+        // Position relative to viewport
+        const viewportRect = mapViewport.getBoundingClientRect();
+        const anchorRect   = anchorEl.getBoundingClientRect();
+        const x = anchorRect.left + anchorRect.width / 2 - viewportRect.left;
+        const y = anchorRect.top - viewportRect.top;
+        tooltip.style.left = x + 'px';
+        tooltip.style.top  = y + 'px';
+        tooltip.classList.add('visible');
+    }
+    function hideTooltip() { tooltip.classList.remove('visible'); }
+
+    /* ---------- Render the table ---------- */
+    function renderTable() {
+        const sorted = [...facultyData].sort((a, b) => a.name.localeCompare(b.name));
+        sorted.forEach(prof => {
+            const row = document.createElement('tr');
+            row.dataset.room = prof.room;
+            row.dataset.name = prof.name.toLowerCase();
+            const pageCell = prof.url
+                ? `<a class="page-link" href="${prof.url}" target="_blank" rel="noopener noreferrer" title="Open ${prof.name}'s personal page" onclick="event.stopPropagation()">Visit ↗</a>`
+                : `<span class="page-link none">—</span>`;
+            row.innerHTML = `<td>${prof.name}</td><td class="room-cell">${prof.room}</td><td class="page-cell">${pageCell}</td>`;
+            row.addEventListener('click', () => selectRoom(prof.room, { scrollList: false }));
+            tableBody.appendChild(row);
+        });
+    }
+
+    /* ---------- Selection logic (the "linking") ---------- */
+    let currentRoom = null;
+
+    function selectRoom(room, opts = {}) {
+        currentRoom = room;
+
+        // Update markers
+        document.querySelectorAll('.room-marker').forEach(m => {
+            m.classList.toggle('selected', m.dataset.room === room);
+        });
+
+        // Update table rows
+        let firstRow = null;
+        document.querySelectorAll('#tableBody tr').forEach(tr => {
+            const match = tr.dataset.room === room;
+            tr.classList.toggle('selected', match);
+            if (match && !firstRow) firstRow = tr;
+        });
+        if (opts.scrollList && firstRow) {
+            firstRow.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+        }
+
+        // Update info banner
+        const r = roomMap[room];
+        if (r) {
+            selectionInfo.classList.add('visible');
+            selectionInfo.innerHTML =
+                `<button title="Clear selection" onclick="clearSelection()">×</button>` +
+                `<b>Room ${r.room}</b><br>` +
+                r.profs.map(p => {
+                    return p.url
+                        ? `• <a class="info-link" href="${p.url}" target="_blank" rel="noopener noreferrer">${p.name} ↗</a>`
+                        : `• ${p.name}`;
+                }).join('<br>');
         }
     }
+
+    function clearSelection() {
+        currentRoom = null;
+        document.querySelectorAll('.room-marker.selected').forEach(m => m.classList.remove('selected'));
+        document.querySelectorAll('#tableBody tr.selected').forEach(t => t.classList.remove('selected'));
+        selectionInfo.classList.remove('visible');
+        selectionInfo.innerHTML = '';
+    }
+    window.clearSelection = clearSelection;
+
+    /* ---------- Search filter (filters list AND dims non-matching markers) ---------- */
+    function filterTable() {
+        const q = document.getElementById('profSearch').value.trim().toLowerCase();
+        const matchingRooms = new Set();
+
+        document.querySelectorAll('#tableBody tr').forEach(tr => {
+            const text = tr.textContent.toLowerCase();
+            const visible = !q || text.indexOf(q) > -1;
+            tr.classList.toggle('hidden', !visible);
+            if (visible) matchingRooms.add(tr.dataset.room);
+        });
+
+        document.querySelectorAll('.room-marker').forEach(m => {
+            if (!q) m.classList.remove('dimmed');
+            else m.classList.toggle('dimmed', !matchingRooms.has(m.dataset.room));
+        });
+    }
+    window.filterTable = filterTable;
+
+    /* ---------- Pan & Zoom ---------- */
+    let scale = 1, originX = 0, originY = 0;
+    let isDragging = false, dragStartX = 0, dragStartY = 0, startOriginX = 0, startOriginY = 0;
+    let didDrag = false;
+
+    function applyTransform() {
+        mapWrapper.style.transform = `translate(${originX}px, ${originY}px) scale(${scale})`;
+    }
+
+    function fitMap() {
+        // Wait until image known dimensions
+        if (!baseMap.naturalWidth) return;
+        const vp = mapViewport.getBoundingClientRect();
+        const imgW = baseMap.naturalWidth;
+        const imgH = baseMap.naturalHeight;
+        // Set image to its natural size; we'll scale via transform
+        baseMap.style.width  = imgW + 'px';
+        baseMap.style.height = imgH + 'px';
+
+        const sx = vp.width  / imgW;
+        const sy = vp.height / imgH;
+        scale = Math.min(sx, sy) * 0.96;
+        originX = (vp.width  - imgW * scale) / 2;
+        originY = (vp.height - imgH * scale) / 2;
+        applyTransform();
+    }
+
+    function zoomAt(factor, cx, cy) {
+        const newScale = Math.max(0.2, Math.min(6, scale * factor));
+        const k = newScale / scale;
+        // Keep the point under (cx,cy) stationary
+        originX = cx - k * (cx - originX);
+        originY = cy - k * (cy - originY);
+        scale = newScale;
+        applyTransform();
+    }
+
+    /* Mouse wheel zoom */
+    mapViewport.addEventListener('wheel', e => {
+        e.preventDefault();
+        const rect = mapViewport.getBoundingClientRect();
+        const cx = e.clientX - rect.left;
+        const cy = e.clientY - rect.top;
+        const factor = e.deltaY < 0 ? 1.15 : 1 / 1.15;
+        zoomAt(factor, cx, cy);
+    }, { passive: false });
+
+    /* Drag to pan */
+    mapViewport.addEventListener('mousedown', e => {
+        isDragging = true;
+        didDrag = false;
+        dragStartX = e.clientX;
+        dragStartY = e.clientY;
+        startOriginX = originX;
+        startOriginY = originY;
+        mapViewport.classList.add('dragging');
+    });
+    window.addEventListener('mousemove', e => {
+        if (!isDragging) return;
+        const dx = e.clientX - dragStartX;
+        const dy = e.clientY - dragStartY;
+        if (Math.abs(dx) + Math.abs(dy) > 3) didDrag = true;
+        originX = startOriginX + dx;
+        originY = startOriginY + dy;
+        applyTransform();
+    });
+    window.addEventListener('mouseup', () => {
+        isDragging = false;
+        mapViewport.classList.remove('dragging');
+    });
+
+    /* Click on empty map clears selection (but not after a drag) */
+    mapViewport.addEventListener('click', e => {
+        if (didDrag) return;
+        if (e.target.classList && e.target.classList.contains('room-marker')) return;
+        // background click — keep selection (don't clear); could clear if desired:
+        // clearSelection();
+    });
+
+    /* Touch pan + pinch */
+    let lastTouchDist = null;
+    mapViewport.addEventListener('touchstart', e => {
+        if (e.touches.length === 1) {
+            isDragging = true;
+            dragStartX = e.touches[0].clientX;
+            dragStartY = e.touches[0].clientY;
+            startOriginX = originX;
+            startOriginY = originY;
+        } else if (e.touches.length === 2) {
+            isDragging = false;
+            lastTouchDist = touchDist(e);
+        }
+    }, { passive: true });
+    mapViewport.addEventListener('touchmove', e => {
+        if (e.touches.length === 1 && isDragging) {
+            const dx = e.touches[0].clientX - dragStartX;
+            const dy = e.touches[0].clientY - dragStartY;
+            originX = startOriginX + dx;
+            originY = startOriginY + dy;
+            applyTransform();
+        } else if (e.touches.length === 2) {
+            const d = touchDist(e);
+            if (lastTouchDist) {
+                const rect = mapViewport.getBoundingClientRect();
+                const cx = (e.touches[0].clientX + e.touches[1].clientX) / 2 - rect.left;
+                const cy = (e.touches[0].clientY + e.touches[1].clientY) / 2 - rect.top;
+                zoomAt(d / lastTouchDist, cx, cy);
+            }
+            lastTouchDist = d;
+        }
+    }, { passive: true });
+    mapViewport.addEventListener('touchend', e => {
+        if (e.touches.length < 2) lastTouchDist = null;
+        if (e.touches.length === 0) isDragging = false;
+    });
+    function touchDist(e) {
+        const dx = e.touches[0].clientX - e.touches[1].clientX;
+        const dy = e.touches[0].clientY - e.touches[1].clientY;
+        return Math.hypot(dx, dy);
+    }
+
+    /* Zoom buttons */
+    document.getElementById('zoomIn').addEventListener('click', () => {
+        const r = mapViewport.getBoundingClientRect();
+        zoomAt(1.25, r.width / 2, r.height / 2);
+    });
+    document.getElementById('zoomOut').addEventListener('click', () => {
+        const r = mapViewport.getBoundingClientRect();
+        zoomAt(1 / 1.25, r.width / 2, r.height / 2);
+    });
+    document.getElementById('zoomReset').addEventListener('click', fitMap);
+
+    /* ---------- Init ---------- */
+    renderMarkers();
+    renderTable();
+
+    if (baseMap.complete && baseMap.naturalWidth) {
+        fitMap();
+    } else {
+        baseMap.addEventListener('load', fitMap);
+    }
+    window.addEventListener('resize', () => {
+        // Only refit on big resizes; otherwise keep current view
+        // Comment out next line if you'd prefer to keep zoom on resize.
+        fitMap();
+    });
 </script>
 
 </body>
