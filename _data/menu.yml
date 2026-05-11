@@ -101,6 +101,8 @@
       link: faculty
     - title: Staff
       link: staff
+    - title: Faculty Map
+      link: WEB/people/faculty-map/
 
 - title: Research
   link: research
