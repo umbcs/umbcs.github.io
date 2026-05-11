@@ -1,148 +1,68 @@
-# UMass Boston CS Website Modernization
+# UMass Boston CS Website Update (CS410 Project)
 
-This repository contains a Jekyll modernization of the University of Massachusetts Boston Computer Science Department website. The final handoff branch focuses on completed static-site work: structured content, course data generation, JSON-LD metadata, and browser-based department search.
+This repository contains changes we made as a group to update the CS website for our long project.
 
-The branch intentionally excludes unfinished runtime prototypes for MCP/Ollama and external faculty-profile scraping. Those experiments were removed so the delivered project matches what is ready for static hosting and professor review.
+The live site can be viewed at: **[https://tseer.github.io/cs-website/](https://tseer.github.io/cs-website/)**
 
-## Delivered Features
+## Delivered Features & Team Contributions
 
-- Modernized Jekyll site structure using layouts, includes, SCSS, YAML data, and collection content.
-- Standardized course pages with structured front matter for course code, name, credits, prerequisites, co-requisites, descriptions, keywords, and related entities.
-- Structured people, group, program, resource, and course metadata for consistent rendering and discovery.
-- JSON-LD metadata for pages, people, groups, programs, courses, breadcrumbs, and list/hub pages.
-- Generated course-offering data in `_data/course_offerings.yml`, built from schedule spreadsheets with `scripts/build_course_offerings.py`.
-- Current and upcoming course offering summaries on course pages.
-- Browser-based structured site search at `/search`.
-- Static machine-readable indexes:
-  - `site-index.json`
-  - `search-data.json`
-  - `search/index.json`
-  - `llms.txt`
+### 1. Site Architecture, AI Readiness & Search (Austin)
+- **Modernized Jekyll Architecture:** Modernized Jekyll site structure using layouts, includes, SCSS, YAML data, and collection content.
+- **Course & Metadata Standardization:** Standardized course pages with structured front matter for course code, name, credits, prerequisites, and descriptions. Structured people, group, program, and resource metadata for consistent rendering and discovery.
+- **Search & JSON-LD:** Added JSON-LD metadata for pages, courses, and people to ensure better search accuracy and more reliable AI responses. Implemented a static client-side search interface (`/search`) with a local in-browser index.
+- **Course Offerings Generator:** Built an automated Python pipeline (`scripts/build_course_offerings.py`) to generate course-offering data from schedule spreadsheets.
+- **Faculty Profiles:** Faculty cards intenttionally link to generated internal profile pages to keep navigation consistent while supporting structured data.
+- **Chimera HPC:** Added a dedicated page for the Chimera HPC.
 
-`llms.txt` is kept as optional machine-readable discovery metadata. It does not imply that the final branch includes a chatbot, MCP server, local model runtime, or hosted AI service.
+### 2. Interactive Prerequisite Chart & Decap CMS (Tsering)
+- **Interactive Prerequisite Chart ([Live](https://tseer.github.io/cs-website/planner)):** Built a dynamic, interactive visual chart (`/planner`) using Cytoscape.js to easily visualize course requirements. Students can click on a course node to open an info panel with the full course descrisption, and live schedule that is fetch from umb catalog. Also, selecting a course highlkights the connecting edges (arrows) to show what course it unlock.
+- Branch: tse/interactive-prereq-chart
 
-## Search
+- **Decap CMS Admin Dashboard:** Created early in the project to add a user-friendly admin dashboard. Configured `admin/config.yml` to map Jekyll collections and enabled GitHub authentication, allowing non-technical users to update content safely. *Note: This feature is currently on a separate branch (`tse-add-cms`) and has not yet been merged to `main`.*
 
-The `/search` page is a static client-side search interface. It loads `/search/index.json`, builds a local in-browser index, ranks matching courses, faculty, programs, groups, facilities, resources, and pages, then renders links to matching site content.
+### 3. Office Map Improvements (Calvin)
+- **Interactive Map Updates:** Updated the CS department map to be more interactive, allowing students to easily locate exactly what building and room professor offices are in directly from the map.
+- Branch: calvin/interactive-map
+  
+### 4. CS Server Guide (Krina)
+- **Dedicated Server Guide ([Live](https://tseer.github.io/cs-website/cs-server-guide)):** Created a beginner-friendly guide covering basic terminal commands, programming examples, and step-by-step instructions for utilizing the CS servers.
 
-The search page does not call MCP, Ollama, external scraping code, or a hosted language model.
+### 5. Homepage Redesign (Apurva)
+- **Homepage UI:** Modernized the homepage UI, improving the overall layout, visual design.
+- Branch: homepage-update1
+---
 
-`search-data.json` is a broader static retrieval/search export advertised in the page head as machine-readable JSON. `site-index.json` provides a compact section-oriented site index.
+## Technical Details
 
-## Faculty Profiles
+### Course Offerings Maintenance(Austin feature)
 
-Faculty cards intentionally link to generated internal profile pages under `/people/<person-slug>/`. Original external or personal faculty pages are preserved in each `_people/*.md` file's `same_as` field and rendered from the internal profile page. This keeps navigation consistent while supporting structured data, site search, and AI-ready indexing.
-
-## Course Offerings
-
-Course offerings are generated from schedule spreadsheet files stored in the repository. The generator:
-
-- auto-discovers files matching schedule naming patterns such as `schedule_fall_2025.xlsx` and `schedule_spring_2026.xlsx`
-- normalizes terms into academic-year order
-- builds course and instructor relationship data
-- writes `_data/course_offerings.yml`
-
-**Important maintenance note:** adding or updating schedule spreadsheet files does not automatically update the website. After any course-offering spreadsheet is added, removed, renamed, or edited, rerun the generator before rebuilding/deploying the site:
+**Important maintenance note:** Adding or updating schedule spreadsheet files does not automatically update the website. After any course-offering spreadsheet is added, removed, renamed, or edited, you must rerun the generator before rebuilding/deploying the site:
 
 ```bash
 python3 scripts/build_course_offerings.py
 ```
+This is a major design point of the catalog system: future maintainers can keep the catalog current by dropping in new schedule XLSX files, rerunning the generator, and then rebuilding the static Jekyll site. If this script is not rerun, `_data/course_offerings.yml` will remain stale.
 
-This is a major design point of the catalog system: future maintainers can keep the catalog current by dropping in new schedule XLSX files, rerunning the generator, and then rebuilding the static Jekyll site. If this script is not rerun, `_data/course_offerings.yml` will remain stale and the course catalog/current-offering sections will not reflect the new spreadsheet data.
-
-Recommended update workflow:
-
-```bash
-python3 scripts/build_course_offerings.py
-bundle exec jekyll build --config _config.yml,_config_csserver.yml
-```
-
-## Local Build
-
-Install dependencies:
-
-```bash
-bundle install
-```
+### Local Build Instructions
 
 Serve locally:
-
 ```bash
-bundle exec jekyll serve --config _config.yml,_config_local.yml
+bundle exec jekyll serve
 ```
-
-Build with the server config:
-
-```bash
-bundle exec jekyll build --config _config.yml,_config_csserver.yml
-```
-
-Clean generated output:
-
-```bash
-bundle exec jekyll clean
-```
-
-## Repository Structure
-
-```text
-.
-├── _config*.yml
-├── _data/
-├── _groups/
-├── _includes/
-├── _layouts/
-├── _people/
-├── _sass/
-├── WEB/
-├── scripts/
-├── search/
-├── llms.txt
-├── site-index.json
-└── search-data.json
-```
-
-## Removed From Final Handoff
-
-The final branch removes unfinished prototype work that was not part of the completed static website deliverable:
-
-- `mcp/`
-- local MCP server scripts and stdio clients
-- local Ollama grounded-chat script
-- MCP client configuration examples
-- external faculty-profile scraping script
-- generated external faculty enrichment data
-
-The remaining site builds from hand-authored content, Jekyll templates, static data, generated course offerings, and static search indexes.
-
 ## Contributors
 
-Original Spring 2021 CS410.net team:
+**Current Team (CS410 Project):**
+- Apurva (Homepage UI)
+- Austin Ashworth (Search, Structured Data, Course Generator)
+- Calvin (Interactive Map)
+- Krina (CS Server Guide)
+- Tsering (Decap CMS, Prerequisite Chart)
 
-- John Kilfeather
-- Jeffrey Handorff
-- Yiming Jin
-- Dennis Popovs
-- Duyanh Nguyen
-- Ritesh Shah
-- Ananya Jude
-- Sinan Liu
-- Jonathan Ohop
+*Original Spring 2021 CS410.net team:* John Kilfeather, Jeffrey Handorff, Yiming Jin, Dennis Popovs, Duyanh Nguyen, Ritesh Shah, Ananya Jude, Sinan Liu, Jonathan Ohop.
 
-Spring 2024 modernization team:
+*Spring 2024 modernization team:* Branden Favre, Riley Choquette, Khushbu Kapadia, Mehya N. Tambi, Bhavana Manneni, Jacob Jashwanth Patoju.
 
-- Branden Favre
-- Riley Choquette
-- Khushbu Kapadia
-- Mehya N. Tambi
-- Bhavana Manneni
-- Jacob Jashwanth Patoju
-
-Additional final handoff updates:
-
-- Austin Ashworth
-
-See `WEB/about/thankyou.markdown` for the in-site attribution page.
+See `WEB/about/thankyou.markdown` for the full in-site attribution page.
 
 ## License
 
