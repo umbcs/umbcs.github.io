@@ -4,7 +4,7 @@ layout: page
 
 <section class="hero-viewport gradient-overlay">
     
-    <img src="/WEB/slideshow/{{ page.img }}" class="hero-image">
+    <img src="{{ '/WEB/slideshow/' | append: page.img | relative_url }}" class="hero-image">
 
     <button class="slider-arrow prev-arrow" onclick="moveSlide(-1)">&#10094;</button>
     <button class="slider-arrow next-arrow" onclick="moveSlide(1)">&#10095;</button>
