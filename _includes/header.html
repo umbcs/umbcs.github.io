@@ -1,21 +1,20 @@
 <header class="site-header" role="banner">
   <div class="header-top">
-    <div class="wrapper">
-      <a href="https://www.umb.edu/" style="padding-left:0px"><b>University of Massachusetts Boston</b></a>
-      <a href="https://portal.cs.umb.edu/faq/">FAQs</a>
-      <a href="https://portal.cs.umb.edu/accounts/login/" target="_blank"
-        >Portal Login</a
-      >
+    <div class="wrapper header-top-flex"> <a href="https://www.umb.edu/" class="univ-link">University of Massachusetts Boston</a>
+      <div class="header-top-links">
+        <a href="/answers-to-faqs">FAQs</a>
+        <a href="https://portal.cs.umb.edu/accounts/login/" target="_blank">Portal Login</a>
+      </div>
     </div>
   </div>
 
   <div class="header-bottom">
-    <a href="{{ '/' | relative_url }}" style='text-decoration: none; color:black;'>
-      <div class="wrapper">
-        <p>Department of</p>
-        <p>COMPUTER SCIENCE</p>
-      </div>
-    </a>
+    <div class="wrapper">
+      <a href="{{ '/' | relative_url }}" class="dept-branding-link">
+        <span class="dept-label">Department of</span>
+        <span class="dept-name">COMPUTER SCIENCE</span>
+      </a>
+    </div>
   </div>
 
   <div class="header-menu">

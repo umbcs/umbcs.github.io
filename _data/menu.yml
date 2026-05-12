@@ -122,6 +122,8 @@
   index_items:
     - name: "Site Search"
       url: "/search"
+    - name: "FAQs"
+      url: "/answers-faqs"
     - name: "CS Department IT Policies and Procedures"
       url: "/cs-department-it-policies"
     - name: "Office Hours"
@@ -129,6 +131,8 @@
   submenu:
     - title: Site Search
       link: search
+    - title: FAQs
+      link: answers-faqs
     - title: CS Department IT Policies and Procedures
       link: cs-department-it-policies
       #link: CS_dept_IT_Policies.pdf

@@ -80,3 +80,88 @@ function timer(){
   }
   next(dr, false);
 }
+
+document.addEventListener('DOMContentLoaded', () => {
+  const slides = document.querySelectorAll('.carousel-slide');
+  const nextBtn = document.querySelector('.next-btn');
+  const prevBtn = document.querySelector('.prev-btn');
+  const carouselContainer = document.querySelector('.carousel-container');
+  
+  let currentSlide = 0;
+  let slideInterval;
+  const intervalTime = 5000; // Time between slides in milliseconds (5000 = 5 seconds)
+
+  // Core function to change the active slide
+  function showSlide(index) {
+    slides.forEach((slide) => slide.classList.remove('active'));
+    slides[index].classList.add('active');
+  }
+
+  // Logic to calculate the next/prev slide indexes
+  function nextSlide() {
+    currentSlide = (currentSlide + 1) % slides.length; 
+    showSlide(currentSlide);
+  }
+
+  function prevSlide() {
+    currentSlide = (currentSlide - 1 + slides.length) % slides.length;
+    showSlide(currentSlide);
+  }
+
+  // Timer functions
+  function startSlideShow() {
+    slideInterval = setInterval(nextSlide, intervalTime);
+  }
+
+  function stopSlideShow() {
+    clearInterval(slideInterval);
+  }
+
+  // Next Arrow Click
+  if (nextBtn) {
+    nextBtn.addEventListener('click', () => {
+      nextSlide();
+      stopSlideShow(); // Stop and restart timer so it doesn't double-skip
+      startSlideShow();
+    });
+  }
+
+  // Previous Arrow Click
+  if (prevBtn) {
+    prevBtn.addEventListener('click', () => {
+      prevSlide();
+      stopSlideShow();
+      startSlideShow();
+    });
+  }
+
+  // Pause the slideshow when the user's mouse is over the image
+  if (carouselContainer) {
+    carouselContainer.addEventListener('mouseenter', stopSlideShow);
+    carouselContainer.addEventListener('mouseleave', startSlideShow);
+  }
+
+  // Kick off the slideshow when the page loads
+  startSlideShow();
+});
+
+document.addEventListener('DOMContentLoaded', () => {
+  // --- CAROUSEL ARROW LOGIC (Keep your existing hero carousel JS above this) ---
+  
+  // --- CARD SLIDER LOGIC ---
+  const cardSlider = document.getElementById('card-slider');
+  const nextCardBtn = document.querySelector('.next-card-btn');
+  const prevCardBtn = document.querySelector('.prev-card-btn');
+
+  if (cardSlider && nextCardBtn && prevCardBtn) {
+    nextCardBtn.addEventListener('click', () => {
+      // Scroll right by the exact width of the visible container
+      cardSlider.scrollBy({ left: cardSlider.clientWidth, behavior: 'smooth' });
+    });
+
+    prevCardBtn.addEventListener('click', () => {
+      // Scroll left by the exact width of the visible container
+      cardSlider.scrollBy({ left: -cardSlider.clientWidth, behavior: 'smooth' });
+    });
+  }
+});
