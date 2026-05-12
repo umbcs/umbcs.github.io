@@ -37,7 +37,7 @@ schema_collection_key: resources
 
 - [Site Search]({{ '/search' | relative_url }})
 
--[View FAQs]({{ '/answers-to-faqs' | relative_url }})
+- [View FAQs]({{ '/answers-to-faqs' | relative_url }})
 
 - [CS Department IT Policies and Procedures]({{ '/cs-department-it-policies' | relative_url }})
 
