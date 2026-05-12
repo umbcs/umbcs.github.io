@@ -1,13 +1,46 @@
-<div class="slide-box">
-    <div class="slide-frames">
-      {% for pg in site.pages %}
-        {% if pg.layout == 'slideshow' %}
-      <div class="slide-frame" style="background-image: url('WEB/slideshow/{{ pg.img }}')">
-        <span>{{ pg.title }}</span>
-      </div>
-        {% endif %}
-      {% endfor %}
+<div class="carousel-container">
+  
+  <div class="carousel-slide active">
+    <div class="slide-ambient-bg" style="background-image: url('{{ '/WEB/slideshow/02.jpg' | relative_url }}');"></div>
+    <img src="{{ '/WEB/slideshow/02.jpg' | relative_url }}" alt="Computer Science Students" class="carousel-image">
+    <div class="carousel-overlay"></div> 
+    <div class="carousel-content">
+      <h1 class="carousel-headline">Future of Computing</h1>
+      <p class="carousel-subtext">Innovating the world, one line of code at a time.</p>
     </div>
-    <p class="slide-button" onclick="next(0, true)"><</p>
-    <p class="slide-button" onclick="next(1, true)">></p>
   </div>
+
+  <div class="carousel-slide">
+    <div class="slide-ambient-bg" style="background-image: url('{{ '/WEB/slideshow/05.jpg' | relative_url }}');"></div>
+    <img src="{{ '/WEB/slideshow/05.jpg' | relative_url }}" alt="Tech Industry" class="carousel-image">
+    <div class="carousel-overlay"></div> 
+    <div class="carousel-content">
+      <h1 class="carousel-headline">Build the Next Generation</h1>
+      <p class="carousel-subtext">Join a community of builders and creators.</p>
+    </div>
+  </div>
+
+  <div class="carousel-slide">
+    <div class="slide-ambient-bg" style="background-image: url('{{ '/WEB/slideshow/06.png' | relative_url }}');"></div>
+    <img src="{{ '/WEB/slideshow/06.png' | relative_url }}" alt="Hackathon" class="carousel-image">
+    <div class="carousel-overlay"></div> 
+    <div class="carousel-content">
+      <h1 class="carousel-headline">Compete & Create</h1>
+      <p class="carousel-subtext">Annual Undergrad Hackathon</p>
+    </div>
+  </div>
+
+  <div class="carousel-slide">
+    <div class="slide-ambient-bg" style="background-image: url('{{ '/WEB/slideshow/04.jpg' | relative_url }}');"></div>
+    <img src="{{ '/WEB/slideshow/04.jpg' | relative_url }}" alt="CS Department" class="carousel-image">
+    <div class="carousel-overlay"></div> 
+    <div class="carousel-content">
+      <h1 class="carousel-headline">Welcome to the CS Department</h1>
+      <p class="carousel-subtext">Your journey starts here. Dive into AI, cybersecurity, and software engineering at UMass Boston.</p>
+    </div>
+  </div>
+
+  <button class="carousel-btn prev-btn" aria-label="Previous Slide">&#10094;</button>
+  <button class="carousel-btn next-btn" aria-label="Next Slide">&#10095;</button>
+
+</div>

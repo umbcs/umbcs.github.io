@@ -1,7 +1,17 @@
 ---
-layout: page
+layout: page 
 ---
 
-<img src="WEB/slideshow/{{ page.img }}">
+<section class="hero-viewport gradient-overlay">
+    
+    <img src="{{ '/WEB/slideshow/' | append: page.img | relative_url }}" class="hero-image">
 
-{{ content }}
+    <button class="slider-arrow prev-arrow" onclick="moveSlide(-1)">&#10094;</button>
+    <button class="slider-arrow next-arrow" onclick="moveSlide(1)">&#10095;</button>
+
+    <div class="hero-text-wrapper">
+        <h1 class="hero-title">{{ page.title }}</h1>
+        <p class="hero-subtitle">{{ page.subtitle }}</p>
+    </div>
+
+</section>

@@ -13,33 +13,49 @@
   description=programs_index.description
   items=programs_index.index_items
 %}
-<div class="progs">
-    <div>
-        <div>
-            <p>Undergraduate Programs</p>
-            <p>The department offers a BS and BA in Computer Science and a BS in Information Technology.</p>
-            <a href="{{ site.baseurl }}/undergraduate-programs">Read More</a>
-        </div> 
+
+<div class="programs-container">
+  <div class="program-card card-undergrad">
+    <div class="card-bg-img" style="background-image: url('{{ "/WEB/images/undergrad.jpg" | relative_url }}');"></div>
+    <div class="card-color-overlay">
+      <h3 class="card-title">Undergraduate Programs</h3>
+      <div class="card-hidden-content">
+        <p>The department offers a BS and BA in Computer Science and a BS in Information Technology.</p>
+        <a href="{{ '/undergraduate-programs' | relative_url }}" class="read-more-btn">Read More</a>
+      </div>
     </div>
-    <div>
-        <div>
-            <p>Graduate Programs</p>
-            <p>The department of Computer Science at UMass Boston offers programs in graduate studies ...</p>
-            <a href="{{ site.baseurl }}/graduate-programs">Read More</a>
-        </div> 
+  </div>
+
+  <div class="program-card card-grad">
+    <div class="card-bg-img" style="background-image: url('{{ "/WEB/images/grad.jpg" | relative_url }}');"></div>
+    <div class="card-color-overlay">
+      <h3 class="card-title">Graduate Programs</h3>
+      <div class="card-hidden-content">
+        <p>Explore our Master's and Ph.D. offerings designed for advanced research and industry leadership.</p>
+        <a href="{{ '/graduate-programs' | relative_url }}" class="read-more-btn">Read More</a>
+      </div>
     </div>
-    <div>
-        <div>
-            <p>Honors Programs</p>
-            <p>The department offers an Honors Program option for those who qualify. </p>
-            <a href="{{ site.baseurl }}/honors-programs">Read More</a>
-        </div> 
+  </div>
+
+  <div class="program-card card-honors">
+    <div class="card-bg-img" style="background-image: url('{{ "/WEB/images/honors.jpg" | relative_url }}');"></div>
+    <div class="card-color-overlay">
+      <h3 class="card-title">Honors Programs</h3>
+      <div class="card-hidden-content">
+        <p>Challenge yourself with advanced coursework, dedicated mentoring, and unique research opportunities.</p>
+        <a href="{{ '/honors-programs' | relative_url }}" class="read-more-btn">Read More</a>
+      </div>
     </div>
-    <div>
-        <div>
-            <p>Certificate Programs</p>
-            <p>Students whose preparation in Computer Science is insufficient for admission ...</p>
-            <a href="{{ site.baseurl }}/certificate-programs">Read More</a>
-        </div> 
+  </div>
+
+  <div class="program-card card-certs">
+    <div class="card-bg-img" style="background-image: url('{{ "/WEB/images/certificate.jpg" | relative_url }}');"></div>
+    <div class="card-color-overlay">
+      <h3 class="card-title">Certificate Programs</h3>
+      <div class="card-hidden-content">
+        <p>Enhance your technical skillset with specialized, focused coursework for working professionals.</p>
+        <a href="{{ '/certificate-programs' | relative_url }}" class="read-more-btn">Read More</a>
+      </div>
     </div>
+  </div>
 </div>

@@ -28,24 +28,33 @@ table-count: 5
     </div>
   </div>
 
-  <center style='margin-top:10px;'>
-  <strong><a href="{{ '/info' | relative_url }}" target=_blank>IMPORTANT INFORMATION FOR ALL CS STUDENTS!</a>&nbsp;</strong>
-</center>
+  <div class="alert-container">
+    <a href="{{ '/info' | relative_url }}" target="_blank" class="alert-banner">
+      <span class="alert-label">NOTICE</span>
+      <span class="alert-text">Important Information for all CS Students</span>
+      <span class="alert-arrow">→</span>
+    </a>
+  </div>
+
 
   <div class="home-top">
+    <div class="home-top">
+  
     <div class="wrapper">
       <div class="home">
         {%- if page.title -%}
-        <h1 class="page-heading">{{ page.title }}</h1>
+        <h1 class="section-title" style="margin-top: 20px; margin-bottom: 15px;">{{ page.title }}</h1>
         {%- endif -%}
         {% include page-summary.html %}
 
         <div class="wrap-table">
-          {% include table.html %}
+          
         </div>
       </div>
 
       {% include umass-programms.html %}
+
+      {% include info-cards.html %}
 
       {% include follow-buttons.html %}
     </div>

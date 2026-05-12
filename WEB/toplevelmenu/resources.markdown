@@ -37,6 +37,8 @@ schema_collection_key: resources
 
 - [Site Search]({{ '/search' | relative_url }})
 
+- [View FAQs]({{ '/answers-to-faqs' | relative_url }})
+
 - [CS Department IT Policies and Procedures]({{ '/cs-department-it-policies' | relative_url }})
 
 - [Dreamspark/Microsoft Imagine](https://e5.onthehub.com/WebStore/Security/Signin.aspx?ws=9bd8fe3d-d29b-e011-969d-0030487d8897&vsro=8&rurl=%2fWebStore%2fProductsByMajorVersionList.aspx%3fws%3d9bd8fe3d-d29b-e011-969d-0030487d8897%26vsro%3d8%26JSEnabled%3d1)

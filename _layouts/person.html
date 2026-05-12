@@ -36,30 +36,17 @@ layout: page
           <dd>{{ page.office }}</dd>
         </div>
         {% endif %}
-        {% if page.works_for %}
+        {% if page.same_as and page.same_as.size > 0 %}
         <div>
-          <dt>Department</dt>
-          <dd>{{ page.works_for }}</dd>
-        </div>
-        {% endif %}
-        {% if page.affiliations and page.affiliations.size > 0 %}
-        <div>
-          <dt>Affiliation</dt>
-          <dd>{{ page.affiliations | join: ", " }}</dd>
+          <dt>External Profile</dt>
+          <dd>
+            {% for link in page.same_as %}
+            <a href="{{ link }}" target="_blank" rel="noopener">Faculty Website</a></li>
+            {% endfor %}
+          </dd>
         </div>
         {% endif %}
       </dl>
-
-      {% if page.same_as and page.same_as.size > 0 %}
-      <section class="person-profile-links" aria-labelledby="person-external-profiles">
-        <h2 id="person-external-profiles">External Profiles</h2>
-        <ul>
-        {% for link in page.same_as %}
-          <li><a href="{{ link }}" target="_blank" rel="noopener">Faculty Website</a></li>
-        {% endfor %}
-        </ul>
-      </section>
-      {% endif %}
     </div>
   </div>
 
