@@ -3,94 +3,70 @@ title: "Contact Us"
 layout: page
 permalink: "/contact-us"
 ---
-
 Please refer to an appropriate point of contact from the list below.
 
-# Department of Computer Science
+### Department of Computer Science
 
-University of Massachusetts Boston <br />
-100 Morrissey Boulevard <br />
-Boston, MA 02125 <br />
-Phone: 617.287.6475 <br />
-Fax: 617.287.6433 <br />
+University of Massachusetts Boston\
+100 Morrissey Boulevard\
+Boston, MA 02125\
+Phone: 617.287.6475\
+Fax: 617.287.6433\
 Email: csinfo "at" cs.umb.edu
 
----
+### Administrative Office
+Location: M-3-211
 
-# Administrative Office
+### Department Chair
 
-`Office`: M-3-211
+[Nurit Haspel](https://www.cs.umb.edu/~nurith/)\
+Office: M-3-201-9\
+Phone: 617-287-6414\
+Email: nurit.haspel "at" umb.edu
 
----
+### Undergraduate Program Director (Computer Science)
 
-# UNIX Lab
+[Bo Sheng](https://www.cs.umb.edu/~shengbo/)\
+Office: M-3-201-23\
+Phone: 617-287-6468\
+Email: bo.sheng "at" umb.edu
 
-`Location`: McCormack Hall, 3rd Floor, Room 731
+### Undergraduate Program Director (Information Technology)
 
----
+[Glenn Hoffman](https://www.cs.umb.edu/~ghoffman/)\
+Office: M-3-201-22\
+Phone: 617-287-6466\
+Email: glenn.hoffman "at" umb.edu
 
-# Department Chair
+### Graduate Program Director
 
-[Marc Pomlun](https://www.cs.umb.edu/~marc/) \
-`Office`: M-3-201-9 \
-`Email`: marc.pomplun@umb.edu
+[Funda Durupinar Babur](https://www.cs.umb.edu/~fundad/)\
+Office: M-3-201-8\
+Phone: 617.287.6491\
+Email: funda.durupinarbabur "at" umb.edu
 
----
+### Seminar Coordinator
 
-# Undergraduate Program Director (Computer Science)
+[Tiago Cogumbreiro](https://www.umb.edu/directory/tiagocogumbreiro/)\
+Office: M-3-201-16\
+Phone: 617.287.6479\
+Email: tiago.cogumbreiro "at" umb.edu
 
-[Nurit Haspel](https://www.cs.umb.edu/~nurith/) \
-`Office`: M-3-201-4 \
-`Phone`: 617-287-6414 \
-`Email`: nurit.haspel@umb.edu
+### Administrative Assistant
 
----
+[Debbie Wade](https://www.umb.edu/directory/debbiewade/)\
+Office: M-3-201\
+Phone: 617.287.6476\
+Email: debbie.wade "at" umb.edu
 
-# Undergraduate Program Director (Information Technology)
+### Graduate Program Secretary
 
-[Glenn Hoffman](https://www.cs.umb.edu/~ghoffman/) \
-`Office`: M-3-201-22 \
-`Phone`: 617-287-6466 \
-`Email`: glenn.hoffman@umb.edu
+[Gemma Galecia](https://www.umb.edu/directory/gemmagalecia/)\
+Office: M-3-201\
+Phone: 617.287.6441\
+Email: gemma.galecia "at" umb.edu
 
----
+### Webmaster
 
-# Graduate Program Director
-
-[Dan Simovici](https://www.cs.umb.edu/~dsim/) \
-`Office`: M-3-201-5 \
-`Phone`: 617.287.6472 \
-`Email`: dan.simovici@umb.edu
-
----
-
-# Seminar Coordinator
-
-[Tiago Cogumbreiro](https://www.umb.edu/directory/tiagocogumbreiro/) \
-`Office`: M-3-201-16 \
-`Phone`: 617.287.6479 \
-`Email`: tiago.cogumbreiro@umb.edu
-
----
-
-# Administrative Assistant
-
-[Debbie Wade](https://www.umb.edu/directory/debbiewade/) \
-`Office`: M-3-201 \
-`Phone`: 617.287.6476 \
-`Email`: debbie.wade@umb.edu
-
----
-
-# Graduate Program Secretary
-
-[Gemma Galecia](https://www.umb.edu/directory/gemmagalecia/) \
-`Office`: M-3-201 \
-`Phone`: 617.287.6441 \
-`Email`: gemma.galecia@umb.edu
-
----
-
-# Webmaster
-
-`Email`: webassist@cs.umb.edu
+[Swami Iyer](https://www.cs.umb.edu/~siyer)\
+Email: webassist "at" cs.umb.edu
