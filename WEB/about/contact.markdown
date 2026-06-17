@@ -47,10 +47,9 @@ Email: funda.durupinarbabur "at" umb.edu
 
 ### Seminar Coordinator
 
-[Tiago Cogumbreiro](https://www.umb.edu/directory/tiagocogumbreiro/)\
-Office: M-3-201-16\
-Phone: 617.287.6479\
-Email: tiago.cogumbreiro "at" umb.edu
+[Tales Imbiriba](https://talesimbiriba.github.io/)\
+Office: M-3-201-04\
+Email: tales.imbiriba "at" umb.edu
 
 ### Administrative Assistant
 
