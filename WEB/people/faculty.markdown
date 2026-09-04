@@ -136,7 +136,7 @@ permalink: "/faculty"
        <a href="https://www.cs.umb.edu/~tpapon/"><img src="/WEB/images/people/tarikulislam_papon.jpg"></a><br>
     <a href="https://www.cs.umb.edu/~tpapon/" target=_blank>Tarikul Islam Papon</a><br>
     Assistant Professor<br>
-    M-3-201-28<br>
+    M-3-201-25<br>
     <!-- 617-287-6791<br> -->
     T.Papon@umb.edu
   <br>
