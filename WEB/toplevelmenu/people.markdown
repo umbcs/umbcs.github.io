@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 ---
 
-Includes bios, photos and contact information of our faculty and staff members.
+Includes photos (where available) and contact information of our faculty and staff members.
 
 - [Faculty](/faculty)
 
