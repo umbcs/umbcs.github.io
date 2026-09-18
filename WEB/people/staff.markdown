@@ -3,7 +3,10 @@ title: "Staff"
 layout: page
 permalink: "/staff"
 ---
+
 <div id='active_staff' class='listing'>
+  <h3 style='width:100%'>Active</h3>
+  
   <div class="person">
     <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
     Leonard David<br>
@@ -12,6 +15,7 @@ permalink: "/staff"
     617-287-6477<br>
     leonard.david@umb.edu
   </div>
+  
   <div class="person">
     <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
     Gemma Galecia<br>
@@ -20,6 +24,7 @@ permalink: "/staff"
     617-287-6441<br>
     gemma.galecia@umb.edu
   </div>
+  
   <div class="person">
     <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
     Elif Gurel<br>
@@ -28,6 +33,7 @@ permalink: "/staff"
     617-287-6448<br>
     elif.gurel@umb.edu
   </div>
+  
   <div class="person">
     <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
     Thomas Mullaly<br>
@@ -36,6 +42,7 @@ permalink: "/staff"
     617-287-6465<br>
     thomas.mullaly@umb.edu
   </div>
+  
   <div class="person">
     <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
     Antonio Pera<br>
@@ -44,6 +51,7 @@ permalink: "/staff"
     617-287-6482<br>
     antonio.pera@umb.edu
   </div>
+  
   <div class="person">
     <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
     Debbie Wade<br>
@@ -55,28 +63,30 @@ permalink: "/staff"
 </div>
 
 <div id='retired_staff' class='listing'>
-  <h3 style='width:100%'>Retired Staff:</h3>
+  <h3 style='width:100%'>Retired</h3>
   
   <div class="person">
     <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
     John Lewis<br>
-    Budget Administrator (retired)<br>
+    Budget Administrator<br>
     john.lewis@umb.edu<br>
     <br>
     <br>
   </div>
+  
   <div class="person">
     <img src="/WEB/images/people/No_Photo_Available.jpg"><br>
     Rick Martin<br>
-    Systems Programmer (retired)<br>
+    Systems Programmer<br>
     richard.martin@umb.edu<br>
     <br>
     <br>
   </div>
+  
   <div class="person">
     <img src="/WEB/images/people/William_Perry.jpg"><br>
     William Perry<br>
-    Systems/Network Administrator (retired)<br>
+    Systems/Network Administrator<br>
     billcc@cs.umb.edu<br>
     <br>
     <br>
