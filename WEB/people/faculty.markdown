@@ -181,7 +181,7 @@ permalink: "/faculty"
   <div class="person">
     <a href="https://www.cs.umb.edu/~tsoro/"><img src="/WEB/images/people/Torna_Omar_Soro.jpg"></a><br>
     <a href="https://www.cs.umb.edu/~tsoro/" target=_blank>Torna Soro</a><br>
-    Lecturer<br>
+    Senior Lecturer<br>
     M-3-201-31<br>
     torna.soro001@umb.edu<br>
     <br>
