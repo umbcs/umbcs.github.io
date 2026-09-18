@@ -20,8 +20,7 @@ permalink: "/faculty"
     <img src="/WEB/images/people/Temitayo_Banjo.jpg"><br>
     Temitayo Banjo<br>
     Lecturer<br>
-    M-3-201-32<br>
-    617.287.6490<br>
+    M-3-201-31<br>
     temitayo.banjo@umb.edu
   </div>
   
@@ -48,6 +47,7 @@ permalink: "/faculty"
     <a href="https://www.cs.umb.edu/~hdeblois" target=_blank>Jane H. DeBlois</a><br>
     Lecturer<br>
     M-3-201-32<br>
+    617-287-6490<br>
     jane.deblois@umb.edu<br>
   </div>
   
@@ -135,7 +135,8 @@ permalink: "/faculty"
     <img src="/WEB/images/people/Christopher_Kelly.jpg"><br>
     Christopher Kelly<br>
     Lecturer<br>
-    M-3-201-31<br>
+    M-3-201-32<br>
+    617-287-6490<br>
     christopher.kelly005@umb.edu<br>
     <br>
   </div>
@@ -163,7 +164,7 @@ permalink: "/faculty"
     <img src="/WEB/images/people/amanda_potasznik.jpg"><br>
     <a href="https://blogs.umb.edu/potasznikresearch/" target=_blank>Amanda Potasznik</a><br>
     Senior Lecturer<br>
-    M-3-201-31<br>
+    M-3-201-32<br>
     617-287-6490<br>
     amanda.potasznik@umb.edu
   </div>
@@ -181,7 +182,7 @@ permalink: "/faculty"
     <a href="https://www.cs.umb.edu/~tsoro/"><img src="/WEB/images/people/Torna_Omar_Soro.jpg"></a><br>
     <a href="https://www.cs.umb.edu/~tsoro/" target=_blank>Torna Soro</a><br>
     Lecturer<br>
-    M-3-201-32<br>
+    M-3-201-31<br>
     torna.soro001@umb.edu<br>
     <br>
   </div>
