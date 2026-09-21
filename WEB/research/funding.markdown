@@ -6,13 +6,46 @@ permalink: "/funding"
 
 PIs and Co-PIs only include members of the UMass Boston Computer Science department.
 
+
+<h3>SPLEEN-US: Open Annotated Spleen Ultrasound Dataset for Precision Neuromodulation</h3>
+
+|Source of funds                   |Massachusetts Life Sciences Center, Bits to Bytes
+|PI(s)                             |[Daniel Haehn](https://danielhaehn.com/)
+|Start Date                        |2026
+|End Date                          |2029
+|Amount                            |$745,400
+
+<h3>NeurodeskEDU: Scalable, Hands-On Training for Modern Neuroimaging Using ACCESS Resources</h3>
+
+|Source of funds                   |National Science Foundation
+|PI(s)                             |[Daniel Haehn](https://danielhaehn.com/)
+|Start Date                        |2026
+|End Date                          |
+|Amount                            |$25,000 in compute credits
+
+<h3>Expanding Culture Change across STEM Disciplines at the University of Massachusetts Public Education System: A Partnership Between UMass Boston (UMB) and Amherst (UMA)</h3>
+
+|Source of funds                   |Sloan Foundation
+|PI(s)                             |[Daniel Haehn](https://danielhaehn.com/)
+|Start Date                        |2025
+|End Date                          |2027
+|Amount                            |$500,000
+
+<h3>iTCGA --- Integrated Training in Computational Genomics and Data Sciences</h3>
+
+|Source of funds                   |National Institutes of Health, U54 Supplement
+|PI(s)                             |[Daniel Haehn](https://danielhaehn.com/)
+|Start Date                        |2023
+|End Date                          |2025
+|Amount                            |$581,237
+
 <h3>Culture Change in Computer Science and Engineering at the University of Massachusetts Public University System</h3>
 
 |Source of funds                   |Sloan Foundation     
 |PI(s)                             |[Daniel Haehn](https://danielhaehn.com/)
 |Start Date                        |February 2023
 |End Date                          |February 2025
-|Amount                            |$499,972.00 (UMB share $184,228) 
+|Amount                            |$499,972 (UMB share $184,228) 
 
 <h3>The Oregon-Massachusetts Mammography Database (OMAMA-DB)</h3>
 
@@ -20,7 +53,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 |PI(s)                             |[Daniel Haehn](https://danielhaehn.com/), [Nurit Haspel](https://www.cs.umb.edu/~nurith/), [Dan Simovici](https://www.cs.umb.edu/~dsim/), [Marc Pomplun](https://www.cs.umb.edu/~marc/)
 |Start Date                        |June 2020
 |End Date                          |June 2023
-|Amount                            |$749,834.00
+|Amount                            |$749,834
 
 <h3>Real-Time Visualization and Precision Targeting in Transcranial Magnetic Stimulation</h3>
 
@@ -28,7 +61,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 |PI(s)                             |[Daniel Haehn](https://danielhaehn.com/)
 |Start Date                        |June 2021
 |End Date                          |June 2023
-|Amount                            |$493,011.00 (UMB share $156,663.00)
+|Amount                            |$493,011 (UMB share $156,663)
 
 <h3>EAGER: III: Collaborative Research: In silico Algorithm for Assessing the Effects of Amino Acid Insertion and Deletion Mutations</h3>
 
@@ -36,7 +69,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 |PI(s)                             |[Nurit Haspel](https://www.cs.umb.edu/~nurith/)
 |Start Date                        |July 2020
 |End Date                          |June 2022
-|Amount                            |$150,000.00 (UMB share $72,684)
+|Amount                            |$150,000 (UMB share $72,684)
 
 <h3>Exploiting Voice Assistant Systems for Early Detection of Cognitive Decline</h3>
 
@@ -52,7 +85,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 |PI(s)                             |[Gabriel Ghinita](https://www.cs.umb.edu/~gghinita/)
 |Start Date                        |Oct. 1, 2019
 |End Date                          |Sep. 30, 2022
-|Amount                            |$209,186.00
+|Amount                            |$209,186
 
 <h3>Digital Marker of Marijuana Intoxication: Measure of Dysfunctional Retinal Gangli</h3>
 
