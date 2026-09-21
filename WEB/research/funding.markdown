@@ -34,7 +34,7 @@ PIs and Co-PIs only include members of the UMass Boston Computer Science departm
 <h3>iTCGA --- Integrated Training in Computational Genomics and Data Sciences</h3>
 
 |Source of funds                   |National Institutes of Health, U54 Supplement
-|PI(s)                             |[Daniel Haehn](https://danielhaehn.com/)
+|Co-PI(s)                          |[Daniel Haehn](https://danielhaehn.com/)
 |Start Date                        |2023
 |End Date                          |2025
 |Amount                            |$581,237
