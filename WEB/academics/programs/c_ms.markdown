@@ -9,9 +9,9 @@ UMass Boston’s computer science master’s program thoroughly prepares student
 
 **Admissions to the Program**
 
-Admission to the MS program is competitive. The GRE general test is required, as well as the completion of a BS degree in Computer Science or a related area. The grade point average in undergraduate studies plays a role in the admission decision as well as recommendation letters.
+Admission to the MS program is competitive. Applicants must hold a BS degree in Computer Science or a related field. Undergraduate grade point average and letters of recommendation carry significant weight in the admission decision. Submission of GRE general test scores is optional.
 
-A combined BS/MS program is available. After completing 90 credits of undergraduate work with a GPA of at least 3.5, our undergraduate students may file for admission to the BS/MS program, which avoids the more complicated direct admission to the MS program.
+A combined BS/MS program is also available. After completing 90 credits of undergraduate coursework with a GPA of at least 3.5, current undergraduate students may apply for the BS/MS program to streamline their admission to the MS degree.
 
 **Degree Requirements**
 
